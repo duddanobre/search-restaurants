@@ -1,9 +1,9 @@
 
 import streamlit as st
 
-st.sidebar.page_link("index.py", label="🏠 Home")
-st.sidebar.page_link("pages/analise.py", label="📊 Análise")
-st.sidebar.page_link("pages/search.py", label="🔍 Buscar restaurante")
+from components.sidebar import sidebar
+
+sidebar()
 
 autores = ["front: Maria Eduarda Roxa Nobre", "dash/metricas: Denise Ramos Soares", "dados: Ana Caroline Vieira Amorim", "engenharia: Carlos Eduardo Oliveira Martins"]
 

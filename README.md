@@ -27,3 +27,6 @@ Trabalho final (LP)
         Carrega o df_final.csv tratado
         Usa a API ArcGIS (Esri) para buscar as coordenadas geográficas (LAT, LNG) de cada endereço
         Salva o resultado final na mesma pasta
+    3. data_inferencias.ipynb
+        Carrega o df_final.csv tratado
+        Cria varias inferencias de teste de integridade e usabilidade dos dados

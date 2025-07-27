@@ -13,6 +13,7 @@ Trabalho final (LP)
     .
     ├── data_cleaning.py      # Etapa 1: Limpeza e padronização dos dados
     ├── data_geolytic.py      # Etapa 2: Geolocalização usando ArcGIS
+    ├── data_inferencias.py      # Etapa 2: Geolocalização usando ArcGIS
     ├── database/
     │   ├── dadosbrutos/      # Dados de entrada (originais)
     │   ├── dadostratados/    # Dados limpos e geolocalizados

@@ -1,0 +1,882 @@
+,NOME,TIPO,ENDERECO,LOCAL,PONTUACAO,NUM_COMENTARIO,TEMPO_MIN_M,TEMPO_MAX_M,TEMPO_MIN,TEMPO_MAX,BAIRRO
+0,Shopping RioMar Fortaleza,cafeteria,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055","Shopping center em Fortaleza, Ceará",4.7,52356,45.0,180.0,0 days 00:45:00,0 days 03:00:00,Papicu
+1,Greta Café,cafeteria,"Av. Antônio Sales, 2960 - Dionísio Torres, Fortaleza - CE, 60135-102",$$,4.7,1094,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Dionísio Torres
+2,Bardo Café,cafeteria,"R. Amélia Benebien, 471 - Papicu, Fortaleza - CE, 60176-010",Cafeteria,4.9,22,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+3,"Go Coffee: Cafés, Chás, Frappes, Chocolate Quente, Cafeteria, Fortaleza CE",cafeteria,"R. Pereira Valente, 578 - Meireles, Fortaleza - CE, 60160-250",Cafeteria,4.6,62,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Meireles
+4,Le Pain Le Café | Aldeota,cafeteria,"Rua Professor Dias da Rocha, 670 - Meireles, Fortaleza - CE, 60170-310",$$$,4.4,1277,20.0,90.0,0 days 00:20:00,0 days 01:30:00,Meireles
+5,Cafeteria Club Café Santa Clara,cafeteria,"Rua Desembargador Lauro Nogueira, 1500 Piso L2 Quiosque 210 - Papicu, Fortaleza - CE, 60175-055",Cafeteria,4.0,25,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+6,Casa Bauducco,cafeteria,"R. Des. Lauro Nogueira, 1500 - loja 1046 - Papicu, Fortaleza - CE, 60175-055",$$,4.7,201,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Papicu
+7,Café Cultive,cafeteria,"R. Maria Tomásia, 1276 - Aldeota, Fortaleza - CE, 60150-170",Cafeteria,4.5,695,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+8,Torra Café,cafeteria,"Rua Marcos Macêdo, 827 - Aldeota, Fortaleza - CE, 60150-190",Cafeteria,4.8,452,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Aldeota
+9,Cafeteria Club Café Santa Clara Reserva da Família - RioMar Fortaleza,cafeteria,"Pça de Alimentação (Q304 - Rua Desembargador Lauro Nogueira, 1500 - Piso L3, R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",Cafeteria,4.1,169,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+10,Amika Coffeehouse,cafeteria,"Av. Desembargador Moreira, 2689 - Dionísio Torres, Fortaleza - CE, 60170-172",$$,4.8,957,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Dionísio Torres
+11,DOLCE GRÃO Cafeteria,cafeteria,"Av. Antônio Sales, 3410 - Cocó, Fortaleza - CE, 60810-350",Cafeteria,4.5,55,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Cocó
+12,l´espresso café - Livraria Leitura RioMar,cafeteria,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-125",Café,4.8,9,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+13,Cafeteria Prosa e Queijos,cafeteria,"Av. Dr. Aldy Mentor, 430 - Cidade 2000, Fortaleza - CE, 60191-106",Cafeteria,4.9,40,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Cidade 2000
+14,Blend Coffee House,cafeteria,"R. Sabino Pires, 17 - Aldeota, Fortaleza - CE, 60150-090",$$,4.6,857,45.0,120.0,0 days 00:45:00,0 days 02:00:00,Aldeota
+15,The Coffee,cafeteria,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",Cafeteria,3.1,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+16,Café 50,cafeteria,"Av. Beira Mar, 4050 - Mucuripe, Fortaleza - CE, 60165-120",Cafeteria,4.4,836,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Mucuripe
+17,Mercado do Café (Aldeota),cafeteria,"R. Maria Tomásia, 531 - Aldeota, Fortaleza - CE, 60150-170",Cafeteria,4.2,701,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+18,Lugano Fortaleza Jardins,cafeteria,"Rua Marcos Macêdo, 454 - Aldeota, Fortaleza - CE, 60170-001",Cafeteria,4.4,39,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Aldeota
+19,Café Senac,cafeteria,"Av. Desembargador Moreira, 1301 - Aldeota, Fortaleza - CE, 60170-002",$$,4.8,100,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+20,pincoffee - Café Rosa - Cafeteria Rosa,cafeteria,"R. Maria Tomásia, 1262 - Aldeota, Fortaleza - CE, 60150-170",Cafeteria,4.1,121,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+21,"Coco Bambu Coffee Break: Cafés, Padaria, Restaurante, Drive Thru, Fortaleza CE",cafeteria,"R. Barão de Aracati, 1060 - Aldeota, Fortaleza - CE, 60115-081",$$$,4.6,584,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Aldeota
+22,The Coffee,cafeteria,"Rua Professor Otávio Lobo, 755 - Loja 25 A - Cocó, Fortaleza - CE, 60192-290",Cafeteria,5.0,22,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cocó
+23,Milklandia Café,cafeteria,"Shopping Rio Mar - Papicu, Fortaleza - CE, 60175-055",Cafeteria,4.1,11,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+24,"Café Jangada: Cafeteria, Crepes, Tapiocas, Sanduiches, Cuscuz em Fortaleza CE",cafeteria,"Av. Beira Mar - Meireles, Fortaleza - CE, 60165-122",Cafeteria,4.3,12,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+25,Empório Café,cafeteria,"Av. Dom Luís, 1200 - Meireles, Fortaleza - CE, 60160-230",Cafeteria,4.7,117,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+26,Tiamate Coffee,cafeteria,"R. Floriano Peixoto, 484 - Centro, Fortaleza - CE, 60310-330",$$,4.5,786,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Centro
+27,Cafeteria Santa Clara,cafeteria,"R. Major Facundo, 500 - Centro, Fortaleza - CE, 60025-100",Cafeteria,4.5,37,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+28,Bleecker Café - Aldeota,cafeteria,"Rua Silva Paulet, 1281 - Aldeota, Fortaleza - CE, 60120-021",$$,4.7,536,25.0,120.0,0 days 00:25:00,0 days 02:00:00,Aldeota
+29,Nupê Café,cafeteria,"Rua Coronel Jucá, 537 - Meireles, Fortaleza - CE, 60170-288",$$,4.7,164,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+30,Benévolo Café e Gelato,cafeteria,"R. Ana Bilhar, 1083 - Meireles, Fortaleza - CE, 60160-110",$$,4.6,1386,20.0,90.0,0 days 00:20:00,0 days 01:30:00,Meireles
+31,Oie Cafeteria,cafeteria,"R. República da Armênia, 1311 - Parque Manibura, Fortaleza - CE, 60821-760",Cafeteria,4.6,145,15.0,90.0,0 days 00:15:00,0 days 01:30:00,Parque Manibura
+32,Tipo.cc - Café e Coworking,cafeteria,"R. José Vilar, 3040 - loja 2 - Dionísio Torres, Fortaleza - CE, 60125-001",Cafeteria,4.7,204,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Dionísio Torres
+33,Cafeteria Tres Coraçoes,cafeteria,"Av. Washington Soares, 85 - 720a - Edson Queiroz, Fortaleza - CE, 60811-900",Cafeteria,4.3,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+34,Duckbill Fortaleza (Beira Mar),cafeteria,"Av. Beira Mar, 2500 - Meireles, Fortaleza - CE, 60165-121 - Meireles, Fortaleza - CE, 60165-120",Cafeteria,4.2,103,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+35,Café & Company,cafeteria,"Av. Engenheiro Alberto Sá, 220 - Papicu, Fortaleza - CE, 60175-395",Cafeteria,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+36,The Coffee,cafeteria,"Av. Dom Luís, 1200 - Meireles, Fortaleza - CE, 60160-230",Cafeteria,4.3,9,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+37,The Coffee Beira Mar,cafeteria,"R. Osvaldo Cruz, 28 - Meireles, Fortaleza - CE, 60125-150",$$,4.6,111,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+38,Mercado do Café - Benfica,cafeteria,"Rua Padre Francisco Pinto, 186 - Gentilândia, Fortaleza - CE, 60020-290",$$,4.2,3780,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Gentilândia
+39,Nüsse Café,cafeteria,"R. Maria Tomásia, 521 - Aldeota, Fortaleza - CE, 60150-170",Cafeteria,4.2,39,20.0,90.0,0 days 00:20:00,0 days 01:30:00,Aldeota
+40,Le Pain Le Café (Jardins Open Mall),cafeteria,"G, Av. Desembargador Moreira, 1031 - Aldeota, Fortaleza - CE, 60160-230",Cafeteria,4.5,285,10.0,60.0,0 days 00:10:00,0 days 01:00:00,Aldeota
+41,Cafeteria Plaza,cafeteria,"Av. Santos Dumont, 2626 - Aldeota, Fortaleza - CE, 60150-160",Café,4.7,11,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+42,Go Coffee Avenida Padre Antônio Tomás,cafeteria,"Av. Padre Antônio Tomás, 2080 - Loja 03 - Aldeota, Fortaleza - CE, 60140-160",Cafeteria,4.6,16,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+43,Brígida cafeteria,cafeteria,"R. Riachuelo, 40 A - Papicu, Fortaleza - CE, 60175-205",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+44,Acclamé Café & Patisserie,cafeteria,"Av. Viena Weyne, 370 - loja 12 - Cambeba, Fortaleza - CE, 60822-180",Cafeteria,4.8,37,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cambeba
+45,Santa Clara Cafeteria Dragão do Mar,cafeteria,"Dragão do Mar Center of Art and Culture - R. Dragão do Mar, 81 - Praia de Iracema, Fortaleza - CE, 60060-390",$$,4.6,562,45.0,90.0,0 days 00:45:00,0 days 01:30:00,Praia De Iracema
+46,Cafeteria Club Café Rituais - Shopping Iguatemi,cafeteria,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60810-060",Cafeteria,3.9,96,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+47,Bleecker Café - Varjota,cafeteria,"R. Frederico Borges, 425 - Varjota, Fortaleza - CE, 60175-040",Cafeteria,4.9,95,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Varjota
+48,The Coffee,cafeteria,"R. Barbosa de Freitas, 1040 - Aldeota, Fortaleza - CE, 60170-021",Cafeteria,4.7,302,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+49,Café Jangada Crepe & Tapioca,cafeteria,"Av. Beira Mar, 2361 - Meireles, Fortaleza - CE, 60165-121",Cafeteria,4.0,12,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+50,Mais1 Café - Fortaleza Centro,cafeteria,"Av. Santos Dumont, 994 - Centro, Fortaleza - CE, 60150-160",Cafeteria,4.6,14,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+51,Yucca Café,cafeteria,"Rua Frei Mansueto, 160 - Meireles, Fortaleza - CE, 60175-070",Bistrô,4.3,48,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+52,Mais1 Café - Aldeota,cafeteria,"Av. Desembargador Moreira, 1800 - Aldeota, Fortaleza - CE, 60170-002",Cafeteria,4.8,15,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+53,Confeitaria Sublime,cafeteria,"R. Eduardo Bezerra, 1276 A - São João do Tauape, Fortaleza - CE, 60130-271",$$,4.5,638,0.0,0.0,0 days 00:00:00,0 days 00:00:00,São João Do Tauape
+54,"Go Coffee Washington Soares: Cafés, Chás, Frappes, Chocolate Quente, Cafeteria, Fortaleza CE",cafeteria,"Av. Washington Soares, 1500 - Luciano Cavalcante, Fortaleza - CE, 60810-350",Cafeteria,4.9,32,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Luciano Cavalcante
+55,O Cafeeiro- Coffee & Bakery,cafeteria,"Av. Santos Dumont, 2284 - Manuel Dias Branco, Fortaleza - CE, 60150-161",Cafeteria,3.3,47,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Manuel Dias Branco
+56,Grão Café,cafeteria,"Edificio Medical Center - Rua Coronel Linhares, 950 - Loja 04 - Aldeota, Fortaleza - CE, 60110-260",Cafeteria,4.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+57,Café das Artes,cafeteria,"Anexo Espaço Cultural UNIFOR - Av. Washington Soares, 1321 - Edson Queiroz, Fortaleza - CE, 60811-905",Cafeteria,4.4,187,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+58,Fantasia Café,cafeteria,"Av. Desembargador Moreira, 629 - Meireles, Fortaleza - CE, 60110-120",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+59,Cafeteria Mio Café,cafeteria,"R. Carolina Sucupira, 400 - Aldeota, Fortaleza - CE, 60140-120",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+60,Casa Bendita,cafeteria,"Av. Rui Barbosa, 888 - Meireles, Fortaleza - CE, 60115-220",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+61,Café Canela,cafeteria,"Av. Dom Luís, 1233 - Aldeota, Fortaleza - CE, 60160-110",Café,3.6,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+62,Akele Café,cafeteria,"R. Lídia Brígido, 857 - loja 2 - Parque Manibura, Fortaleza - CE, 60821-800",Cafeteria,4.9,34,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Parque Manibura
+63,Lis Café,cafeteria,"R. Gonçalves Lêdo, 1226 - Centro, Fortaleza - CE, 60060-325",Cafeteria,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+64,Atelier 1913 Cafés Especiais,cafeteria,"R. Antônio Augusto, 744 - Meireles, Fortaleza - CE, 60110-370",Cafeteria,4.6,47,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+65,Casa do Pão de Queijo RioMar,cafeteria,"R. Des. Lauro Nogueira - Papicu, Fortaleza - CE, 60175-055",Café,4.0,29,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+66,Santa Maria Café,cafeteria,"Av. Pontes Vieira, 2531 - São João do Tauape, Fortaleza - CE, 60130-241",Cafeteria,2.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,São João Do Tauape
+67,Coffe America,cafeteria,"Av. Washington Soares - Edson Queiroz, Fortaleza - CE, 60811-341",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+68,B.LEM,cafeteria,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60810-060",$$,4.4,299,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Edson Queiroz
+69,Vintage Coffee,cafeteria,"R. Joaquim Lima, n:2264 - Papicu, Fortaleza - CE, 60175-005",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+70,Consulado Café,cafeteria,"Av. Bezerra de Menezes, 216 - Farias Brito, Fortaleza - CE, 60325-000",$$,4.3,1399,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Farias Brito
+71,Benévolo Café e Gelato,cafeteria,"Av. Monsenhor Tabosa, 688 - Centro, Fortaleza - CE, 60165-010",$$,4.5,744,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Centro
+72,Vai Café,cafeteria,"Av. Santos Dumont, 2626 - loja 01 - Meireles, Fortaleza - CE, 60150-161",Cafeteria,4.4,14,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+73,Grão Café e Bistrô,cafeteria,"R. Joaquim Nabuco, 2829 - Dionísio Torres, Fortaleza - CE, 60125-121",Restaurante,4.0,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Dionísio Torres
+74,Novo Café,cafeteria,"R. João Carvalho, 800 - Aldeota, Fortaleza - CE, 60140-140",Café,3.3,6,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+75,Don Cookies Coffee House,cafeteria,"Rua Felino Barroso, 1001 - Fátima, Fortaleza - CE, 60050-130",Cafeteria,4.9,14,20.0,60.0,0 days 00:20:00,0 days 01:00:00,Fátima
+76,Café Conceito Bar,cafeteria,"Av. Beira Mar, 3958 - Praia de Iracema, Fortaleza - CE, 60060-610",Cafeteria,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+77,Rose's Cafeteria & Restaurante,cafeteria,"R. Pedro Borges, 33 - Loja 01 - Centro, Fortaleza - CE, 60055-120",Cafeteria,4.8,18,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Centro
+78,Chez Café,cafeteria,"Av. Viena Weyne, 330 - Cambeba, Fortaleza - CE, 60822-180",$$,4.5,366,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cambeba
+79,Cafeteria Santa Clara Luíza Távora,cafeteria,"Av. Santos Dumont, 1589 - Aldeota, Fortaleza - CE, 60160-150",Cafeteria,4.5,380,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Aldeota
+80,Cafe Liguria,cafeteria,"Av. Santos Dumont - Aldeota, Fortaleza - CE, 60150-161",Cafeteria,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+81,Salpetrier Café,cafeteria,"Edifício Scopa Platinum Ao lado da Selfit - Av. Santos Dumont, 1650 - Aldeota, Fortaleza - CE, 60115-191",Cafeteria,4.9,29,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+82,Pâine Panificação Artesanal,cafeteria,"R. Castro Monte, 899 - Varjota, Fortaleza - CE, 60230-175",$$,0.0,0,15.0,60.0,0 days 00:15:00,0 days 01:00:00,Varjota
+83,Central Coffee,cafeteria,"Av. Dom Luís, 300 - Meireles, Fortaleza - CE, 60160-230",Cafeteria,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+84,Café Iracema,cafeteria,"R. Liberato Barroso, SN - Centro, Fortaleza - CE, 60030-160",Cafeteria,4.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+85,Vonet Patisserie e Cafeteria,cafeteria,"R. Joaquim Tôrres, 298 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60135-130",Cafeteria,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+86,Cafeteria La Perla,cafeteria,"R. Gen. Clarindo de Queiroz, 1745 - Box 383 - Centro, Fortaleza - CE, 60015-221",Cafeteria,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+87,Pâine croissanterie,cafeteria,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341",Cafeteria,4.2,27,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Edson Queiroz
+88,Café Portugal,cafeteria,"R. Osvaldo Cruz - Aldeota, Fortaleza - CE, 60140-155",Café,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+89,Bauducco,cafeteria,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341",$$,3.8,13,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Edson Queiroz
+90,cafeteria arte de comer,cafeteria,"R. Frei Humberto - Farias Brito, Fortaleza - CE, 60010-815",Cafeteria,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Farias Brito
+91,The Coffee,cafeteria,"Av. Santos Dumont, 1788 - L04 - Aldeota, Fortaleza - CE, 60150-161",Cafeteria,4.8,45,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+92,Bacio di Latte - Shopping Riomar Fortaleza,cafeteria,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",$$$,3.2,13,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Papicu
+93,Empório da Tapioca,cafeteria,"Rua Professor Dias da Rocha, 800 - Aldeota, Fortaleza - CE, 60170-285",Cafeteria,4.3,246,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Aldeota
+94,Sh82 Café,cafeteria,"R. Floriano Peixoto, 1375 B - Centro, Fortaleza - CE, 60025-130",Cafeteria,5.0,10,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+95,Dona Rocilda- Cafeteria e Doceria,cafeteria,"Av. Pres. Castelo Branco, 2031a - Jacarecanga, Fortaleza - CE, 60312-060",Cafeteria,4.8,31,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Jacarecanga
+96,Padaria e Confeitaria Vovó Joana - Cocó,cafeteria,"Rua Dr. Francisco Matos, 279 - Cocó, Fortaleza - CE, 60176-130",$$,4.5,3456,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Cocó
+97,Montmarttre (Varjota),cafeteria,"Av. Júlio Abreu, 175 - Varjota, Fortaleza - CE, 60160-240",$$,4.5,1665,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Varjota
+98,Saci Pê Tabacaria e Café,cafeteria,"Av. Monsenhor Tabosa, 314 - Praia de Iracema, Fortaleza - CE, 60165-010",Cafeteria,4.6,15,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Praia De Iracema
+99,Go Coffee Abolição,cafeteria,"Av. da Abolição, 2019 - Loja 07 - Meireles, Fortaleza - CE, 60165-075",Cafeteria,4.4,25,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+100,Confeitaria Le Chica,cafeteria,"R. Guilherme Rocha, 1670 - Centro, Fortaleza - CE, 60030-141",$$,4.6,230,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Centro
+101,Jardins Café Fortaleza,cafeteria,"Rua Professor Nogueira, 300 A - Parque Araxá, Fortaleza - CE, 60450-520",Cafeteria,4.6,50,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Parque Araxá
+102,Flôr do Café Confeitaria,cafeteria,"R. Rodrigues Júnior, 996 - Centro, Fortaleza - CE, 60060-000",Confeitaria,4.6,176,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Centro
+103,Tiamate Coffee Aldeota,cafeteria,"Rua Padre Valdevino, 1801 - Loja 5 - Aldeota, Fortaleza - CE, 60135-041",Cafeteria,5.0,23,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+104,Dom Kidrack'S Cafeteria,cafeteria,"Av. Duque de Caxias, 1747 - Centro, Fortaleza - CE, 60035-111",$,4.1,13,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+105,Zelig Café Pinacoteca,cafeteria,"Rua 24 de Maio, 34 - Centro, Fortaleza - CE, 60030-000",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+106,Le pain Le café,cafeteria,"R. Sen. Pompeu - Fortaleza, CE, 60025-001",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,001
+107,Café Ilha,cafeteria,"R. dos Cariris, 43 - Térreo - Praia de Iracema, Fortaleza - CE, 60060-230",Cafeteria,4.6,38,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Praia De Iracema
+108,Café Arretado,cafeteria,"R. Carapinima, 2200 - Benfica, Fortaleza - CE, 60015-290",Cafeteria,3.7,35,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Benfica
+109,Los locos coffee,cafeteria,"R. Floriano Peixoto - Centro, Fortaleza - CE, 60025-130",Cafeteria,5.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+110,Padoca Les Roches,cafeteria,"Parque Manibura, Fortaleza - CE, 60810-350",$$,4.6,485,15.0,60.0,0 days 00:15:00,0 days 01:00:00,Parque Manibura
+111,Santa Maria Café,cafeteria,"(Dentro do Hospital São Camilo) 280, R. Nogueira Acioli - Centro, Fortaleza - CE",Cafeteria,2.8,36,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+112,Emporio do Edu,cafeteria,"Rua Nossa Senhora da Piedade, 11 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60110-492",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+113,Cafeteria deliciosa torta,cafeteria,"Av. Washington Soares, 747 - Edson Queiroz, Fortaleza - CE, 60811-440",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+114,The Coffee,cafeteria,"Av. Beira Mar, 840 - Praia de Iracema, Fortaleza - CE, 60060-610",Cafeteria,4.8,59,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Praia De Iracema
+115,Tapiocaria da Bena,cafeteria,"Rua Santo Antônio, 20 - Benfica, Fortaleza - CE, 60020-090",$,4.8,71,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+116,Caffee Lounge,cafeteria,"Av. Sgt. Hermínio Sampaio, 3100 - Pres. Kennedy, Fortaleza - CE, 60320-504",Cafeteria,3.6,13,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Pres. Kennedy
+117,Fettuccine's Massas & Café,cafeteria,"Rua Padre Luís Figueira, 10 - Aldeota, Fortaleza - CE, 60150-120",Cafeteria,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+118,Empório Del Quartiere,cafeteria,"R. Jaime Pinheiro, 177 - Guararapes, Fortaleza - CE, 60810-250",$$,4.5,428,10.0,60.0,0 days 00:10:00,0 days 01:00:00,Guararapes
+119,Café Entalpia - Bairro de Fátima (Cafeteria Temática),cafeteria,"Av. Aguanambi, 1280 - Loja 5 - Fátima, Fortaleza - CE, 60050-220",Cafeteria,5.0,9,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Fátima
+120,"Uritu Cafés Especiais: Cafés, Utensílios, Empório, Centro, Fortaleza",cafeteria,"Rua Dona Leopoldina, 396 - Centro, Fortaleza - CE, 60110-000",Atacadista de café,4.9,51,15.0,60.0,0 days 00:15:00,0 days 01:00:00,Centro
+121,Coffee cake,cafeteria,"Av. Aguanambi, 1447 - Fátima, Fortaleza - CE, 60055-401",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Fátima
+122,The Coffee,cafeteria,"Av. Washington Soares, 4352 - Loja 04 - Parque Manibura, Fortaleza - CE, 60821-750",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Parque Manibura
+123,Valdemar,cafeteria,"R. Pedro Pereira - Centro, Fortaleza - CE, 60020-030",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+124,Café de Oyá,cafeteria,"R. Manuelito Moreira, 96 - Benfica, Fortaleza - CE, 60025-210",Bar,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+125,Cafeteria Club Café Rituais - Aeroporto Internacional de Fortaleza,cafeteria,"Av. Senador Carlos Jereissati, 3000 - Serrinha, Fortaleza - CE, 60741-900",Cafeteria,3.8,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Serrinha
+126,"Matte & Cia, mate e cia, massas, cafes , caldos, DD Lanches",cafeteria,"R. Floriano Peixoto - Centro, Fortaleza - CE, 60025-130",Lanchonete,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+127,Bacio di Latte - Shopping Iguatemi Fortaleza,cafeteria,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341",$$$,4.5,180,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Edson Queiroz
+128,Fortaleza,cafeteria,"R. Cararú, 04 - Sabiaguaba, Fortaleza - CE, 60835-305",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Sabiaguaba
+129,Cafè Dos Reis,cafeteria,"Av. Washington Soares, 4294 - Edson Queiroz, Fortaleza - CE, 60810-350",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+130,Bellanches,cafeteria,"R. Castro e Silva, 780 - Centro, Fortaleza - CE, 60030-010",Café,4.4,45,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+131,Tapiocariabia,cafeteria,"R. Pedro Pereira, 1592 - Centro, Fortaleza - CE, 60035-001",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+132,Cookie Mania Bairro De Fátima,cafeteria,"Av. Deputado Oswaldo Studart, 40a - Fátima, Fortaleza - CE, 60411-260",Cafeteria,4.8,38,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Fátima
+133,Café do Bigode,cafeteria,"Av. Santos Dumont, 3130 - Aldeota, Fortaleza - CE, 60150-161",Loja,4.8,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+134,Cafeteria Club Café Santa Clara Reserva da Família - Aeroporto Internacional de Fortaleza,cafeteria,"Terminal, Av. Senador Carlos Jereissati, 3000 - Serrinha, Fortaleza - CE, 60741-900",Cafeteria,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Serrinha
+135,Café Viriato,cafeteria,"R. Osvaldo Cruz, 2828 - Dionísio Torres, Fortaleza - CE, 60125-151",Restaurante,4.4,49,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Dionísio Torres
+136,Cafeteria Rituais - Club Café,cafeteria,"R. Des. Lauro Nogueira, 1500 Livraria Cultura RioMar Fortaleza (2° Piso - Papicu, Fortaleza - CE, 60175-055",Cafeteria,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+137,Padaria Evandro Delicatessen,cafeteria,"R. Carlos Vasconcelos, 2169 - Aldeota, Fortaleza - CE, 60115-171",$,4.6,1212,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Aldeota
+138,Jardim Café,cafeteria,"R. Nogueira Acioli, 891 - Aldeota, Fortaleza - CE, 60110-140",Café,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+139,Cafe GGVP,cafeteria,"Av. Desembargador Moreira, 1800 - Aldeota, Fortaleza - CE, 60170-002",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+140,Bless café & açaí,cafeteria,"R. Soriano Albuquerque, 62 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60040-470",Cafeteria,5.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+141,Lanches,cafeteria,"R. da Assunção, 25 - Centro, Fortaleza - CE, 60050-010",Cafeteria,4.5,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+142,Conveniência Vip Service,cafeteria,"R. Barão do Rio Branco, 1385 - Centro, Fortaleza - CE, 60025-061",Cafeteria,4.5,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+143,Santa Maria Gourmet,cafeteria,"Dentro do Hospital Otoclinica - Joaquim Távora (Fortaleza), Fortaleza - CE",Cafeteria,3.6,31,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+144,Go Coffee - Dom Luis,cafeteria,"Av. Júlio Abreu, 120 - loja 5 - Meireles, Fortaleza - CE, 60160-240",Café,4.1,14,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+145,Padaria Romana Delicatessen,cafeteria,"Av. Treze de Maio, 901 - Fátima, Fortaleza - CE, 60040-531",$$,4.3,3000,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Fátima
+146,Tony Machine,cafeteria,"Avenida Imperador, 1060 - Centro, Fortaleza - CE, 60015-050",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+147,Cafeteria Família Café,cafeteria,"R. Rosinha Sampaio, 1869 - Quintino Cunha, Fortaleza - CE, 60346-251",Cafeteria,5.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Quintino Cunha
+148,Bom Café Brasil,cafeteria,"R. da Assunção, 912 - José Bonifacio, Fortaleza - CE, 60420-430",Torrefação de café,5.0,28,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+149,Tapioca & Cia,cafeteria,"R. Gen. Clarindo de Queiroz, 1745 - Centro, Fortaleza - CE, 60015-221",Cafeteria,3.4,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+150,"Coffee, Love & Friends",cafeteria,"Somente Delivery - R. Máximo Linhares, 310 - Cidade dos Funcionários, Fortaleza - CE, 60822-482","Loja de cestas de presente em Fortaleza, Ceará",0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade Dos Funcionários
+151,Café Solar Fortaleza,cafeteria,"R. Leonardo Mota, 295 - Meireles, Fortaleza - CE, 60160-110",Cafeteria,4.8,20,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+152,Madocinhos,cafeteria,"Rua Governador Sampaio - Centro, Fortaleza - CE, 60055-050",Lanchonete,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+153,Tortelê,cafeteria,"R. Des. Lauro Nogueira - Papicu, Fortaleza - CE, 60175-055",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+154,Le Pain Le Café Boulangerie,cafeteria,"R. Monsenhor Catão, 1430 - Aldeota, Fortaleza - CE, 60175-000",Cafeteria,4.5,180,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+155,Catarina Cafe,cafeteria,"Av. Eng. Santana Jr., 999 - Papicu, Fortaleza - CE, 60175-652",Cafeteria,5.0,42,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+156,Panebox Gourmet (Fátima),cafeteria,"Rua Monsenhor Otávio de Castro, 582 - Fátima, Fortaleza - CE, 60050-150",$$,4.3,1192,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Fátima
+157,Le Caféine,cafeteria,"Av Santos Dumont 3130 Quiosque 102, Piso 1, Fortaleza - CE, 60150-162",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,"Av Santos Dumont 3130 Quiosque 102, Piso 1"
+158,Ponto do Guaraná e Cafeteria,cafeteria,"R. Barão de Aracati, 886 - Aldeota, Fortaleza - CE, 60115-081",Lanchonete,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+159,Moncloa Tea Boutique,cafeteria,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-065",Loja de chás,4.8,20,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+160,Sablé Diamant,cafeteria,"Rua Dr. José Lourenço, 1414 - Aldeota, Fortaleza - CE, 60115-280",$$$,4.6,1073,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+161,JN Bolos e Confeitaria,cafeteria,"Rua Solon Pinheiro, 180 - Centro, Fortaleza - CE, 60050-040",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+162,Espaço Vida Saudável Fit Lounge Bem Fica,cafeteria,"R. da Assunção, 1189 - José Bonifacio, Fortaleza - CE, 60050-011",Casa de chá tradicional,4.9,14,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+163,Mais1 Café - Fortaleza,cafeteria,"R. Vicente Leite, 876 - Meireles, Fortaleza - CE, 60170-150",Cafeteria,4.8,22,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+164,Pâine Croissanterie,cafeteria,"R. Des. Lauro Nogueira - Papicu, Fortaleza - CE, 60175-055",Patisserie,4.3,20,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+165,Monstera Café Cultural,cafeteria,"Av. Pontes Vieira, 417 - Dionísio Torres, Fortaleza - CE, 60130-240",Café,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Dionísio Torres
+166,Café Passeio,cafeteria,"Passeio Público - R. Dr. João Moreira - Centro, Fortaleza - CE, 60030-000",$$,4.5,1044,45.0,120.0,0 days 00:45:00,0 days 02:00:00,Centro
+167,Vibe café,cafeteria,"Rua Manuel Queirós, 511A - Cocó, Fortaleza - CE, 60192-220",Cafeteria,3.7,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cocó
+168,Empório Brownie,cafeteria,"R. Carapinima, 2200 - Benfica, Fortaleza - CE, 60015-290",Padaria,4.4,22,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+169,CAFE CARAMELLO FORTALEZA - DISTRIBUIDORA,cafeteria,"R. Tibúrcio Cavalcante, 1675 - Meireles, Fortaleza - CE, 60125-045",Café,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+170,Cheirim Bão,cafeteria,"Av. Santos Dumont, 3131 - Aldeota, Fortaleza - CE, 60150-162",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+171,D’ellas Cafeteria,cafeteria,"Rua Torres Câmara, 181 - Aldeota, Fortaleza - CE, 60150-060",Café,4.4,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+172,Empório do Cacau Brasil,cafeteria,"R. Sen. Pompeu, 2610 - loja 17 - José Bonifacio, Fortaleza - CE, 60025-001",Cafeteria,5.0,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+173,Café Santa Clara,cafeteria,"Av. Washington Soares, 85 - Loja 68 - Messejana, Fortaleza - CE, 60810-350",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Messejana
+174,cafe dek porronda,cafeteria,"R. Barão do Rio Branco, 1006 - Centro, Fortaleza - CE, 60025-060",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+175,Loja Ostara,cafeteria,"R. Castro e Silva, 401 - Centro, Fortaleza - CE, 60030-010",Sorveteria,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+176,Trino Café Montese | Sua cafeteria no Montese,cafeteria,"R. Edite Braga, 1310 - Montese, Fortaleza - CE, 60410-222",Café,4.8,221,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Montese
+177,Tortelê - Riomar Fortaleza,cafeteria,"Rua Desembargador Lauro Nogueira 1500, Piso L2 2052 - Papicu, Fortaleza - CE, 60175-055",Confeitaria,0.0,0,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Papicu
+178,Café Aurora,cafeteria,"Alameda das Boas Noites, 333A - Cidade 2000, Fortaleza - CE, 60190-180",Café,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+179,Vibe 085,cafeteria,"Rua Manuel Queirós, 511 - Cocó, Fortaleza - CE, 60192-220",$$,4.6,172,270.0,270.0,0 days 04:30:00,0 days 04:30:00,Cocó
+180,Launic caralem,cafeteria,"Av. das Graviolas, 1000 - Cidade 2000, Fortaleza - CE, 60190-560",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+181,"Emporio, café, almoço.",cafeteria,"Av. Dioguinho, 4792-4800 - Vicente Pinzon, Fortaleza - CE, 60182-125",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+182,Cafe Marita FORTALEZA CE,cafeteria,"R. Alagoas, 1169 - Demócrito Rocha, Fortaleza - CE, 60440-150",Loja de produtos naturais,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Demócrito Rocha
+183,Bento Cafeteria e Rostisseria,cafeteria,"Rua Padre Valdevino, 1138 - Aldeota, Fortaleza - CE, 60135-040",Restaurante,5.0,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+184,Boutique do Café,cafeteria,"Av. Leste Oeste, 3569 - Cristo Redentor, Fortaleza - CE, 60010-450",Café,4.3,26,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cristo Redentor
+185,ELO COZINHA AFETIVA,cafeteria,"Rua Torres Câmara, 100 - Aldeota, Fortaleza - CE, 60150-060",Cafeteria,5.0,22,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+186,Lindt,cafeteria,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-065",Chocolateria,0.0,0,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Papicu
+187,Livraria Lamarca,cafeteria,"Av. da Universidade, 2475 - Benfica, Fortaleza - CE, 60020-180",Livraria,4.7,752,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+188,Fortaleza,cafeteria,"Vila Bachá, 15 - Meireles, Fortaleza - CE, 60160-050",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+189,Guanabara Pastelaria,cafeteria,"R. Major Facundo, 1003 - Centro, Fortaleza - CE, 60025-100",$,4.7,505,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Centro
+190,Bistrô da Silvestre,cafeteria,"Centro, Fortaleza - CE, 60055-080",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+191,LeCafé,cafeteria,"R. Gen. Clarindo de Queiroz, 1745 - Box 350 - Farias Brito, Fortaleza - CE, 60010-250",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Farias Brito
+192,Candyman bolos e doces,cafeteria,"Alameda das Crisadálias - Cidade 2000, Fortaleza - CE, 60190-380",Confeitaria,5.0,6,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+193,Leão do Sul Pastelaria,cafeteria,"R. Pedro Borges, 193 - Centro, Fortaleza - CE, 60055-110",$$,4.2,454,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Centro
+194,Café Com Óculos,cafeteria,"R. Ildefonso Albano, 1445 - Aldeota, Fortaleza - CE, 60115-000","Ótica em Fortaleza, Ceará",4.0,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+195,Rs Panificadora,cafeteria,"R. Paulo Mendes, 308 - Antonio Diogo, Fortaleza - CE, 60182-410",Padaria,4.6,9,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Antonio Diogo
+196,Mercantinho,cafeteria,"Av. Visconde do Rio Branco, 2412 - José Bonifacio, Fortaleza - CE, 60110-001",Supermercado,4.8,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+197,Brazilian Coffee,cafeteria,"R. Carapinima, 2200 - 139 - Benfica, Fortaleza - CE, 60015-329","Loja de departamento em Fortaleza, Ceará",0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+198,Cafe Caramello C.D.,cafeteria,"R. Tibúrcio Cavalcante - Fortaleza, CE, 60125-045",Café,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,045
+199,Café Nordeste,cafeteria,"Rua Tigipió, 33 - Praia de Iracema, Fortaleza - CE, 60060-420",Café,4.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+200,Indie Bistrô & Arte,cafeteria,"R. Marcondes Pereira, 43 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60130-060",$$,4.5,110,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+201,Nhamy Nhamy Mercado Saudável,delivery de comida,"Av. Viena Weyne, 370 - loja 10 - Cambeba, Fortaleza - CE, 60822-180",Restaurante,5.0,20,20.0,90.0,0 days 00:20:00,0 days 01:30:00,Cambeba
+202,Verdelima Restaurante,delivery de comida,"R. Joaquim Nabuco, 1283 - Aldeota, Fortaleza - CE, 60125-055",$$,4.5,477,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Aldeota
+203,Divina Comida,delivery de comida,"Rua Desembargador Leite Albuquerque, 920 - Aldeota, Fortaleza - CE, 60150-100",$$,0.0,0,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Aldeota
+204,Delivery Menu,delivery de comida,"R. Osvaldo Cruz, 2085 - Dionísio Torres, Fortaleza - CE, 60125-151",Delivery,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Dionísio Torres
+205,Delivery da Silvana e Kelson,delivery de comida,"Alameda Maria da Glória - Cidade 2000, Fortaleza - CE, 60190-180",Restaurante de comida caseira,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+206,Saladex,delivery de comida,"Rua Frei Mansueto, 160 - Meireles, Fortaleza - CE, 60175-070",$$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+207,"Carneiro do Ordones Jovita: Churrasco, Pratos Executivos, Cerveja, Restaurante, Delivery Fortaleza CE",delivery de comida,"Av. Jovita Feitosa, 289 - Parquelândia, Fortaleza - CE, 60455-410",Restaurante,0.0,0,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Parquelândia
+208,Brasileirinho Delivery,delivery de comida,"R. Costa Barros, 941 - Loja 04 e 05 - Aldeota, Fortaleza - CE, 60160-280",$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+209,Divina Comida,delivery de comida,"Rua Torres Câmara, 135 - Aldeota, Fortaleza - CE, 60150-060",$$,0.0,0,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Aldeota
+210,China In Box Praia,delivery de comida,"Av. Santos Dumont, 6945 - Manuel Dias Branco, Fortaleza - CE, 60175-057",$$,0.0,0,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Manuel Dias Branco
+211,"Porpino Burger: Hambúrguer, Batata Frita, Hamburgueria Delivery Fortaleza CE",delivery de comida,"Av. Senador Virgílio Távora, 597 - Meireles, Fortaleza - CE, 60170-265",$$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+212,Frango Chicken Delivery,delivery de comida,"R. José Vilar, 734 - Meireles, Fortaleza - CE, 60125-025",Delivery,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+213,Rafael Marmitaria Delivery,delivery de comida,"R. Costa Barros, 249 - Aldeota, Fortaleza - CE, 60160-280",Restaurante de comida para viagem,5.0,19,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+214,"Habib's Parque Shopping: Esfirra, Kibe, Sanduíche, Delivery, Fortaleza CE",delivery de comida,"R. Dr. Gilberto Studart, 155 - Loja 34, 35 e 36 - Cocó, Fortaleza - CE, 60192-105",$$,0.0,0,10.0,60.0,0 days 00:10:00,0 days 01:00:00,Cocó
+215,Ceará Food,delivery de comida,"R. Gonçalves Lêdo, 1541 - Loja 2 - Centro, Fortaleza - CE, 60110-261",Restaurante de comida caseira,5.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+216,China in Box,delivery de comida,"Av. Santos Dumont, 1206 - Aldeota, Fortaleza - CE, 60150-160",$$,4.5,608,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+217,"NBS Burguer: Hambúrgueres, Hot Dog, Hamburgueria, Delivery, Fortaleza CE",delivery de comida,"R. Beni Carvalho, 677 - Dionísio Torres, Fortaleza - CE, 60135-400",Hamburgueria,0.0,0,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Dionísio Torres
+218,Comida de Vó Delivery,delivery de comida,"R. Cuiabá, 190 - Jóquei Clube, Fortaleza - CE, 60510-055",Delivery,4.3,11,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Jóquei Clube
+219,"Habib's Aldeota: Esfirra, Kibe, Sanduíche, Delivery, Fortaleza CE",delivery de comida,"Av. da Abolição, 1780 - Meireles, Fortaleza - CE, 60165-080",$$,0.0,0,20.0,60.0,0 days 00:20:00,0 days 01:00:00,Meireles
+220,Gosto Leve,delivery de comida,(85) 3221-6052,,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,6052
+221,"Two Brothers Cocó: Pizza, Massas, Calzones, Pizzaria, Delivery, Fortaleza CE",delivery de comida,"R. Batista de Oliveira, 1071 - Cocó, Fortaleza - CE, 60192-340",Pizzaria,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cocó
+222,La Forneria Delivery,delivery de comida,"R. Andrade Furtado, 2115 B - Cocó, Fortaleza - CE, 60192-085",$$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cocó
+223,"Grow Healthy Food: Alimentação Saudável, opções Veganas em Fortaleza",delivery de comida,"Stação 24h - Av. da Abolição, 2400 - Meireles, Fortaleza - CE, 60165-080",Restaurante de café da manhã,4.4,91,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+224,"Olli's Burger: Hamburgueria, Batata Frita, Sobremesa, Delivery, Fortaleza CE",delivery de comida,"R. Ana Bilhar, 1111 - Meireles, Fortaleza - CE, 60160-110",Hamburgueria,0.0,0,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Meireles
+225,"Habib's Treze de Maio: Esfirra, Kibe, Sanduíche, Delivery, Fortaleza CE",delivery de comida,"Av. Treze de Maio, 1746 - Fátima, Fortaleza - CE, 60040-531",$$,4.0,5071,15.0,60.0,0 days 00:15:00,0 days 01:00:00,Fátima
+226,"Grand Gourmet Pizzaria: Pizza Crocante, Marmitaria, Delivery em Fortaleza",delivery de comida,"Rua Afonso Celso, 547 - Aldeota, Fortaleza - CE, 60140-190",$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+227,China Gourmet,delivery de comida,"R. Rodrigues Júnior, 1063 - Centro, Fortaleza - CE, 60110-001",$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+228,"Parrileiro: Restaurante, Churrasco, Happy Hour, Parrila, Delivery em Fortaleza CE",delivery de comida,"Av. Dep. Joaquim de Figueiredo Correia, 194 - Cambeba, Fortaleza - CE, 60822-360",$$,0.0,0,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Cambeba
+229,Tigela Refeições e Lanches,delivery de comida,"R. Eduardo Garcia, 13 - Aldeota, Fortaleza - CE, 60150-100",Restaurante self-service,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+230,Pasto e Pizzas,delivery de comida,"Av. Júlio Abreu, 160 - Varjota, Fortaleza - CE, 60160-240",Restaurante,0.0,0,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Varjota
+231,Delicias da Iaiá,delivery de comida,"Rua Dr. Ribamar Lobo, N° 20 - Papicu, Fortaleza - CE, 60176-145",Restaurante brasileiro,0.0,0,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Papicu
+232,Vatapá Delivery,delivery de comida,"Av. José Jatahy, 1563 - Jacarecanga, Fortaleza - CE, 60010-681",Restaurante,4.6,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Jacarecanga
+233,Menu Brands,delivery de comida,"Rua Padre Valdevino, 2520 - Aldeota, Fortaleza - CE, 60135-041",Delivery,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+234,Júnior da Picanha,delivery de comida,"Av. Nilo Gomes de Soares, 201 - Cidade 2000, Fortaleza - CE, 60190-630",$$,0.0,0,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Cidade 2000
+235,Pizzaria Bem na Hora,delivery de comida,"Alameda Telma - Cidade 2000, Fortaleza - CE, 60190-290",Pizzaria,4.9,18,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+236,Sra. Quentinha Fortaleza Self-Service E Delivery,delivery de comida,"R. Barão do Rio Branco, 2251 - Centro, Fortaleza - CE, 60011-060",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+237,"Padaria Portugália: Panificadora, Confeitaria, Delivery, Cocó, Fortaleza CE",delivery de comida,"Rua Professor Otávio Lobo, 755 - Cocó, Fortaleza - CE, 60192-290",$$,0.0,0,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Cocó
+238,Qué do Quê Restaurante Lanches,delivery de comida,"Rua General Tertuliano Potiguara, 313 - Aldeota, Fortaleza - CE, 60135-280",Restaurante fast-food,0.0,0,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Aldeota
+239,Pizza To Go,delivery de comida,"R. Eduardo Garcia, 1000 - Aldeota, Fortaleza - CE, 60150-100",Pizzaria,4.4,51,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+240,"Ordo's Burguer: Hambúrgueres, Hot Dogs, Hamburgueria, Delivery Fortaleza CE",delivery de comida,"Av. Jovita Feitosa, 279 - Parquelândia, Fortaleza - CE, 60455-410",$$,0.0,0,45.0,120.0,0 days 00:45:00,0 days 02:00:00,Parquelândia
+241,"Barney's Burger Fábrica: Hamburgueria, Sobremesas, Delivery em Fortaleza CE",delivery de comida,"Vila, R. Doctor Antônio Goes, 1125 - casa 7 - Aldeota, Fortaleza - CE, 60115-120",Hamburgueria,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+242,"Two Brothers Aldeota: Pizza, Massas, Calzones, Pizzaria, Delivery, Fortaleza CE",delivery de comida,"R. Alfredo Severo, 112 - Aldeota, Fortaleza - CE, 60150-040",Pizzaria,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+243,Restaurante Fogão150,delivery de comida,"R. Barão de Aracati, 150 - Meireles, Fortaleza - CE, 60115-080",$$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+244,"Camarada Camarão: Camarões, Peixes, Happy Hour, Restaurante, Fortaleza CE",delivery de comida,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",$$$,0.0,0,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Papicu
+245,Vai Já Lanches,delivery de comida,"Rua Professor Álvaro Costa, 806 - Vicente Pinzon, Fortaleza - CE, 60182-014",Lanchonete,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+246,Sushi-Bar e Pizzaria FV Delivery,delivery de comida,"666, Av. Dos Jangadeiros - Vicente Pinzon, Fortaleza - CE, 60175-440",Pizzaria,4.0,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+247,Ôxe Galeteria e Marmitaria Delivery,delivery de comida,"R. Gonçalves Lêdo, 48 - Praia de Iracema, Fortaleza - CE, 60110-261",Restaurante,3.7,6,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+248,Bill Esfiha Delivery,delivery de comida,"Av. Aguanambi, 926 - José Bonifacio, Fortaleza - CE, 60055-402",Delivery,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+249,Marmitas e Lanches,delivery de comida,"R. República da Armênia, 110 - Parque Manibura, Fortaleza - CE, 60821-760",Lanchonete,3.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Parque Manibura
+250,Marmitaria marmitex quentinha restaurante Comidinha caseira da marcia delivery 989309177,delivery de comida,"Rua Professor Carvalho, 3084 - Altos - Joaquim Távora (Fortaleza), Fortaleza - CE, 60120-340",Restaurante brasileiro,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+251,Brittus Pizza,delivery de comida,"R. Nogueira Acioli, 2001 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60356-581",$,0.0,0,15.0,60.0,0 days 00:15:00,0 days 01:00:00,Joaquim Távora (Fortaleza)
+252,Marmitaria Delivery,delivery de comida,"R. Agapito dos Santos, 465 - Centro, Fortaleza - CE, 60010-250",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+253,Menu Alimentação Saudável,delivery de comida,"R. Norvinda Píres, 90 - Aldeota, Fortaleza - CE, 60150-280",$$,0.0,0,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Aldeota
+254,Duque de Coxinhas,delivery de comida,"R. Gonçalves Lêdo, 175 - Centro, Fortaleza - CE, 60110-261",Delivery,5.0,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+255,Temperô Food,delivery de comida,"Alameda Telma, 45 - Cidade 2000, Fortaleza - CE, 60190-290",Delivery,3.8,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+256,Comida Saudável e Yakisoba,delivery de comida,"Av. Treze de Maio, 2118 B - Benfica, Fortaleza - CE, 60040-531",Restaurante de comida caseira,4.5,20,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+257,Dieta Já,delivery de comida,"Centro, Fortaleza - CE, 60050-040",Delivery,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+258,Casa da Comida,delivery de comida,"R. Sen. Pompeu, 1099 L2 - Loja 101 A 106 - Centro, Fortaleza - CE, 60025-000",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+259,Mini Menu Fortaleza,delivery de comida,"Av. Viena Weyne, 370 - loja 10 - Cambeba, Fortaleza - CE, 60822-180",Restaurante,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cambeba
+260,Naturallís Comida Saudável,delivery de comida,"Rua Josias Paulo de Sousa, 120 - Vicente Pinzon, Fortaleza - CE, 60184-110",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+261,Restaurante Frederico Delivery,delivery de comida,"Av. Barão de Studart, 855 - Aldeota, Fortaleza - CE, 60120-000",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+262,Coco Bambu - Dom Pastel,delivery de comida,"R. Carlos Vasconcelos, 996 - Aldeota, Fortaleza - CE, 60115-170",$$$,0.0,0,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Aldeota
+263,Restaurante e Marmitaria Tô Com Fome,delivery de comida,"Av. Rogaciano Leite, 1860A - Cocó, Fortaleza - CE, 60821-070",Lanchonete,4.5,15,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cocó
+264,Marmitaria Comida Caseira,delivery de comida,"R. Coronel Manuel Jesuíno - Mucuripe, Fortaleza - CE, 60175-270",Restaurante de comida caseira,4.3,18,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Mucuripe
+265,Mangusta Restaurante e Pizzaria,delivery de comida,"R. da Assunção, 1195 - José Bonifacio, Fortaleza - CE, 60040-230",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+266,Pizzaria & Restaurante do Mar,delivery de comida,"Av. César Cals, 1089 - Vicente Pinzon, Fortaleza - CE, 60182-035",Pizzaria,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+267,Marmitaria Sabor Delivery,delivery de comida,"Odernes Figueredo, 73, Rua Doutor José Lino, 260 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60135-260",Delivery,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+268,"Saladinha Top: Saladas, Congelados, Alimentação Saudável, Delivery em Fortaleza CE",delivery de comida,"R. Mário Alencar Araripe, 1080 - Lagoa Sapiranga (Coité), Fortaleza - CE, 60833-163",Saladas prontas,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Lagoa Sapiranga (Coité)
+269,Restaurante e Marmitaria da Flávia,delivery de comida,"Av. Dioguinho, 4360 - Vicente Pinzon, Fortaleza - CE, 60183-712",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+270,Tequenhosemolhos,delivery de comida,"São João do Tauape, Fortaleza - CE, 60130-300",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,São João Do Tauape
+271,We Love Pizza,delivery de comida,"Av. Pontes Vieira, 726 - Fátima, Fortaleza - CE, 60130-240",Delivery de Pizza,4.3,469,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Fátima
+272,Paradaise Gourmet,delivery de comida,"Rua Dona Leopoldina, 53 - Centro, Fortaleza - CE, 60110-000",Delivery de Pizza,4.5,29,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+273,Sabor no Prato Lanches e Marmitas,delivery de comida,"R. Santo Amaro, 68 - Vicente Pinzon, Fortaleza - CE, 60181-750",Restaurante de comida caseira,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+274,"Carneiro do Ordones Butiquim: Restaurante, Drinks, Carnes, Delivery em Fortaleza",delivery de comida,"R. Azevedo Bolão, 570 - Parquelândia, Fortaleza - CE, 60450-675",$$,0.0,0,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Parquelândia
+275,Boteco da Panelada Self-service e Marmita.Temos delivery,delivery de comida,"R. Joaquim Magalhães, 140 - Loja 01 - Benfica, Fortaleza - CE, 60040-160",$$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+276,Sabor de Mar,delivery de comida,"Av. Desembargador Moreira, 256 - Meireles, Fortaleza - CE, 60170-000",$$,4.2,148,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Meireles
+277,Empório de Fátima,delivery de comida,"Av. Deputado Oswaldo Studart, 250 - Fátima, Fortaleza - CE, 60415-040",$$,0.0,0,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Fátima
+278,Delicie Do Casal 20,delivery de comida,"Av. Beira Mar - Meireles, Fortaleza - CE, 60165-120",Restaurante de comida caseira,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+279,brotÔ congelados,delivery de comida,"R. Eduardo Salgado - Aldeota, Fortaleza - CE, 60150-140",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+280,"NBS Burguer Parquelândia: Hambúrgueres, Hot Dog, Hamburgueria, Delivery, Fortaleza CE",delivery de comida,"Rua Professor Nogueira, 45 - Loja 01 - Parquelândia, Fortaleza - CE, 60450-520",Hamburgueria,0.0,0,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Parquelândia
+281,Feijoada Brasil,delivery de comida,"Av. das Adenanteras, 689a - Cidade 2000, Fortaleza - CE, 60190-560",Delivery,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+282,Mistura Cearense,delivery de comida,"R. da Assunção, 119 - Centro, Fortaleza - CE, 60050-010",Restaurante self-service,0.0,0,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+283,"Barney's Burger Sul: Hamburgueria, Sobremesas, Delivery em Fortaleza CE",delivery de comida,"R. Lourival Correia Pinho, 147 - Parque Manibura, Fortaleza - CE, 60821-720",$$$,0.0,0,20.0,90.0,0 days 00:20:00,0 days 01:30:00,Parque Manibura
+284,Bambolê Lanches,delivery de comida,"Rua do Rosário, 68 - Centro, Fortaleza - CE, 60055-090",Lanchonete,4.1,18,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+285,Take a Juice - Varjota,delivery de comida,"Av. Júlio Abreu, 160 - Loja 13 - Varjota, Fortaleza - CE, 60160-240",$$,4.6,122,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Varjota
+286,Disk marmitaria,delivery de comida,"R. Novo Farol, 174 - Vicente Pinzon, Fortaleza - CE, 60181-005",Restaurante familiar,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+287,Delicious Pizzaria,delivery de comida,"Alameda Das Miosótes, 405 - Cidade 2000, Fortaleza - CE, 60190-490",Delivery de Pizza,4.6,44,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+288,FRM Marmitex Delivery,delivery de comida,"R. Carlos Gomes, 619 - José Bonifacio, Fortaleza - CE, 60025-101",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+289,Baiano Lanches e Comida,delivery de comida,"R. Barão de Aratanha, 80 - Lj 03 - Centro, Fortaleza - CE, 60050-070",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+290,Carlos Lanches,delivery de comida,"R. Antônio Pompeu, 586 - Centro, Fortaleza - CE, 60040-000",Lanchonete,0.0,0,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+291,Dunada Burger,delivery de comida,"M dias branco - R. dos Cajueiros, 1421 - Fortaleza, CE, 60190-620",Hamburgueria,5.0,21,0.0,0.0,0 days 00:00:00,0 days 00:00:00,620
+292,DOM CARIOCA'S,delivery de comida,"Av Dioguinho Praia do Futuro ll, Fortaleza - CE, 60371-809",Pizzaria,3.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Av Dioguinho Praia Do Futuro Ll
+293,"Butcher's 746: Steakhouse, Carnes Nobres, Churrasco, Delivery, Restaurante, Fortaleza CE",delivery de comida,"R. Maria Tomásia, 746 - Aldeota, Fortaleza - CE, 60150-170",$$$,0.0,0,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Aldeota
+294,"Zé, comida na rua",delivery de comida,"Av. Almirante Barroso, 877 - loja 3 - Praia de Iracema, Fortaleza - CE, 60060-440",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+295,Creuza Burguer,delivery de comida,"Alameda Ana Elisa, 34B - Cidade 2000, Fortaleza - CE, 60190-130",$,0.0,0,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Cidade 2000
+296,Frigideira do Jonny Self Service,delivery de comida,"R. Joaquim Nabuco, 1900 - Aldeota, Fortaleza - CE, 60125-055",$$,4.6,2259,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Aldeota
+297,Cozinha Mágica,delivery de comida,"Av. Santos Dumont, 3130 - Aldeota, Fortaleza - CE, 60150-161",Restaurante self-service,0.0,0,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Aldeota
+298,Delicias de Horler,delivery de comida,"Rua Solon Pinheiro, 218 - Centro, Fortaleza - CE, 60050-040",Restaurante,5.0,9,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+299,"Estela Pizza: Pizza Americana, Pizza Doce, Delivery, Pizzaria, Fortaleza CE",delivery de comida,"Vila, R. Doctor Antônio Goes, 1125 - Aldeota, Fortaleza - CE, 60115-120",Pizzaria,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+300,Donadel Food Truck,delivery de comida,"Av. Desembargador Moreira, 2355 - Aldeota, Fortaleza - CE, 60170-173",Restaurante fast-food,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+301,Bom Pasto,delivery de comida,"R. Rocha Lima, 166 - Centro, Fortaleza - CE, 60135-000",Restaurante self-service,0.0,0,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+302,Kêla Pasta,delivery de comida,"Alameda das Tulipas, 408 - Cidade 2000, Fortaleza - CE, 60190-350",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+303,Popizza,delivery de comida,"nao rola - Aldeota, Fortaleza - CE, 60110-301",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+304,Aioli - Delivery de Delícias,delivery de comida,"R. Ildefonso Albano, 870 - Meireles, Fortaleza - CE, 60115-000",Restaurante,4.5,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+305,Marmitaria e Pizzaria Ernane,delivery de comida,"R. Pedro Balbino, 170 - Manuel Dias Branco, Fortaleza - CE, 60191-680",Pizzaria,4.5,19,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Manuel Dias Branco
+306,Comida caseira sabor do goias,delivery de comida,"Av. Almirante Barroso, 980 - Iracema, Fortaleza - CE, 60060-440",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Iracema
+307,Pizzaria Doro,delivery de comida,"R. Pereira Filgueiras, 564 - Centro, Fortaleza - CE, 60160-150",$,0.0,0,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Centro
+308,Coco Bambu Beira Mar,delivery de comida,"Av. Beira Mar, 3698 - Beira Mar, Fortaleza - CE, 60165-121",$$$,4.6,18708,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Beira Mar
+309,Restaurante da Zena,delivery de comida,"R. Meton de Alencar, 549 - Centro, Fortaleza - CE, 60035-160",$$,0.0,0,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Centro
+310,Madruga Varjota,delivery de comida,"R. Coronel Manuel Jesuíno, 652 - Varjota, Fortaleza - CE, 60175-270",Restaurante self-service,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Varjota
+311,Dom Tiziano,delivery de comida,"R. Floriano Peixoto, 799 - Centro, Fortaleza - CE, 60025-131",Restaurante self-service,0.0,0,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+312,Larica Pizzaria,delivery de comida,"Av. Nila Gomes de Soárez, 403 - Cidade 2000, Fortaleza - CE, 60190-630",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+313,Italian Pizza Fortaleza,delivery de comida,"Av. Antônio Sales, 1357 - quiosque 02 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60135-101",Delivery de Pizza,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+314,Fisgo - Delivery de Pescados,delivery de comida,"Av. Antônio Justa, 2380 - Meireles, Fortaleza - CE, 60165-090",Delivery,1.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+315,Restaurante Família e Lanchonete,delivery de comida,"Av. Desembargador Gonzaga, 144 - Cidade dos Funcionários, Fortaleza - CE, 60824-062",Lanchonete,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade Dos Funcionários
+316,Caldos & Sopas da Jane,delivery de comida,"Travessa São João, 6 - Mucuripe, Fortaleza - CE, 60175-510",Delivery,5.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Mucuripe
+317,Restaurante Gramado Self-Service,delivery de comida,"R. Pedro Borges, 33 - Loja 21 - Centro, Fortaleza - CE, 60055-110",Restaurante self-service,0.0,0,30.0,60.0,0 days 00:30:00,0 days 01:00:00,Centro
+318,Beef's - Sanduíche de Churrasco,delivery de comida,"Av. Desembargador Moreira, 2355 - Dionísio Torres, Fortaleza - CE, 60170-002",Restaurante,4.3,12,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Dionísio Torres
+319,Donastela Massas e Recheios,delivery de comida,"R. Major Facundo, 897 - Centro, Fortaleza - CE, 60025-100",Restaurante italiano,3.7,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+320,Rai Lanches,delivery de comida,"R. Pedro Borges, 33 - Centro, Fortaleza - CE, 60055-120",Restaurante fast-food,3.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+321,"Livremente Padaria Sem Glúten, Sem Lactose: Pão, Bolo, Delivery, Fortaleza CE",delivery de comida,"R. Amarílio Cartaxo, 169 - De Lourdes, Fortaleza - CE, 60177-030",Padaria,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,De Lourdes
+322,Juliana's Grill Self-Service,delivery de comida,"R. Barão do Rio Branco, 1396 - Centro, Fortaleza - CE, 60025-060",Restaurante self-service,0.0,0,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Centro
+323,Irene comida saudável,delivery de comida,"Alameda das cravinas, 121 Cidade 2000 Papicu - Cidade 2000, Fortaleza - CE, 60190-320",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+324,Delivery DiFábios,delivery de comida,"R. Carlos Gomes, 199 - José Bonifacio, Fortaleza - CE, 60040-230",Delivery de Pizza,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+325,De Babo Restaurante,delivery de comida,"Rua do Rosário, 86 - Centro, Fortaleza - CE, 60135-050",Restaurante,4.6,172,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+326,Fino Sabor,delivery de comida,"R. J da Penha, 421 - Centro, Fortaleza - CE, 60110-120",$$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+327,Q do Q Self Service Salgados e Lanches,delivery de comida,"Rua General Tertuliano Potiguara, 297 - Aldeota, Fortaleza - CE, 60135-280",Restaurante self-service,3.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+328,Sal e Açucar,delivery de comida,"Avenida Imperador, 1473 - Farias Brito, Fortaleza - CE, 60015-052",Delivery,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Farias Brito
+329,Porquilo Self-Service,delivery de comida,"R. Barão do Rio Branco, 1221 - Centro, Fortaleza - CE, 60025-061",$$,0.0,0,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Centro
+330,Pizza Prime,delivery de comida,"R. Barão de Aratanha, 873 - José Bonifacio, Fortaleza - CE, 60050-071",Delivery de Pizza,4.0,141,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+331,Republic Pizzaria Delivery,delivery de comida,"R. Waldery Uchôa, 188 - Benfica, Fortaleza - CE, 60020-110",Delivery de Pizza,4.4,54,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+332,Jotacê Carnes & Grill - Cocó,delivery de comida,"Alameda das Angélicas, 340 A - Cocó, Fortaleza - CE, 60192-085",Açougue,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cocó
+333,Salty salgados,delivery de comida,"R. dos Cajueiros, 1409 - Manuel Dias Branco, Fortaleza - CE, 60190-620",Lanchonete,3.7,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Manuel Dias Branco
+334,"Açailândia Conceito: Açaí, Cremes, Milk Shake, Pizzas, Delivery em Fortaleza CE",delivery de comida,"R. Conegundes Rodrigues, 425 - Montese, Fortaleza - CE, 60410-226",Loja de açaí,4.8,1240,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Montese
+335,Talita Lanches e Refeições,delivery de comida,"Av. Antônio Sales, 1001 - loja 6 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60135-100",Restaurante,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+336,Restaurante Estação do marisco Fortaleza Ceará,delivery de comida,"R. Frederico Borges, 404 - Meireles, Fortaleza - CE, 60175-040",Restaurante de frutos do mar,5.0,20,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+337,Lucio Lanches,delivery de comida,"B - R. Rodrigues Júnior, 1432 - Centro, Fortaleza - CE, 60060-001",Lanchonete,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+338,Quentinha do Chef,delivery de comida,"R. Antônio Drumond, 165 - Monte Castelo, Fortaleza - CE, 60325-700",Restaurante,3.9,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Monte Castelo
+339,Tropical Restaurante,delivery de comida,"R. da Assunção, 16 - Centro, Fortaleza - CE, 60050-010",$,0.0,0,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+340,Comida D'Cozinha,delivery de comida,"Av. Pres. Castelo Branco, 2435 - Carlito Pamplona, Fortaleza - CE, 60312-060",Lanchonete,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Carlito Pamplona
+341,Picanha's Food Truck,delivery de comida,"Av. Desembargador Moreira, 2355 - Aldeota, Fortaleza - CE, 60170-172",Restaurante,4.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+342,Flavio Lanches,delivery de comida,"Rua Governador Sampaio, 431 - Centro, Fortaleza - CE, 60055-050",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+343,Amigos Sushi,delivery de comida,"R. Vilebaldo Aguiar, 2222 - Cocó, Fortaleza - CE, 60192-035",Restaurante de sushi,3.3,15,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cocó
+344,Lanchonete Hiper Lanche,delivery de comida,"Rua General Bezerril, 593 - Centro, Fortaleza - CE, 60055-100",Lanchonete,4.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+345,Marmitaria e churrasquinho Rosana,delivery de comida,"Miguel calmont 526, Fortaleza - CE, 60821-200",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Miguel Calmont 526
+346,BM Log Express,delivery de comida,"R. Nogueira Acioli, 996 - Centro, Fortaleza - CE, 60110-140",Serviço de entrega,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+347,Amazon Delícia,delivery de comida,"R. Sen. Pompeu, 1579 - Centro, Fortaleza - CE, 60025-001",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+348,Food Brazil,delivery de comida,"R. Major Facundo, 833 - Centro, Fortaleza - CE, 60025-100",Restaurante,0.0,0,30.0,60.0,0 days 00:30:00,0 days 01:00:00,Centro
+349,Cantinho Da Tica,delivery de comida,"R. Cel. Ferraz, 284 - Centro, Fortaleza - CE, 60060-150",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+350,Restaurante Compasso Gourmet,delivery de comida,"R. Pedro 1, 349 - Centro, Fortaleza - CE, 60035-100",$$,0.0,0,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+351,Zoá Gastrobar,delivery de comida,"R. Visc. de Mauá, 2217 - Dionísio Torres, Fortaleza - CE, 60125-161",Restaurante,0.0,0,45.0,120.0,0 days 00:45:00,0 days 02:00:00,Dionísio Torres
+352,Brazinha Grill 2,delivery de comida,"Rua General Bezerril, 590 - Centro, Fortaleza - CE, 60055-100",Restaurante,0.0,0,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+353,Hanna's Restaurante | Self Service | Centro,delivery de comida,"R. Major Facundo, 736 - Centro, Fortaleza - CE, 60025-100",$$,0.0,0,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Centro
+354,Acarajé da Ieda,delivery de comida,"Esquina da Praça do Ferreira com, R. Floriano Peixoto - Centro, Fortaleza - CE, 60025-230",$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+355,Macarronada É Massa,delivery de comida,"R. Gen. Sampaio, 1235 - Centro, Fortaleza - CE, 60020-030",Restaurante italiano,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+356,Mercantil Vegano,delivery de comida,"R. Major Facundo, 1826 - José Bonifacio, Fortaleza - CE, 60025-101",Fabricante de alimentos,4.4,18,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+357,Play Lanches,delivery de comida,"R. Liberato Barroso, 675 - Centro, Fortaleza - CE, 60030-160",Lanchonete,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+358,Catina Primu's Self-service,delivery de comida,"R. da Assunção, 35 - Centro, Fortaleza - CE, 60050-010",$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+359,Bambs Bar e Restaurante,delivery de comida,"R. Floriano Peixoto, 1166 - Centro, Fortaleza - CE, 60025-131",Bar,4.7,30,25.0,90.0,0 days 00:25:00,0 days 01:30:00,Centro
+360,Restaurante Sabores Maia,delivery de comida,"R. Gen. Murilo Borges, 571 - Cais do Porto, Fortaleza - CE, 60180-010",Restaurante familiar,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cais Do Porto
+361,Irmão Lanches,delivery de comida,"Av. Visconde do Rio Branco, 1719 - Centro, Fortaleza - CE, 60055-170",$,0.0,0,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Centro
+362,"Pecorino Bar & Trattoria: Massas, Vinhos, Delivery, Fortaleza CE",delivery de comida,"R. Frederico Borges, 585 - Meireles, Fortaleza - CE, 60175-040",Restaurante italiano,4.8,12,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+363,Tios Comidas Caseiras,delivery de comida,"Av. Dolor Barreira, 259 - Vicente Pinzon, Fortaleza - CE, 60181-140",Restaurante,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+364,Maria Clara Self Service,delivery de comida,"Rua General Bezerril, 503 - Centro, Fortaleza - CE, 60055-100",Restaurante,0.0,0,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Centro
+365,Restaurante Nonas,delivery de comida,"Rua Conselheiro Tristão, 236 - Centro, Fortaleza - CE, 60050-100",$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+366,Jotacê Carnes & Grill - Benfica,delivery de comida,"Av. Domingos Olímpio, 387 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60040-081",Açougue,3.5,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+367,Giappone Sushibar,delivery de comida,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",Restaurante de sushi,4.1,33,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+368,Carioca's Restaurant e Pizzaria,delivery de comida,"Rua Tavares Coutinho, 1782 - Varjota, Fortaleza - CE, 60160-140",Pizzaria,4.8,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Varjota
+369,Point do Pesk Pag,delivery de comida,"Av. Nila Gomes de Soárez, 403 - Cidade 2000, Fortaleza - CE, 60190-630",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+370,L'escale Shopping Central,delivery de comida,"R. Sen. Pompeu, 856 - Centro, Fortaleza - CE, 60025-000",$$,4.4,242,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+371,VóBisa Festas&Eventos,delivery de comida,"R. Barão de Aratanha, 363 - José Bonifacio, Fortaleza - CE, 60050-071",Empresa de organização de eventos,5.0,21,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+372,Restaurante Amaral (o goiano),delivery de comida,"Av. César Cals, 953 - Vicente Pinzon, Fortaleza - CE, 60182-035",Restaurante,0.0,0,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Vicente Pinzon
+373,Açaiteria Sabor a Vida,delivery de comida,"R. Antônio Pompeu, 584 - Centro, Fortaleza - CE, 60040-000",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+374,Bar e Restaurante Dois Irmãos,delivery de comida,"R. Pero Coelho, 136 - Centro, Fortaleza - CE, 60055-170",Restaurante,0.0,0,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+375,Empório Errejota,delivery de comida,"R. Floriano Peixoto, 1063 - Centro, Fortaleza - CE, 60025-131",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+376,Self Service Robinho comida caseira,delivery de comida,"Rua Torres Câmara, 648 - Aldeota, Fortaleza - CE, 60150-060",Restaurante self-service,4.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+377,Neto e Lurdinha Frituras em Geral,delivery de comida,"Av. Beira Mar, 4699 - box 02 - Mucuripe, Fortaleza - CE, 60165-120",Restaurante de frutos do mar,2.7,9,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Mucuripe
+378,Restaurante e Lanchonete Cartaxo,delivery de comida,"Rua Bárbara de Alencar, 940 - Centro, Fortaleza - CE, 60140-025",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+379,Ed jú Lanches,delivery de comida,"R. Floriano Peixoto, 1474 - José Bonifacio, Fortaleza - CE, 60025-131",Lanchonete,5.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+380,Geladinho do Maia,delivery de comida,"R. Jaime Benévolo, 695 - José Bonifacio, Fortaleza - CE, 60050-081",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+381,Yaking food,delivery de comida,"R. Fiscal Vieira, 3472 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60120-170",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+382,"Iaçá: Açai, Distribuidora, Polpa, Açai do Pará, Açai Iaça, Belém, Fortaleza CE",delivery de comida,"R. Sen. Alencar, 652 - Loja 2 - Centro, Fortaleza - CE, 60030-050",Delivery,5.0,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+383,Cafeteria Prosa e Queijos,delivery de comida,"Av. Dr. Aldy Mentor, 430 - Cidade 2000, Fortaleza - CE, 60191-106",Cafeteria,4.9,40,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Cidade 2000
+384,Comidart Comércio e Serv de Restaurante,delivery de comida,"R. Maria Tomásia, 388 - Aldeota, Fortaleza - CE, 60150-170",Restaurante fast-food,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+385,Cucina di Maria,delivery de comida,"Rua Visconde de Cairu, 431 - Praia do Futuro, Fortaleza - CE, 60182-130",Restaurante de comida para viagem,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia Do Futuro
+386,Skina do Açaí,delivery de comida,"R. Pedro 1, 357 - Centro, Fortaleza - CE, 60035-100",Lanchonete,4.8,6,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+387,Boteco da Valdeci,delivery de comida,"em frente a areninha - R. dos Cajueiros, 120 - Cidade 2000, Fortaleza - CE, 60190-270",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+388,Master Alimentos,delivery de comida,"Av. Dom Manuel, 1196 - Centro, Fortaleza - CE, 60060-091",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+389,Dimaias Comércio,delivery de comida,"R. Joaquim Magalhães, 272 - Benfica, Fortaleza - CE, 60040-160",Delivery de Pizza,2.5,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+390,doceteria Maria Bonita,delivery de comida,"R. Barão do Rio Branco, 1958 - José Bonifacio, Fortaleza - CE, 60025-062",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+391,Iphome_estacio,delivery de comida,"Av. Duque de Caxias, 101 - Centro, Fortaleza - CE, 60035-111",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+392,Padoca Café Centro,delivery de comida,"R. Major Facundo, 981 E - Centro, Fortaleza - CE, 60025-100",Lanchonete,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+393,Água e Gelada AM,delivery de comida,"R. Rodrigues Júnior, 535 - Centro, Fortaleza - CE, 60050-180",Fornecedor de água engarrafada,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+394,PlastMax Embalagens,delivery de comida,"Loja de Embalagens Descartáveis Embalagens Descartáveis para Alimentos Embalagens Descartáveis Produtos Descartáveis com Melhor Preço - R. Gen. Clarindo de Queiroz, 1606 - Centro, Fortaleza - CE, 60035-131",Empresa de embalagens,4.8,41,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+395,Casa do Alfajor,delivery de comida,"R. Dragão do Mar, 10 - Centro, Fortaleza - CE, 60060-390",Restaurante,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+396,Jambalera confeitaria vegana,delivery de comida,"Av. Domingos Olímpio, 391 - José Bonifacio, Fortaleza - CE, 60040-081",Confeitaria,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+397,Damião do Guaraná,delivery de comida,"R. da Assunção, 81 - Centro, Fortaleza - CE, 60050-010",$,4.7,361,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Centro
+398,Matsurya,delivery de comida,"R. Frederico Borges, 280 - Meireles, Fortaleza - CE, 60175-040",Restaurante japonês,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+399,Cozinha Boa Restaurante e Lanchonete,delivery de comida,"R. Dep. Matoso Filho, 1318 - Antônio Bezerra, Fortaleza - CE, 60351-360",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Antônio Bezerra
+400,La Mandolina Cozinha Experimental,delivery de comida,"Condomínio do Edifício Cearense - R. Barão de Aratanha, 186 - loja 1 - Centro, Fortaleza - CE, 60050-070",Curso de Culinária,3.7,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+401,Rose's Cafeteria & Restaurante,delivery de comida,"R. Pedro Borges, 33 - Loja 01 - Centro, Fortaleza - CE, 60055-120",Cafeteria,4.8,19,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Centro
+402,IMPERIO DO BOLO,delivery de comida,"R. Edgar Borges, 74 - Centro, Fortaleza - CE, 60050-000",Doceria,4.6,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+403,Mercado dos Peixes (Centro),delivery de comida,"Rua General Bezerril, 630-698 - Centro, Fortaleza - CE, 60135-050",Restaurante,4.2,17,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+404,Vínise,delivery de comida,"R. Marcelino Lopes, 4200 - Lagoa Sapiranga (Coité), Fortaleza - CE, 60833-075",Loja de bebidas alcoólicas,4.9,11,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Lagoa Sapiranga (Coité)
+405,Espaço Herbalife EVS JG Vida Saudável,delivery de comida,"Condomínio Edif Palácio Progresso - R. Pedro Borges, 33 - Sala 805 - Centro, Fortaleza - CE, 60055-110",Restaurante,4.7,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+406,Padaria Romana (Centro),delivery de comida,"Av. Duque de Caxias, 137 - Centro, Fortaleza - CE, 60035-110",$$,4.2,865,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Centro
+407,Consultoria Íntima Sex shop e Consultoria Sexual em Fortaleza somente delivery,delivery de comida,"Av. Nila Gomes de Soárez - Cidade 2000, Fortaleza - CE, 60190-630",Sex Shop,5.0,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+408,Ds Festas,delivery de comida,"R. Barão do Rio Branco, 2035 - Centro, Fortaleza - CE, 60025-062",Confeitaria,3.1,50,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+409,Liv Up - Fortaleza,delivery de comida,"Rua Afonso Celso, 300 - Aldeota, Fortaleza - CE, 60140-190",Delivery,5.0,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+410,Refeicões da Hora,delivery de comida,"R. Rodrigues Júnior, 935 - Centro, Fortaleza - CE, 60060-001",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+411,Talher Eventos & Ocasiões por Silvia Gonçalves,delivery de comida,"R. José Romero de Barros, 31 - Centro, Fortaleza - CE, 60055-161",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+412,Restaurante Comida Cazeira,delivery de comida,"Av. Pintor Antônio Bandeira, 97 - Cais do Porto, Fortaleza - CE, 60180-476",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cais Do Porto
+413,Do seu jeito,delivery de comida,"Av. Dom Luís, 798 - Meireles, Fortaleza - CE, 60160-230",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+414,Indie Bistrô & Arte,delivery de comida,"R. Marcondes Pereira, 43 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60130-060",$$,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+415,Dunada Burger,drive thru,"M dias branco - R. dos Cajueiros, 1421 - Fortaleza, CE, 60190-620",Hamburgueria,5.0,21,0.0,0.0,0 days 00:00:00,0 days 00:00:00,620
+416,Iracemado Lanches,drive thru,"R. dos Cajueiros, 1593 - Cidade 2000, Fortaleza - CE, 60190-620",Restaurante fast-food,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+417,The Waffle King Fortaleza,drive thru,"R. Dr. Gilberto Studart, 155 - Loja 09 - Cocó, Fortaleza - CE, 60192-105",Restaurante fast-food,4.5,101,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Cocó
+418,El Ranchero Hamburgueria,drive thru,"R. João Cordeiro, 201 - Praia de Iracema, Fortaleza - CE, 60110-355",Hamburgueria,4.4,31,30.0,60.0,0 days 00:30:00,0 days 01:00:00,Praia De Iracema
+419,Mr. Fruit Açaí Fortaleza,drive thru,"R. Barão do Rio Branco, 927 - Centro, Fortaleza - CE, 60025-060",Loja de açaí,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+420,Sorvete da Reserva,drive thru,"Rua Torres Câmara, 100 - loja 03 - Aldeota, Fortaleza - CE, 60150-060",Sorveteria,4.8,192,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+421,"Two Brothers Cocó: Pizza, Massas, Calzones, Pizzaria, Delivery, Fortaleza CE",drive thru,"R. Batista de Oliveira, 1071 - Cocó, Fortaleza - CE, 60192-340",Pizzaria,3.3,40,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cocó
+422,BBQ5,drive thru,"R. Bento Albuquerque - Cocó, Fortaleza - CE, 60192-055",Restaurante especializado em carnes,4.5,312,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Cocó
+423,Macarronada É Massa,drive thru,"R. Gen. Sampaio, 1235 - Centro, Fortaleza - CE, 60020-030",Restaurante italiano,3.8,14,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+424,Food Brazil,drive thru,"R. Major Facundo, 833 - Centro, Fortaleza - CE, 60025-100",Restaurante,4.8,37,30.0,60.0,0 days 00:30:00,0 days 01:00:00,Centro
+425,Donastela Massas e Recheios,drive thru,"R. Major Facundo, 897 - Centro, Fortaleza - CE, 60025-100",Restaurante italiano,3.7,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+426,Rose's Cafeteria & Restaurante,drive thru,"R. Pedro Borges, 33 - Loja 01 - Centro, Fortaleza - CE, 60055-120",Cafeteria,4.8,19,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Centro
+427,galeteria o chefão,drive thru,"avenida central leste - Cidade 2000, Fortaleza - CE, 60190-611",Restaurante,4.1,41,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Cidade 2000
+428,Point do Pesk Pag,drive thru,"Av. Nila Gomes de Soárez, 403 - Cidade 2000, Fortaleza - CE, 60190-630",Restaurante,4.6,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+429,Delícias da Gê,drive thru,"edifício palácio do sol - Rua Solon Pinheiro, 116 - sala 202 - Centro, Fortaleza - CE, 60050-040",Restaurante,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+430,Brokado's Pizza,drive thru,"Av. Nila Gomes de Soárez, 400 - Sala 8 - Cidade 2000, Fortaleza - CE, 60190-630",Pizzaria,4.8,34,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+431,The Coffee,drive thru,"Av. Dom Luís, 1200 - Meireles, Fortaleza - CE, 60160-230",Cafeteria,4.3,9,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+432,Delicious Pizzaria,drive thru,"Alameda Das Miosótes, 405 - Cidade 2000, Fortaleza - CE, 60190-490",Delivery de Pizza,4.6,44,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+433,Café de Oyá,drive thru,"R. Manuelito Moreira, 96 - Benfica, Fortaleza - CE, 60025-210",Bar,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+434,Del Plata Pastas,drive thru,"Rua Santa Maria, 2 - José Bonifacio, Fortaleza - CE, 60025-110",Restaurante,4.9,128,90.0,90.0,0 days 01:30:00,0 days 01:30:00,José Bonifacio
+435,Brazinha Grill 2,drive thru,"Rua General Bezerril, 590 - Centro, Fortaleza - CE, 60055-100",Restaurante,4.3,154,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+436,Zoá Gastrobar,drive thru,"R. Visc. de Mauá, 2217 - Dionísio Torres, Fortaleza - CE, 60125-161",Restaurante,4.7,54,45.0,120.0,0 days 00:45:00,0 days 02:00:00,Dionísio Torres
+437,Marmitaria tempero da Mary,drive thru,"R. Manoel Marques, 232 - Manuel Dias Branco, Fortaleza - CE, 60191-675",Restaurante de comida caseira,3.7,6,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Manuel Dias Branco
+438,Doceria da Thatha,drive thru,"Rua Sousa Girão, 115 - José Bonifacio, Fortaleza - CE, 60055-370",Doceria,5.0,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+439,"Uritu Cafés Especiais: Cafés, Utensílios, Empório, Centro, Fortaleza",drive thru,"Rua Dona Leopoldina, 396 - Centro, Fortaleza - CE, 60110-000",Atacadista de café,4.9,51,10.0,60.0,0 days 00:10:00,0 days 01:00:00,Centro
+440,Jambalera confeitaria vegana,drive thru,"Av. Domingos Olímpio, 391 - José Bonifacio, Fortaleza - CE, 60040-081",Confeitaria,5.0,20,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+441,Feijoada Brasil,drive thru,"Av. das Adenanteras, 689a - Cidade 2000, Fortaleza - CE, 60190-560",Delivery,4.2,10,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+442,"Iaçá: Açai, Distribuidora, Polpa, Açai do Pará, Açai Iaça, Belém, Fortaleza CE",drive thru,"R. Sen. Alencar, 652 - Loja 2 - Centro, Fortaleza - CE, 60030-050",Delivery,5.0,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+443,Aroma e bombom doces e salgados,drive thru,"Alameda dos Lírios, Quadra 21 - número 355 - Cidade 2000, Fortaleza - CE, 60190-530",Doceria,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+444,Sh82 Café,drive thru,"R. Floriano Peixoto, 1375 B - Centro, Fortaleza - CE, 60025-130",Cafeteria,5.0,10,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+445,Moncloa Tea Boutique,drive thru,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-065",Loja de chás,4.8,20,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+446,IMPERIO DO BOLO,drive thru,"R. Edgar Borges, 74 - Centro, Fortaleza - CE, 60050-000",Doceria,4.6,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+447,Sonhar buffet móvel,drive thru,"R. Barão de Aratanha, 704 - José Bonifacio, Fortaleza - CE, 60050-071",Buffet de doces e sobremesas,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+448,Cake Mania By Adriana Pessoa,drive thru,"Alameda Nadja, 334 - Quadra 8 - Cidade 2000, Fortaleza - CE, 60190-230",Confeitaria,4.5,24,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+449,Bolos confeitados - Bolos em fortaleza - Kátia Silva Cakes - Fortaleza (CE),drive thru,"R. Marconi, 85 - Farias Brito, Fortaleza - CE, 60015-190",Confeitaria,5.0,6,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Farias Brito
+450,Espaço Herbalife Nutrition - @EVSSETPLUS,drive thru,"Edifício Palácio Progresso - R. Pedro Borges, 33 - 3° andar sala 303 - Centro, Fortaleza - CE, 60055-110",Casa de chá,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+451,Vibe café,drive thru,"Rua Manuel Queirós, 511A - Cocó, Fortaleza - CE, 60192-220",Cafeteria,3.6,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cocó
+452,B.LEM,padaria,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60810-060",$$,4.4,299,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Edson Queiroz
+453,Pão de Mel,padaria,"Av. Monsenhor Tabosa, 1108 - Meireles, Fortaleza - CE, 60165-068",Padaria,3.8,752,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Meireles
+454,Panificadora o Matutinho,padaria,"Rua São, R. São Bernardo do Campo, 241 - Cais do Porto, Fortaleza - CE, 60175-440",$,4.8,117,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Cais Do Porto
+455,Rebeca Panificadora,padaria,"R. Coronel Manuel Jesuíno, 311 - Mucuripe, Fortaleza - CE, 60175-270",Padaria,4.2,37,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Mucuripe
+456,Padaria Narjara,padaria,"R. Padre Anchieta, 1320 - São Gerardo, Fortaleza - CE, 60325-582",$$,4.4,993,20.0,20.0,0 days 00:20:00,0 days 00:20:00,São Gerardo
+457,Padaria Confeitos Vitória,padaria,"Av. Central, 208 - Cidade 2000, Fortaleza - CE, 60190-611",$$,4.1,229,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Cidade 2000
+458,Portitália Paladaria (Parque Manibura),padaria,"Av. Washington Soares, 4040 - Parque Manibura, Fortaleza - CE, 60821-750",$$,4.3,1463,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Parque Manibura
+459,Padaria Da Viza,padaria,"R. Miguel Calmom, 407 - Vicente Pinzon, Fortaleza - CE, 60182-160",$,4.4,92,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Vicente Pinzon
+460,Padaria Romana Delicatessen,padaria,"Av. Treze de Maio, 901 - Fátima, Fortaleza - CE, 60040-531",$$,4.3,3001,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Fátima
+461,Padaria Contrigo,padaria,"R. Júlio Ibiapina, 291 - Dionísio Torres, Fortaleza - CE, 60170-220",Padaria,1.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Dionísio Torres
+462,Padaria Globo,padaria,"R. Padre Mororó, 1155 - Centro, Fortaleza - CE, 60015-220",$$,4.5,340,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Centro
+463,Padaria Romana (Aldeota),padaria,"R. Barbosa de Freitas, 1455 - Aldeota, Fortaleza - CE, 60170-020",Padaria,4.2,502,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Aldeota
+464,Pequena Padaria Caseira,padaria,"edificio lara - Joaquim Távora (Fortaleza), Fortaleza - CE, 60120-002",Padaria,4.8,15,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+465,Molino Padaria Artesanal,padaria,"Rua Torres Câmara, 314 - loja 2 - Aldeota, Fortaleza - CE, 60150-060",Padaria,4.5,150,20.0,60.0,0 days 00:20:00,0 days 01:00:00,Aldeota
+466,Padaria Família,padaria,"R. Oliveira Filho, 665 - Cais do Porto, Fortaleza - CE, 60181-805",Padaria,4.4,26,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cais Do Porto
+467,F,padaria,"Av. Dioguinho, 4740 - Loja 1 - Praia do Futuro II, Fortaleza - CE, 60183-712",Padaria,4.7,16,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia Do Futuro Ii
+468,Panificadora Nogueira,padaria,"R. Padre Pedro de Alencar, 244 - Messejana, Fortaleza - CE, 60840-280",$$,4.5,2763,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Messejana
+469,Panificadora Macropan (Damas),padaria,"R. Machado de Assis, 654 - Damas, Fortaleza - CE, 60426-000",$$,4.6,48,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Damas
+470,Padaria O Elias,padaria,"Av. Clóvis Matos, 1304 - Vicente Pinzon, Fortaleza - CE, 60183-100",Padaria,4.3,27,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+471,Vila do Pão Delicatessen,padaria,"Av. Rogaciano Leite, 450 - Guararapes, Fortaleza - CE, 60810-001",$$,4.4,669,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Guararapes
+472,Donata Padaria,padaria,"Av. Jovita Feitosa, 2345 - Alagadiço, Fortaleza - CE, 60455-410",$$,4.3,824,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Alagadiço
+473,Speciale Pães Artesanais,padaria,"R. Fênix, 789 - Luciano Cavalcante, Fortaleza - CE, 60811-000",$$,4.7,142,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Luciano Cavalcante
+474,Pão de Açúcar,padaria,"Rua Bárbara de Alencar, 1887 - Loja 1 - Aldeota, Fortaleza - CE, 60140-000",Supermercado,4.2,1278,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Aldeota
+475,Padaria do Zenardo,padaria,"R. Livreiro Gualter, 222 - Vila União, Fortaleza - CE, 60420-130",$,4.8,13,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vila União
+476,Panificadora Holanda,padaria,"R. João Cordeiro, 2994 - Aldeota, Fortaleza - CE, 60110-535",Padaria,4.2,37,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+477,Padaria Romana (Centro),padaria,"Av. Duque de Caxias, 137 - Centro, Fortaleza - CE, 60035-110",$$,4.2,865,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Centro
+478,Padaria Romana (Centro),padaria,"Av. Tristão Gonçalves, 664 - Centro, Fortaleza - CE, 60015-000",$$,4.3,420,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Centro
+479,Panificadora Pão Nosso,padaria,"Rua Padre Antonino, 803 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60110-480",$$,4.3,73,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Joaquim Távora (Fortaleza)
+480,Padaria e mercadinho Premiato,padaria,"R. Sen. Pompeu, 2610 - Benfica, Fortaleza - CE, 60025-002",Padaria,4.8,37,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+481,Padaria em Fortaleza Delícias da Marta,padaria,"R. Manuel Moura, 718 - Barra do Ceará, Fortaleza - CE, 60330-780",Padaria,4.7,22,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Barra Do Ceará
+482,B.LEM Padaria Portuguesa - Fortaleza RioMar,padaria,"R. Des. Lauro Nogueira, nº1500 - Loja 2004 - Papicu, Fortaleza - CE, 60176-065",Doceria,4.3,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+483,Padaria da Andreia,padaria,"Rua Rui Barbosa, 150 - Vicente Pinzon, Fortaleza - CE, 60181-461",Padaria,4.3,6,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+484,Costa Mendes Delicatessen,padaria,"Rua Professor Costa Mendes, 609 - Montese, Fortaleza - CE, 60426-084",$$,4.4,11204,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Montese
+485,Padaria Romana,padaria,"R. Mario Studart, 81 - Jacarecanga, Fortaleza - CE, 60326-060",$$,4.5,216,15.0,120.0,0 days 00:15:00,0 days 02:00:00,Jacarecanga
+486,Mercearia 25 de março & Padaria,padaria,"R. Vinte e Cinco de Março, 132 - Centro, Fortaleza - CE, 60060-120",Mercado,4.9,22,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Centro
+487,Padaria La Casa do Pão,padaria,"Av. Rogaciano Leite, 2893 - Jardim Das Oliveiras, Fortaleza - CE, 60821-075",Padaria,4.9,12,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Jardim Das Oliveiras
+488,Padaria e confeitaria Yeshua,padaria,"R. Fiscal Vieira, 4067 - São João do Tauape, Fortaleza - CE, 60120-170",Padaria,4.7,15,10.0,10.0,0 days 00:10:00,0 days 00:10:00,São João Do Tauape
+489,Panificadora GullaBox,padaria,"R. Carlos Gomes, 451 - José Bonifacio, Fortaleza - CE, 60040-230",Padaria,4.4,66,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+490,Mercadinho e Panificadora Casa do Pão,padaria,"Av. Antônio Justa, 3959 - Varjota, Fortaleza - CE, 60165-090",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Varjota
+491,Padaria São Sebastião,padaria,"R. Tereza Cristina, 1299 - Otávio Bonfim, Fortaleza - CE, 60015-141",$,4.4,42,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Otávio Bonfim
+492,Padaria Novo Mundo,padaria,"Av. Álvaro Correia - Mucuripe, Fortaleza - CE, 60165-230",Padaria,4.5,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Mucuripe
+493,Panificadora Santa Luzia,padaria,"R. João Cordeiro, 766 - Praia de Iracema, Fortaleza - CE, 60110-300",$$,4.0,290,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Praia De Iracema
+494,Pão de Açúcar - Cocó,padaria,"Shopping Casa Blanca Mall, Av. Eng. Santana Jr., 2277 - Cocó, Fortaleza - CE, 60175-650",Supermercado,4.2,1007,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Cocó
+495,Empório Do Pão (Beni de Carvalho) (Cometa),padaria,"R. Beni Carvalho, 627 - Aldeota, Fortaleza - CE, 60135-400",Padaria,3.4,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+496,Panebox Gourmet (Fátima),padaria,"Rua Monsenhor Otávio de Castro, 582 - Fátima, Fortaleza - CE, 60050-150",$$,4.3,1192,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Fátima
+497,Padaria San Remo (José Bonifácio),padaria,"R. Barão de Aratanha, 551 - José Bonifacio, Fortaleza - CE, 60050-070",$$,4.3,1205,15.0,15.0,0 days 00:15:00,0 days 00:15:00,José Bonifacio
+498,Delicias do Trigo Padaria (Farias Brito),padaria,"R. Rúbia Sampaio, 1155 - loja 5 - Farias Brito, Fortaleza - CE, 60360-820",Padaria,3.9,84,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Farias Brito
+499,Padaria e confeitaria o Elias,padaria,"R. Caravelas - Vicente Pinzon, Fortaleza - CE, 60181-740",Padaria,5.0,6,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+500,Alice Padaria,padaria,"Av. Castelo de Castro, 53 - Conjunto São Cristóvão, Fortaleza - CE, 60866-681",$$,4.1,1336,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Conjunto São Cristóvão
+501,Costa Mendes (Vila União),padaria,"R. Raul Cabral, 140 - Vila União, Fortaleza - CE, 60410-672",$$,4.4,1153,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Vila União
+502,Panificadora Nossa Senhora Da Guia,padaria,"Av. Carneiro de Mendonça, 1151 - Demócrito Rocha, Fortaleza - CE, 60440-160",Padaria,4.4,557,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Demócrito Rocha
+503,Padaria Pão do Chefe,padaria,"Rua Professor Álvaro Costa, 1210 - Vicente Pinzon, Fortaleza - CE, 60182-012",Padaria,4.3,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+504,Panificadora Trigo Doce,padaria,"Rua Marechal Deodoro, 67 - Benfica, Fortaleza - CE, 60020-060",$$,4.2,113,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Benfica
+505,Padaria e Confeitaria Pão Caseiro,padaria,"Av. Independência, 2185 - Quintino Cunha, Fortaleza - CE, 60345-530",Padaria,4.4,70,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Quintino Cunha
+506,PANIFICADORA TOP PÃO,padaria,"R. 327, 25 - Conj. Ceará II, Fortaleza - CE, 60530-690",$,4.4,115,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Conj. Ceará Ii
+507,Panificadora,padaria,"Av. Zezé Diogo, 112 - Cais do Porto, Fortaleza - CE, 60180-005",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cais Do Porto
+508,Padaria Helloysa,padaria,"R. Audízio Mosca de Carvalho - Manuel Dias Branco, Fortaleza - CE, 60191-520",Padaria,4.0,4,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Manuel Dias Branco
+509,Padaria o bolinha,padaria,"R. Castro Monte, 11 - Varjota, Fortaleza - CE, 60175-230",Padaria,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Varjota
+510,Padaria Vitoria,padaria,"Av. Central, 215 - Cidade 2000, Fortaleza - CE, 60190-611",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+511,Padaria monte carmelo,padaria,"R. Floriano Peixoto, 916 - Centro, Fortaleza - CE, 60025-130",Padaria,4.8,9,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+512,Padaria delicias de pães,padaria,"R. Lima Barreto, 18 - Vicente Pinzon, Fortaleza - CE, 60184-230",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+513,Padaria Tripane,padaria,"Rua Nossa Senhora das Graças, 1079 - Cristo Redentor, Fortaleza - CE, 60310-770",Padaria,4.2,11,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cristo Redentor
+514,FRANGOPAN,padaria,"Av. Sgt. Hermínio Sampaio, 2688 - Bairro Ellery, Fortaleza - CE, 60320-501",$,4.4,115,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Bairro Ellery
+515,Padaria Lisieux,padaria,"Av. Sgt. Hermínio Sampaio, 3568 - Pres. Kennedy, Fortaleza - CE, 60355-512",$,4.1,357,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Pres. Kennedy
+516,Padaria Trigo de Ouro,padaria,"R. dos Cajueiros, 1537 - Manuel Dias Branco, Fortaleza - CE, 60191-665",Padaria,3.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Manuel Dias Branco
+517,Padaria Pet Fortaleza,padaria,"Rua Doutor José Lourenço, 870. Lojas 5 e 6 - Aldeota, Fortaleza - CE, 60115-280","Pet shop em Fortaleza, Ceará",4.9,40,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Aldeota
+518,Mercado e Padaria Vó Mozinha,padaria,"R. Antônio Gomes Guimarães, 159 - Manuel Dias Branco, Fortaleza - CE, 60191-195",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Manuel Dias Branco
+519,O Elias Padaria,padaria,"Rua Professor Luíz Costa - Vicente Pinzon, Fortaleza - CE, 60175-550",Padaria,3.5,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+520,Padaria Bom Preço,padaria,"R. Socorro Gomes - Manuel Dias Branco, Fortaleza - CE, 60191-662",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Manuel Dias Branco
+521,Padaria,padaria,"R. Fenelon Bomilcar, 304 - Jardim Iracema, Fortaleza - CE, 60330-705",Padaria,4.2,22,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Jardim Iracema
+522,Mercado do Café - Benfica,padaria,"Rua Padre Francisco Pinto, 186 - Gentilândia, Fortaleza - CE, 60020-290",$$,4.2,3780,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Gentilândia
+523,Panificadora GG,padaria,"R. Dom Hélio Campos, 80 - Carlito Pamplona, Fortaleza - CE, 60311-630",Padaria,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Carlito Pamplona
+524,Padaria Praia,padaria,"R. José Mauro, 2-20 - Antonio Diogo, Fortaleza - CE, 60182-535",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Antonio Diogo
+525,Pão do Jorge - Fermentação Natural por Encomenda,padaria,"Parque del Sol - Cidade dos Funcionários, Fortaleza - CE, 60824-020",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade Dos Funcionários
+526,DVWR Padaria de Delícias,padaria,"R. São Crisóstomo, 100 - Cais do Porto, Fortaleza - CE, 60180-310",Confeitaria,5.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cais Do Porto
+527,Padaria,padaria,"R. Almírante Rufino, 473 - Vila União, Fortaleza - CE, 60420-075",Padaria,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vila União
+528,Padariaopçõeslanches,padaria,"Av. Dos Jangadeiros, 1115 - Mucuripe, Fortaleza - CE, 60175-440",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Mucuripe
+529,Mercadinho e Padaria Fortaleza,padaria,"R. José Vilar - Meireles, Fortaleza - CE, 60125-000",Supermercado,4.5,8,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Meireles
+530,Padaria Vó Dedé,padaria,"Av. Coronel Miguel Dias, 1389 - Luciano Cavalcante, Fortaleza - CE, 60810-160",Padaria,3.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Luciano Cavalcante
+531,PADARIA LINA,padaria,"R. Antônio Pompeu - Centro, Fortaleza - CE, 60040-000",Padaria,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+532,Flôr do Café Confeitaria,padaria,"R. Rodrigues Júnior, 996 - Centro, Fortaleza - CE, 60060-000",Confeitaria,4.6,176,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Centro
+533,Empório do Bolo - Cidade 2000,padaria,"Av. Central, 248 - Cidade 2000, Fortaleza - CE, 60190-610",Confeitaria,4.5,130,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Cidade 2000
+534,Padaria do Joao,padaria,"R. Central - Cajazeiras, Fortaleza - CE, 60000-000",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cajazeiras
+535,Chiquita Bacana,padaria,"R. Pedro Balbino, 158 - Cidade 2000, Fortaleza - CE, 60191-680",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+536,Praiadomorrobranco,padaria,"Centro, Fortaleza - CE, 60050-040",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+537,Bolos Da Flor,padaria,"Alameda Telma, 106 - Cidade 2000, Fortaleza - CE, 60190-250",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+538,"Coco Bambu Coffee Break: Cafés, Padaria, Restaurante, Drive Thru, Fortaleza CE",padaria,"R. Barão de Aracati, 1060 - Aldeota, Fortaleza - CE, 60115-081",$$$,4.6,584,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Aldeota
+539,Panificadora Romana Praça do Ferreira,padaria,"R. Barão do Rio Branco, 992 - Centro, Fortaleza - CE, 60025-903",Padaria,2.9,34,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+540,Empório Ribeira do Porto,padaria,"Av. Litorânea, 1000 - Sabiaguaba, Aquiraz - CE, 61700-000",Padaria,4.6,230,45.0,45.0,0 days 00:45:00,0 days 00:45:00,000
+541,Mil Doçuras,padaria,"R. Vitória da Conquista, 1453 - Manuel Dias Branco, Fortaleza - CE, 60191-670",Confeitaria,4.7,36,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Manuel Dias Branco
+542,"Pasteleria ""Maju""",padaria,"Rua Solon Pinheiro, 1015 - Centro, Fortaleza - CE, 60050-041",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+543,Puro Amor - Doces e Salgados,padaria,"R. Sen. Pompeu, 2764 - Loja B - Benfica, Fortaleza - CE, 60025-002",$,4.0,355,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Benfica
+544,Cafeteria Prosa e Queijos,padaria,"Av. Dr. Aldy Mentor, 430 - Cidade 2000, Fortaleza - CE, 60191-106",Cafeteria,4.9,40,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Cidade 2000
+545,Padaria São Raimundo,padaria,"R. Antônio Atualpa Rodrigues - Antonio Diogo, Fortaleza - CE",Padaria,4.3,12,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Antonio Diogo
+546,Padaria Pão e Pizza,padaria,"Av. dos Flamboyants, 95 - Cidade 2000, Fortaleza - CE, 60190-570",Padaria,4.0,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+547,Lá na Lícia,padaria,"R. Vilebaldo Aguiar, 3000 - Manuel Dias Branco, Fortaleza - CE, 60191-375",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Manuel Dias Branco
+548,Dream Place Ateliê,padaria,"R. Jaime Benévolo, 708 - José Bonifacio, Fortaleza - CE, 60050-080",Confeitaria,5.0,9,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+549,Cake Mania By Adriana Pessoa,padaria,"Alameda Nadja, 334 - Quadra 8 - Cidade 2000, Fortaleza - CE, 60190-230",Confeitaria,4.5,24,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+550,Padaria Armorial,padaria,"Av. Visconde do Rio Branco, 2565 - E - Joaquim Távora (Fortaleza), Fortaleza - CE, 60055-171",Padaria,4.2,10,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+551,Padaria Sabor De Pāo,padaria,"R. Paulo Águiar, 1111 - Vicente Pinzon, Fortaleza - CE, 60184-310",Padaria,3.8,14,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+552,Padaria Do Trigo,padaria,"Av. Pintor Antônio Bandeira - Cais do Porto, Fortaleza - CE, 60180-476",Padaria,1.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cais Do Porto
+553,Padaria Padoca,padaria,"Rua Dona Leopoldina, 1681 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60110-482",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+554,Pão de Açúcar,padaria,"Av. Santos Dumont, 3130 - Aldeota, Fortaleza - CE, 60150-161",Supermercado,4.2,2721,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Aldeota
+555,Pão Da Hoora Padaria,padaria,"R. Antônio Augusto, 630 - Meireles, Fortaleza - CE, 60110-370",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+556,Imperial Delicatessen,padaria,"Av. Bezerra de Menezes, 2485 - Parquelândia, Fortaleza - CE, 60325-105",Padaria,4.1,13,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Parquelândia
+557,Confeitaria Sabor E Requinte,padaria,"R. Barão do Rio Branco, 1980 - Centro, Fortaleza - CE",Padaria,2.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+558,Thalita pães e cafés,padaria,"Av. G, 291 - Pref. José Walter, Fortaleza - CE, 60750-060",Restaurante,0.0,0,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Pref. José Walter
+559,Rei Dos Pasteis E Salgados Padaria,padaria,"Centro, Fortaleza - CE, 60035-110",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+560,Cheirinho de Pão,padaria,"R. Doralice Costa, 353 - Luciano Cavalcante, Fortaleza - CE, 60810-680",Padaria,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Luciano Cavalcante
+561,Padaria,padaria,"R. Rev. Bolivar Pinto Bandeira, 237 - Luciano Cavalcante, Fortaleza - CE, 60811-310",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Luciano Cavalcante
+562,Santeq Store Equipamentos,padaria,"Av. Dom Manuel, 1211 - Centro, Fortaleza - CE, 60060-091",Equipamentos de panificação,0.0,0,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Centro
+563,Delicias da lana,padaria,"Rua Maria Pereira, 117 - Manuel Dias Branco, Fortaleza - CE, 60190",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Manuel Dias Branco
+564,Paes,padaria,"R. Bartolomeu de Gusmão, 1025 - Fátima, Fortaleza - CE, 60415-170",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Fátima
+565,Confeitaria Pra Sentir,padaria,"Alameda Eliane Lúcia, 62 - Cidade 2000, Fortaleza - CE, 60190-150",Confeitaria,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+566,Padaria Fort Pão,padaria,"Av. Francisco Sá, 3636 - Loja 3 - Carlito Pamplona, Fortaleza - CE, 60310-001",Padaria,4.1,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Carlito Pamplona
+567,CafécumBolo,padaria,"R. Rodrigues Júnior - Centro, Fortaleza - CE, 60060-090",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+568,Padaria,padaria,"Av. Pasteur - Carlito Pamplona, Fortaleza - CE, 60355-000",Padaria,4.4,8,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Carlito Pamplona
+569,Padaria,padaria,"Tv. Raimundo, 149 - Jacarecanga, Fortaleza - CE, 60311-040",Padaria,4.5,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Jacarecanga
+570,L'escale Shopping Central,padaria,"R. Sen. Pompeu, 856 - Centro, Fortaleza - CE, 60025-000",$$,4.4,242,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+571,Padaria,padaria,"Rua Virgílio Brigido, 1128 - Pres. Kennedy, Fortaleza - CE, 60355-050",Padaria,4.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Pres. Kennedy
+572,Panificadora DÁTOLLO,padaria,"R. Jacaúna, 707 - Barra do Ceará, Fortaleza - CE, 60332-530",Padaria,3.5,15,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Barra Do Ceará
+573,Panificadora Paneva Confeitaria,padaria,"R. Martins de Carvalho, 1944 - Granja Lisboa, Fortaleza - CE, 60540-178",Padaria,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Granja Lisboa
+574,Eugeni bolos e doces,padaria,"Alameda Telma, 298 - Cidade 2000, Fortaleza - CE, 60190-290",Loja de bolos,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+575,Pão de Açúcar,padaria,"Av. Senador Virgílio Távora, 2270 - Dionísio Torres, Fortaleza - CE, 60170-251",Supermercado,4.4,554,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Dionísio Torres
+576,Padaria Lorenzo,padaria,"R. Sen. Pompeu, 2354 - Benfica, Fortaleza - CE, 60025-002",Padaria,3.4,10,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+577,Padaia,padaria,"Rua Tulipa - Barra do Ceará, Fortaleza - CE, 60330-520",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Barra Do Ceará
+578,Romana,padaria,"R. Major Facundo, 566 - Centro, Fortaleza - CE, 60025-100",$$,0.0,0,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Centro
+579,Trigobia Comercio De Trigo Ltda,padaria,"R. Manoel Arruda, 120 - Messejana, Fortaleza - CE, 60842-090",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Messejana
+580,Wg Bolos,padaria,"Av. Duque de Caxias, 455A - Centro, Fortaleza - CE, 60035-110",Loja de bolos,4.3,10,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+581,IMPERIO DO BOLO GOURMET,padaria,"R. Barão do Rio Branco, 1308 - Centro, Fortaleza - CE, 60025-060",Loja de bolos,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+582,IMPERIO DO BOLO,padaria,"R. Edgar Borges, 74 - Centro, Fortaleza - CE, 60050-000",Doceria,4.6,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+583,Casa do Chocolate,padaria,"Av. Duque de Caxias, 425 - Centro, Fortaleza - CE, 60035-111",Loja,4.5,842,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Centro
+584,Lanches,padaria,"R. da Assunção, 25 - Centro, Fortaleza - CE, 60050-010",Cafeteria,4.5,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+585,Padaria Benfica,padaria,"Benfica, Fortaleza - CE, 60020-181",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+586,Ceiça Bolos,padaria,"Rua Solon Pinheiro, 831 - José Bonifacio, Fortaleza - CE, 60050-040",Loja de bolos,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+587,Chocolates Paloma,padaria,(85) 99944-2291,,4.6,16,0.0,0.0,0 days 00:00:00,0 days 00:00:00,2291
+588,Deliciale_Confeitaria,padaria,"R. Floriano Peixoto, 171 - Centro, Fortaleza - CE, 60025-130",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+589,Santa Maria Café,padaria,"(Dentro do Hospital São Camilo) 280, R. Nogueira Acioli - Centro, Fortaleza - CE",Cafeteria,2.8,36,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+590,Mercearia O Bené,padaria,"R. Vinte e Cinco de Março, 150 A - Centro, Fortaleza - CE, 60060-120","Mercado em Fortaleza, Ceará",3.0,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+591,Bomboniere,padaria,"R. Pedro Borges, 192 - Centro, Fortaleza - CE, 60055-110",Doceria,4.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+592,Rei dos Chocolates,padaria,"R. Pedro Borges, 192 - Centro, Fortaleza - CE, 60055-110",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+593,kit festa fortaleza ''CACAU FESTA'',padaria,"bela cruz - Farias Brito, Fortaleza - CE, 60011-120",Confeitaria,1.7,41,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Farias Brito
+594,Amarú Cosméticos & Baby,padaria,"R. Pedro Pereira, 151 - Centro, Fortaleza - CE, 60035-000","Loja de cosmético em Fortaleza, Ceará",4.8,17,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+595,MALHY Cozinhas Industriais,padaria,"Rua 24 de Maio, 1019 - Centro, Fortaleza - CE, 60035-110","Loja de artigos domésticos em Fortaleza, Ceará",4.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+596,Pão de Açúcar (São Gerardo),padaria,"Av. Bezerra de Menezes, 1498/1548 - São Gerardo, Fortaleza - CE, 60325-001",Supermercado,4.3,1995,20.0,20.0,0 days 00:20:00,0 days 00:20:00,São Gerardo
+597,Jotacê Carnes & Grill - Benfica,padaria,"Av. Domingos Olímpio, 387 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60040-081",Açougue,3.9,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+598,super Uchôa,padaria,"Fortaleza - Zone 1, Fortaleza - CE",Supermercado,4.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Zone 1
+599,Fortaleza Ceará,padaria,"Av. da Abolição - Meireles, Fortaleza - CE, 60125-160",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+600,Nova Oriental,padaria,"R. Edgar Borges, 32 - Centro, Fortaleza - CE, 60050-000","Loja em Fortaleza, Ceará",3.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+601,Paraíba Importados,padaria,"Centro, Fortaleza - CE, 60050-000","Loja em Fortaleza, Ceará",4.9,10,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+602,#Gôndolas - Instalações Comerciais,padaria,"R. Pedro Borges, 30 - Centro, Fortaleza - CE, 60055-110",Moveleiro,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+603,"Óticas Boris Loja 07: Óculos de Grau, Óculos de Sol e Alianças em Fortaleza CE",padaria,"R. Pedro Pereira, 554 - Loja 07 - Centro, Fortaleza - CE, 60035-000","Ótica em Fortaleza, Ceará",5.0,40,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+604,Máxima Fidelidade,padaria,"Palácio do Progresso - R. do Pocinho, Nº 33 - Loja 3 - Centro, Fortaleza - CE, 60055-110",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+605,Super Lagoa,padaria,"Rua Solon Pinheiro, 136 - Centro, Fortaleza - CE, 60050-040",Supermercado,0.0,0,20.0,20.0,0 days 00:20:00,0 days 00:20:00,Centro
+606,Leve & natural,padaria,"R. Barão do Rio Branco, 2027 - José Bonifacio, Fortaleza - CE, 60025-061",Lanchonete,4.3,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+607,Lanchonete Hiper Lanche,padaria,"Rua General Bezerril, 593 - Centro, Fortaleza - CE, 60055-100",Lanchonete,4.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+608,Fortaleza,padaria,"R. Esperança - Vicente Pinzon, Fortaleza - CE, 60181-200",Armazém,4.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+609,Esquina das Variedades,padaria,"R. Pedro Pereira, 732 - Centro, Fortaleza - CE, 60035-000","Loja de variedades em Fortaleza, Ceará",5.0,3,10.0,60.0,0 days 00:10:00,0 days 01:00:00,Centro
+610,Remap Elétrica e Iluminação Ltda Me,padaria,"R. Pedro 1, 619 A - Centro, Fortaleza - CE, 60035-100","Loja de iluminação em Fortaleza, Ceará",4.4,18,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+611,Dr. Visão - Ótica em Fortaleza,padaria,"R. Pedro Pereira, n° 530 - Loja 01 - Centro, Fortaleza - CE, 60035-000","Ótica em Fortaleza, Ceará",4.3,18,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+612,Shopping Dos Livros,padaria,"Rua General Bezerril, 420 - Centro, Fortaleza - CE, 60055-100","Livraria em Fortaleza, Ceará",3.3,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+613,PRN Comércio de Confecções,padaria,"Av. Duque de Caxias, 235 - Centro, Fortaleza - CE, 60035-110",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+614,Condomínio do Edifício Atlantic Hills,padaria,"R. Gothardo Moraes, 155 - Papicu, Fortaleza - CE, 60190-801","Complexo de condomínio em Fortaleza, Ceará",4.7,15,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+615,Construmix,padaria,"Condomínio Edifício Gal Tiburcio - loja 4, R. São Paulo, 32 - Centro, Fortaleza - CE","Loja de ferragens em Fortaleza, Ceará",4.5,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+616,j alves e oliveira ltda,padaria,"R. Sen. Pompeu, 940 - Centro, Fortaleza - CE, 60025-000","Loja em Fortaleza, Ceará",3.0,1,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Centro
+617,Pão de Açúcar,padaria,"Shop. Aldeota - Av. Dom Luís, 500 - Lj.40 - Aldeota, Fortaleza - CE, 60160-230",Supermercado,4.4,840,10.0,10.0,0 days 00:10:00,0 days 00:10:00,Aldeota
+618,Elétrica Fortaleza,padaria,"R. Pedro 1, 639 - Centro, Fortaleza - CE, 60035-100","Loja de materiais elétricos em Fortaleza, Ceará",5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+619,A Esmeralda,padaria,"R. Guilherme Rocha, 250 - Centro, Fortaleza - CE, 60030-140","Loja de roupa em Fortaleza, Ceará",4.0,6,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+620,Fardamentos Intuito Fatal,padaria,"Rua Conselheiro Tristão, 622 - José Bonifacio, Fortaleza - CE, 60050-100","Loja de uniformes em Fortaleza, Ceará",4.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+621,Via Cosméticos,padaria,"R. Floriano Peixoto, 577 - Centro, Fortaleza - CE, 60025-130","Loja de cosmético em Fortaleza, Ceará",5.0,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+622,Perfecta Curitiba,padaria,"Av. Aguanambi, 837 - Fátima, Fortaleza - CE, 60040-290","Equipamentos de panificação em Fortaleza, Ceará",4.5,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Fátima
+623,Skinão das Ferragens,padaria,"R. São Paulo, 32 - Loja 02 - Centro, Fortaleza - CE, 60030-100","Loja de ferramentas em Fortaleza, Ceará",5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+624,Precision Ótica,padaria,"R. da Assunção, 511 - Centro, Fortaleza - CE, 60050-010","Ótica em Fortaleza, Ceará",3.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+625,Simag - Distribuidora de Produtos de Limpeza.,padaria,"Av. Visconde do Rio Branco, 1714 - Centro, Fortaleza - CE, 60055-170","Serviço de distribuição em Fortaleza, Ceará",4.4,12,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+626,Grotta,padaria,"R. Floriano Peixoto, 768 - Centro, Fortaleza - CE, 60025-130",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+627,Cirúrgica Fortaleza,padaria,"R. Barão do Rio Branco, 1731 - Centro, Fortaleza - CE, 60025-061","Loja de artigos hospitalares em Fortaleza, Ceará",2.8,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+628,Churros Baia,padaria,"Centro, Fortaleza - CE, 60050-040",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+629,Bolos Caseiros Artesanais,padaria,"R. Dr. Gilberto Studart, 2980 - Manuel Dias Branco, Fortaleza - CE, 60191-365",Loja de bolos,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Manuel Dias Branco
+630,Bolo do Céu,padaria,"Rua Joaquim Magalhães, 1049,5 Altos - Benfica, Fortaleza - CE, 60040-125",Lanchonete,4.1,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+631,Pastelaria Araújo,padaria,"R. dos Cajueiros, 1577 - Dunas, Fortaleza - CE, 60191-665",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Dunas
+632,Espaço Gourmet,padaria,"Av. Duque de Caxias, 101 - Centro, Fortaleza - CE, 60055-170",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+633,1 2 3 Comercial De Presentes,padaria,"R. Floriano Peixoto, 809 - Centro, Fortaleza - CE, 60025-131",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+634,Manga Rosa,padaria,"R. Joaquim Magalhães, 262 - Benfica, Fortaleza - CE, 60040-160",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+635,Lojão Do Atacadista,padaria,"Rua Governador Sampaio, 25 - Centro, Fortaleza - CE, 60055-050",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+636,Limodas Industrial,padaria,"R. Barão do Rio Branco, 1092 - Centro, Fortaleza - CE, 60025-061","Loja de roupa em Fortaleza, Ceará",3.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+637,Ôxximydog,restaurante,"R. Raimundo Arruda, 64 - Parquelândia, Fortaleza - CE, 60450-500",Restaurante,5.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Parquelândia
+638,Restaurante Mariano da Picanha,restaurante,"Av. Monsenhor Tabosa, 1712 - Meireles, Fortaleza - CE, 60165-010",$$,4.0,1231,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+639,"Camarada Camarão: Camarões, Peixes, Happy Hour, Restaurante, Fortaleza CE",restaurante,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",$$$,4.5,867,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Papicu
+640,Cabaña Del Primo - Restaurante de Carnes em Fortaleza,restaurante,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-065",$$$,4.6,823,5.0,90.0,0 days 00:05:00,0 days 01:30:00,Papicu
+641,Divino Fogão - Riomar Fortaleza,restaurante,"Rua Desembargador Lauro Nogueira, 1500 piso L3 sala coml 3030 - Papicu, Fortaleza - CE, 60176-065",$$,4.2,667,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+642,Hard Rock Cafe,restaurante,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",$$$,4.7,5290,10.0,90.0,0 days 00:10:00,0 days 01:30:00,Papicu
+643,Delicias da Iaiá,restaurante,"Rua Dr. Ribamar Lobo, N° 20 - Papicu, Fortaleza - CE, 60176-145",Restaurante brasileiro,4.4,5,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Papicu
+644,Cocina 378,restaurante,"R. Vilebaldo Aguiar, 378 - Cocó, Fortaleza - CE, 60192-010",$$$,4.7,510,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Cocó
+645,Quintal Restaurante,restaurante,"Av. Desembargador Moreira, 533 - Meireles, Fortaleza - CE, 60170-000",$$$,4.6,350,45.0,90.0,0 days 00:45:00,0 days 01:30:00,Meireles
+646,Cemoara Restaurante,restaurante,"R. Joaquim Nabuco, 166 - Meireles, Fortaleza - CE, 60125-120",Restaurante de frutos do mar,4.4,54,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+647,Santa Grelha,restaurante,"R. Tibúrcio Cavalcante, 790 - Meireles, Fortaleza - CE, 60125-100",$$$,4.7,1799,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Meireles
+648,Cabaña Del Primo,restaurante,"R. Maria Tomásia, 503 - Aldeota, Fortaleza - CE, 60170-001",$$$,4.7,1313,10.0,90.0,0 days 00:10:00,0 days 01:30:00,Aldeota
+649,Balcony Bistro,restaurante,"R. Frederico Borges, 616 - Meireles, Fortaleza - CE, 60175-040",$$,4.8,227,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+650,Restaurante Mucuripe,restaurante,"Av. Beira Mar, 3980 - Mucuripe, Fortaleza - CE, 60165-121",Restaurante de frutos do mar,4.6,189,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Mucuripe
+651,Restaurante Marquês da Varjota,restaurante,"R. Frederico Borges, 426 - Meireles, Fortaleza - CE, 60175-040",$$$,4.6,1114,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Meireles
+652,Restaurante 44,restaurante,"R. Joaquim Nabuco, 1224 - Aldeota, Fortaleza - CE, 60125-055",$$,4.4,522,30.0,60.0,0 days 00:30:00,0 days 01:00:00,Aldeota
+653,"Butcher's 746: Steakhouse, Carnes Nobres, Churrasco, Delivery, Restaurante, Fortaleza CE",restaurante,"R. Maria Tomásia, 746 - Aldeota, Fortaleza - CE, 60150-170",$$$,4.6,699,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Aldeota
+654,Casa Beá Restaurante,restaurante,"Av. Desembargador Moreira, 615 A - Meireles, Fortaleza - CE, 60170-055",Restaurante,4.3,82,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+655,Pipo Restaurante,restaurante,"R. Manoel Lourenço dos Santos, 399 - São João do Tauape, Fortaleza - CE, 60135-450",$$$,4.6,1367,0.0,0.0,0 days 00:00:00,0 days 00:00:00,São João Do Tauape
+656,Vasto Restaurante,restaurante,"Av. Senador Virgílio Távora, 511 - Meireles, Fortaleza - CE, 60170-251",Restaurante,4.8,374,210.0,210.0,0 days 03:30:00,0 days 03:30:00,Meireles
+657,Madero Steak House Riomar Fortaleza,restaurante,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",$$$,4.5,2374,10.0,60.0,0 days 00:10:00,0 days 01:00:00,Papicu
+658,Restaurante Lima 21 - Gastronomia Peruana,restaurante,"Rua Silva Jatahy, 505 - Meireles, Fortaleza - CE, 60165-070",Restaurante peruano,4.6,243,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+659,Restaurante Mayú,restaurante,"Senac Reference - Av. Desembargador Moreira, 1301 - 4º andar - Aldeota, Fortaleza - CE, 60170-001",Restaurante,4.9,186,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Aldeota
+660,ZOI Restaurante,restaurante,"Av. Hermenegildo Sá Cavalcante, s/n - Edson Queiroz, Fortaleza - CE, 60811-905",Restaurante,4.6,772,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+661,Tilápia Restaurante,restaurante,"R. Eliseu Uchôa Beco, 450 - Guararapes, Fortaleza - CE, 60810-270",Restaurante,4.9,200,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Guararapes
+662,Casa Fontana,restaurante,"R. Bento Albuquerque, 1976 - Cocó, Fortaleza - CE, 60192-050",Restaurante,4.5,111,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Cocó
+663,Moranga Bistrô,restaurante,"R. Xavier de Castro, 100 - Praia de Iracema, Fortaleza - CE, 60060-660",$$$$,4.5,710,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Praia De Iracema
+664,Casa Nostra | Restaurante Italiano,restaurante,"Av. Senador Virgílio Távora, 1800 - Dionísio Torres, Fortaleza - CE, 60170-251",$$,4.6,1203,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Dionísio Torres
+665,Moleskine Gastrobar,restaurante,"Rua Professor Dias da Rocha, 578 - Meireles, Fortaleza - CE, 60170-310",$$$,4.7,3009,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+666,Marcel Restaurante.,restaurante,"Av. Historiador Raimundo Girão, 800 - Praia de Iracema, Fortaleza - CE, 60165-050",Restaurante francês,4.6,117,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+667,Sabor de Mar,restaurante,"Av. Desembargador Moreira, 256 - Meireles, Fortaleza - CE, 60170-000",$$,4.2,148,45.0,150.0,0 days 00:45:00,0 days 02:30:00,Meireles
+668,Dom Antunes Steakhouse: Restaurante de Carnes Nobres Aldeota Fortaleza,restaurante,"Rua Frei Mansueto, 1560 - Aldeota, Fortaleza - CE, 60175-082",$$,4.4,1396,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+669,Riô - drinks & comida,restaurante,"Rua Frei Mansueto, 662 - Meireles, Fortaleza - CE, 60175-070",Restaurante brasileiro,4.9,11,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+670,Giz Cozinha Boêmia,restaurante,"Rua Professor Dias da Rocha, 579 - Meireles, Fortaleza - CE, 60170-310",Restaurante brasileiro,4.6,1583,210.0,210.0,0 days 03:30:00,0 days 03:30:00,Meireles
+671,Geppos Praia - Restaurante na Praia de Iracema,restaurante,"Av. Beira Mar, 3222 - Meireles, Fortaleza - CE, 60165-121",$$,4.4,3201,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Meireles
+672,Restaurante Moqueca,restaurante,"Rua Pescador Chico Bindá, 318 - Vicente Pinzon, Fortaleza - CE, 60181-160",Restaurante de frutos do mar,4.8,16,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vicente Pinzon
+673,Coco Bambu Beira Mar,restaurante,"Av. Beira Mar, 3698 - Beira Mar, Fortaleza - CE, 60165-121",$$$,4.6,18692,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Beira Mar
+674,Amarú Restaurante,restaurante,"R. Mario Mamede, 932 - Fátima, Fortaleza - CE, 60411-170",$$,4.4,1299,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Fátima
+675,Restaurante Rei do Baião,restaurante,"Av. Heráclito Graça, 699 - Centro, Fortaleza - CE, 60140-061",$$,4.5,1367,30.0,60.0,0 days 00:30:00,0 days 01:00:00,Centro
+676,Restaurante Renascença,restaurante,"Rua General Tertuliano Potiguara, 570 - Aldeota, Fortaleza - CE, 60135-280",$$,4.5,282,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Aldeota
+677,Coco Bambu Meireles,restaurante,"Rua Canuto de Aguiar, 1317 - Meireles, Fortaleza - CE, 60160-120",$$$,4.6,10689,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Meireles
+678,Restaurante da Zena,restaurante,"R. Meton de Alencar, 549 - Centro, Fortaleza - CE, 60035-160",$$,4.5,2004,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Centro
+679,Cervejaria Turatti,restaurante,"R. Ana Bilhar, 1178 - Varjota, Fortaleza - CE, 60160-110",$$,4.4,3042,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Varjota
+680,RAIZ Cozinha Brasileira,restaurante,"Av. Washington Soares, 3300 - Edson Queiroz, Fortaleza - CE, 60810-350",$$,4.4,1185,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Edson Queiroz
+681,Restaurante Ubajara,restaurante,"R. Pinto Madeira, 600 - Centro, Fortaleza - CE, 60150-000",$,4.1,267,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Centro
+682,Restaurante La Fiorelli,restaurante,"Centro, Fortaleza - CE, 60025-100",Restaurante,3.9,30,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+683,Giappone Sushibar,restaurante,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",Restaurante de sushi,4.1,33,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+684,Vignoli Fortaleza – Virgílio Távora,restaurante,"Av. Senador Virgílio Távora, 10 - Meireles, Fortaleza - CE, 60822-150",$$$,4.5,2527,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Meireles
+685,Ryori Buganvília,restaurante,"Av. Dom Luís, 1113 - Meireles, Fortaleza - CE, 60160-230",$$$,4.5,668,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+686,Ponza Frutos do Mar,restaurante,"R. Vicente Leite, 520 - Loja 01 - Meireles, Fortaleza - CE, 60170-150",Restaurante mediterrâneo,3.7,19,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Meireles
+687,RESTAURANTE FINNA MISTURA,restaurante,"Av. Beira Mar - Meireles, Fortaleza - CE, 60165-121",Restaurante self-service,4.2,25,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+688,Mistura Cearense,restaurante,"R. da Assunção, 119 - Centro, Fortaleza - CE, 60050-010",Restaurante self-service,4.4,179,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+689,Balcone,restaurante,"R. Osvaldo Cruz, 919 - Meireles, Fortaleza - CE, 60125-048",$$$,4.6,1602,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Meireles
+690,Restaurante Philó,restaurante,"Rua Silva Paulet, 958 - Meireles, Fortaleza - CE, 60120-020",$$,4.6,222,30.0,60.0,0 days 00:30:00,0 days 01:00:00,Meireles
+691,Vila Mosquito,restaurante,"R. Antônio Augusto, 786 - Meireles, Fortaleza - CE, 60110-370",$$$,4.5,1120,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Meireles
+692,Restaurante Estação do marisco Fortaleza Ceará,restaurante,"R. Frederico Borges, 404 - Meireles, Fortaleza - CE, 60175-040",Restaurante de frutos do mar,5.0,20,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+693,Flor de Sal,restaurante,"esquina com - Rua Osvaldo Cruz, Av. Beira Mar, n 08 - Meireles, Fortaleza - CE, 60125-150",$$,3.7,688,90.0,90.0,0 days 01:30:00,0 days 01:30:00,Meireles
+694,"Porpino Burger: Hambúrguer, Batata Frita, Hamburgueria Delivery Fortaleza CE",restaurante,"Av. Senador Virgílio Távora, 597 - Meireles, Fortaleza - CE, 60170-265",$$,4.6,4594,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+695,Fortaleza Grill Restaurante,restaurante,"R. Pereira Filgueiras, 2111 - Aldeota, Fortaleza - CE, 60160-150",$$,4.4,2294,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Aldeota
+696,Restaurante Maranhão,restaurante,"R. Rodrigues Júnior, 540 - Centro, Fortaleza - CE, 60060-000",$,4.2,25,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+697,Cantinho do Frango,restaurante,"Rua Torres Câmara, 71 - Aldeota, Fortaleza - CE, 60150-060",$$,4.7,5414,45.0,120.0,0 days 00:45:00,0 days 02:00:00,Aldeota
+698,Baltazar Beira Mar - Baltazar Pizza Express - Barraca Baltazar,restaurante,"Av. Beira Mar, 2661 - Meireles, Fortaleza - CE, 60165-121",Restaurante,4.8,275,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+699,Mistura Nordestina,restaurante,"R. Gonçalves Lêdo, 23 - Loja 11 - Praia de Iracema, Fortaleza - CE, 60160-220",Restaurante,4.7,45,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+700,Villa Carneiro Bar & Restaurante,restaurante,"R. Sen. Alencar, 1182 - Centro, Fortaleza - CE, 60030-051",$,3.9,29,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Centro
+701,Restaurante Pôr do Sol,restaurante,"Av. Beira Mar, 3678 - Mucuripe, Fortaleza - CE, 60165-121",Restaurante,4.5,10,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Mucuripe
+702,Restaurante Boreale,restaurante,"Av. da Abolição, 3035 - Meireles, Fortaleza - CE, 60165-081",Restaurante,4.1,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+703,Restaurante Delícias do Mar,restaurante,"R. Frederico Borges, 372 - Meireles, Fortaleza - CE, 60175-040",$,4.6,165,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+704,Sabores Orgânicos,restaurante,"R. Monsenhor Bruno, 1300 - Meireles, Fortaleza - CE, 60115-190",$$,4.6,1859,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Meireles
+705,Restaurante Amuarama,restaurante,"Av. Deputado Oswaldo Studart, 888 - Fátima, Fortaleza - CE, 60411-260",$$,4.2,59,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Fátima
+706,Caravaggio Cucina&Vino,restaurante,"Rua Professor Dias da Rocha, 199 - Meireles, Fortaleza - CE, 60170-310",$$$,4.7,229,210.0,210.0,0 days 03:30:00,0 days 03:30:00,Meireles
+707,Lagar Restaurante,restaurante,"R. Lauro Maia, 625 - Fátima, Fortaleza - CE, 60055-210",$$,4.4,420,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Fátima
+708,Coco Bambu,restaurante,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60810-060",$$$,4.8,2234,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+709,Cozinha Mágica,restaurante,"Av. Santos Dumont, 3130 - Aldeota, Fortaleza - CE, 60150-161",Restaurante self-service,4.4,89,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Aldeota
+710,Coco Bambu Sul,restaurante,"R. República da Armênia, 1154 - Parque Manibura, Fortaleza - CE, 60821-760",$$$,4.6,12189,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Parque Manibura
+711,Sintra Gourmet,restaurante,"R. Joaquim Nabuco, 161 - Meireles, Fortaleza - CE, 60125-120",Restaurante self-service,4.8,20,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Meireles
+712,Nova Casa,restaurante,"R. Joaquim Nabuco, 1800 - Aldeota, Fortaleza - CE, 60125-055",$$,4.5,2960,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Aldeota
+713,El Chancho Aldeota,restaurante,"R. Leonardo Mota, 1477 - Aldeota, Fortaleza - CE, 60170-041",$$,4.6,3872,45.0,120.0,0 days 00:45:00,0 days 02:00:00,Aldeota
+714,Divina Comida,restaurante,"Rua Torres Câmara, 135 - Aldeota, Fortaleza - CE, 60150-060",$$,4.5,2920,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Aldeota
+715,Vignoli | Silva Jatahy,restaurante,"Rua Silva Jatahy, 529 - Meireles, Fortaleza - CE, 60165-070",$$$,4.5,1717,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Meireles
+716,K-BaB,restaurante,"Av. Desembargador Moreira, 90 - Meireles, Fortaleza - CE, 60170-000",$$,4.8,702,45.0,90.0,0 days 00:45:00,0 days 01:30:00,Meireles
+717,Restaurante Boa Mistura,restaurante,"Rua Dom Joaquim, 46 - Centro, Fortaleza - CE, 60110-100",$,4.5,102,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+718,Restaurante Aconchego do Mar,restaurante,"Av. Dioguinho, 5810 - Vicente Pinzon, Fortaleza - CE, 60183-706",Restaurante,4.3,37,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Vicente Pinzon
+719,Domino's Pizza,restaurante,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-065",$$,4.3,242,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Papicu
+720,L'Ô Restaurante,restaurante,"Av. Pessoa Anta, 217 - Praia de Iracema, Fortaleza - CE, 60060-440",Restaurante,4.7,901,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+721,Restaurante Fogão150,restaurante,"R. Barão de Aracati, 150 - Meireles, Fortaleza - CE, 60115-080",$$,4.0,231,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+722,Tempero do Mangue,restaurante,"R. Valdir Bezerra, 100 - Sabiaguaba, Fortaleza - CE, 60835-795",$$$,4.4,1771,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Sabiaguaba
+723,La Bella Italia,restaurante,"Av. Almirante Barroso, 812 - Praia de Iracema, Fortaleza - CE, 60060-440",$$,4.5,1337,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Praia De Iracema
+724,Restaurante Caicó Papicu,restaurante,"R. Eduardo Sabóia, 228 - Papicu, Fortaleza - CE, 60175-145",$$,4.5,1809,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Papicu
+725,Misaki - Restaurante Japonês Contemporâneo em Fortaleza,restaurante,"Shopping Jardins Open Mall Avenida Desembargador Moreira, 1011 Aldeota Fortaleza CE 60170-001, Av. Desembargador Moreira, 1011 - Aldeota, Fortaleza - CE, 60160-230",$$$$,4.6,736,10.0,90.0,0 days 00:10:00,0 days 01:30:00,Aldeota
+726,Restaurante Self Service - Mosaico Restaurante,restaurante,"R. Francisco Holanda, 609 - 706 - Dionísio Torres, Fortaleza - CE, 60130-140",$,4.5,294,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Dionísio Torres
+727,Culinária da Van,restaurante,"R. Waldery Uchôa, 260 - Benfica, Fortaleza - CE, 60020-110",$$,4.5,3309,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Benfica
+728,Le Marché,restaurante,"Praça Pelotas, 41 - Centro, Fortaleza - CE, 60110-210",Restaurante francês,4.5,310,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+729,Novos Boêmios,restaurante,"R. João Cordeiro, 219 - Meireles, Fortaleza - CE, 60110-355",$$,4.7,527,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+730,Aconchego Bistrô Cearense,restaurante,"R. Dr. João Moreira, 143 - Centro, Fortaleza - CE, 60030-000",Restaurante,4.5,120,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Centro
+731,Restaurante Mareiro,restaurante,"Av. Beira Mar, 2380 - Meireles, Fortaleza - CE, 60165-121",Restaurante,4.3,53,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+732,Pasto e Pizzas,restaurante,"Av. Júlio Abreu, 160 - Varjota, Fortaleza - CE, 60160-240",Restaurante,4.6,704,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Varjota
+733,Frigideira do Jonny Self Service,restaurante,"R. Joaquim Nabuco, 1900 - Aldeota, Fortaleza - CE, 60125-055",$$,4.6,2259,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Aldeota
+734,"Cinco Sentidos Bistrô: Restaurante, Gastronomia, Drinks, Vinhos em Fortaleza CE",restaurante,"Rua Professor Dias da Rocha, 579 - Meireles, Fortaleza - CE, 60170-310",Restaurante,4.3,12,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Meireles
+735,Anzio Gastronomia,restaurante,"Travessa Acaraú, 39 - Meireles, Fortaleza - CE, 60160-180",$$,4.5,517,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+736,Carbone Steakhouse,restaurante,"Av. Desembargador Moreira, 1300 - Aldeota, Fortaleza - CE, 60191-156",$$$,4.6,532,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Aldeota
+737,Colosso Fortaleza,restaurante,"Av. Hermenegildo Sá Cavalcante, s/n - Edson Queiroz, Fortaleza - CE, 60811-665",$$$$,4.5,716,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+738,Mangusta Restaurante e Pizzaria,restaurante,"R. da Assunção, 1195 - José Bonifacio, Fortaleza - CE, 60040-230",Restaurante,4.8,77,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+739,Churrascaria JP Steakhouse Fortaleza,restaurante,"Av. Beira Mar, 2500 - Loja 9 - Meireles, Fortaleza - CE, 60165-120",$$$,4.6,3519,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Meireles
+740,Domino's Pizza,restaurante,"Av. Treze de Maio, 825 - Fátima, Fortaleza - CE, 60040-531",$$,4.2,764,20.0,60.0,0 days 00:20:00,0 days 01:00:00,Fátima
+741,O Capo,restaurante,"R. Barão de Aracati, 50 - Praia de Iracema, Fortaleza - CE, 60115-080",Restaurante italiano,4.2,318,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+742,Conimaki,restaurante,"Rua Canuto de Aguiar, 1368 - Meireles, Fortaleza - CE, 60160-120",$$$,4.2,619,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+743,Restaurante Amaral (o goiano),restaurante,"Av. César Cals, 953 - Vicente Pinzon, Fortaleza - CE, 60182-035",Restaurante,4.1,53,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Vicente Pinzon
+744,Zoá Gastrobar,restaurante,"R. Visc. de Mauá, 2217 - Dionísio Torres, Fortaleza - CE, 60125-161",Restaurante,4.7,53,45.0,120.0,0 days 00:45:00,0 days 02:00:00,Dionísio Torres
+745,Pepe nero Bistrô,restaurante,"Av. Pres. Castelo Branco, 158 - Centro, Fortaleza - CE",$$,4.4,366,45.0,150.0,0 days 00:45:00,0 days 02:30:00,Centro
+746,Mar de Lima,restaurante,"Rua Frei Mansueto, 1130 - Varjota, Fortaleza - CE, 60175-070",Restaurante,4.8,39,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Varjota
+747,Restaurante Fiorentina,restaurante,"R. Osvaldo Cruz, 8 - Praia de Iracema, Fortaleza - CE, 60125-150",Restaurante,4.0,65,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+748,Barraca da Boa,restaurante,"Av. Beira Mar, 2571 - Meireles, Fortaleza - CE, 60165-121",$$,4.2,7976,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+749,Restaurante Sesc João Cordeiro,restaurante,"R. João Cordeiro, 933 - Aldeota, Fortaleza - CE, 60110-301",$,4.8,144,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Aldeota
+750,Restaurante Fortaleza,restaurante,"R. Clodoaldo Arruda, 250 - Cambeba, Fortaleza - CE, 60822-375",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cambeba
+751,Bruta Flor,restaurante,"R. Antônio Augusto, 806 - Meireles, Fortaleza - CE, 60110-370",$$,4.6,137,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Meireles
+752,Restaurante da Boró - Comida Caseira,restaurante,"R. dos Aprendizes Marinheiros, 300 - Moura Brasil, Fortaleza - CE, 60015-220",Restaurante de comida caseira,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Moura Brasil
+753,Barraca Terra do Sol,restaurante,"Av. Clóvis Arrais Maia, 5295 - Praia do Futuro II, Fortaleza - CE, 60182-026",$$,4.5,6280,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia Do Futuro Ii
+754,Restaurante Frederico,restaurante,"Rua Dr. José Lourenço, 504 - Meireles, Fortaleza - CE, 60115-280",$$,4.4,1166,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+755,Cantina Primu's,restaurante,"R. Guilherme Rocha, 52 - Centro, Fortaleza - CE, 60030-140",$,4.1,164,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+756,Chale Suíça Carnes e Fondue,restaurante,"R. Pereira Filgueiras, 1645 - Aldeota, Fortaleza - CE, 60160-150",$$$,4.3,127,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+757,Nem Restaurante,restaurante,"Centro, Fortaleza - CE, 60035-130",Restaurante,4.7,43,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+758,Lagostinne Fortaleza,restaurante,"Rua Frei Mansueto, 1225 - Varjota, Fortaleza - CE, 60175-157",Restaurante japonês,4.4,181,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Varjota
+759,Restaurante Le Pritaf,restaurante,"Av. Alberto Nepomuceno, 199 - Centro, Fortaleza - CE, 60055-000",Restaurante,1.6,10,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+760,Restaurante Fanfan,restaurante,"R. Meton de Alencar, 522 - Centro, Fortaleza - CE, 60030-160",Restaurante,4.6,78,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Centro
+761,Nhamy Nhamy Mercado Saudável,restaurante,"Av. Viena Weyne, 370 - loja 10 - Cambeba, Fortaleza - CE, 60822-180",Restaurante,4.9,19,20.0,90.0,0 days 00:20:00,0 days 01:30:00,Cambeba
+762,De Babo Restaurante,restaurante,"Rua do Rosário, 86 - Centro, Fortaleza - CE, 60135-050",Restaurante,4.6,171,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+763,Costa | Bar e Restaurante,restaurante,"R. Costa Barros, 1199 - Aldeota, Fortaleza - CE, 60160-190",$,4.5,247,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Aldeota
+764,Restaurante Compasso Gourmet,restaurante,"R. Pedro 1, 349 - Centro, Fortaleza - CE, 60035-100",$$,4.5,356,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+765,Churrascaria Picui Prime Cidade 2000,restaurante,"R. Andrade Furtado, 2520 - Cidade 2000, Fortaleza - CE, 60191-345",$$,4.5,1327,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cidade 2000
+766,VILLELÔ,restaurante,"Av. da Abolição, 2324 - Meireles, Fortaleza - CE, 60165-080",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+767,Comes e Bebes Restaurante,restaurante,"R. Barão do Rio Branco, 783 - Centro, Fortaleza - CE, 60025-060",Restaurante self-service,4.4,138,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Centro
+768,Zé Tropeiro - Culinária Mineira,restaurante,"Rua Isac Meyer, 211 - Meireles, Fortaleza - CE, 60160-200",$$,4.5,440,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Meireles
+769,Aki Asian Kitchen,restaurante,"R. Leonardo Mota, 753 - Meireles, Fortaleza - CE, 60170-040",Restaurante asiático,4.5,386,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Meireles
+770,Varanda Tropical,restaurante,"Av. Monsenhor Tabosa, 714 - Praia de Iracema, Fortaleza - CE, 60165-010",$$,4.2,1171,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+771,Restaurante O Brazão,restaurante,"R. João Cordeiro, 43 - Praia de Iracema, Fortaleza - CE, 60110-300",$$,4.4,2972,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+772,Grelha Sul Restaurante,restaurante,"Av. Borges de Melo, 1643 - Parreão, Fortaleza - CE, 60410-335",Restaurante fast-food,4.4,74,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Parreão
+773,Ossobuco Self-Service Restaurante e Lanches,restaurante,"Av. Treze de Maio, 1200 - Sala 1701 - Fátima, Fortaleza - CE, 60040-530",$$,4.5,1139,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Fátima
+774,Churrascaria Nativas Grill Fortaleza,restaurante,"Av. Dom Luís, 1219 - Meireles, Fortaleza - CE, 60160-230",$$,4.5,3043,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Meireles
+775,Kina do Feijão Verde - Aldeota,restaurante,"Rua João Cordeiro, R. Pero Coelho, 1697 - Aldeota, Fortaleza - CE, 60110-301",$$,4.6,6925,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Aldeota
+776,Sabará Restaurante,restaurante,"R. Floriano Peixoto, nº814 - Centro, Fortaleza - CE, 60025-130",$,4.5,113,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+777,Le Lis Café e Restaurante.,restaurante,"R. Barão de Aracati, 145 - Meireles, Fortaleza - CE, 60115-080",Restaurante,2.3,6,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+778,Inhamuns Restaurante,restaurante,"R. Ildefonso Albano, 1261 - Aldeota, Fortaleza - CE, 60115-000",Restaurante self-service,4.7,20,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+779,La Marine,restaurante,"Av. Pres. Castelo Branco, 400 - Moura Brasil, Fortaleza - CE, 60312-060",Restaurante,4.6,92,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Moura Brasil
+780,Restaurante Kilo & Kilo,restaurante,"Rua do Rosário, 120 - Centro, Fortaleza - CE, 60055-090",Restaurante self-service,4.0,33,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+781,Bom Pasto,restaurante,"R. Rocha Lima, 166 - Centro, Fortaleza - CE, 60135-000",Restaurante self-service,4.4,128,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+782,PaellaDonpepe,restaurante,"R. Ildefonso Albano, 603 - Meireles, Fortaleza - CE, 60115-000",Restaurante espanhol,4.5,107,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+783,Aipos Restaurante,restaurante,"Rua Solon Pinheiro, 464 - Centro, Fortaleza - CE, 60050-040",Restaurante,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+784,Casa do Alfajor,restaurante,"R. Dragão do Mar, 10 - Centro, Fortaleza - CE, 60060-390",Restaurante,4.3,12,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+785,Ryori,restaurante,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341",Restaurante japonês,4.7,366,15.0,60.0,0 days 00:15:00,0 days 01:00:00,Edson Queiroz
+786,Restaurante Cinco Estrelas,restaurante,"Mercado São Sebastião - R. Gen. Clarindo de Queiroz, 1745 - Centro, Fortaleza - CE, 60010-690",Restaurante,4.3,51,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+787,Restaurante e Lanchonete Cartaxo,restaurante,"Rua Bárbara de Alencar, 940 - Centro, Fortaleza - CE, 60140-025",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+788,Floresta Bar,restaurante,"Av. Santos Dumont, 1788 - Aldeota, Fortaleza - CE, 60150-160",$$,4.6,11702,210.0,210.0,0 days 03:30:00,0 days 03:30:00,Aldeota
+789,Iracema's Grill,restaurante,"R. Xavier de Castro, 72 - Praia de Iracema, Fortaleza - CE, 60060-660",Restaurante,4.1,15,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+790,RESTAURANTE BRITTO'S,restaurante,"R. São Paulo, 425 - Centro, Fortaleza - CE, 60030-100",$,4.3,136,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+791,Camarão To Go,restaurante,"R. Barão de Aracati, 1473 A - Aldeota, Fortaleza - CE, 60115-081",Restaurante de frutos do mar,4.4,135,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+792,Caravelle,restaurante,"Av. Luciano Carneiro, 1936 - Vila União, Fortaleza - CE, 60410-691",Restaurante,4.3,1384,25.0,90.0,0 days 00:25:00,0 days 01:30:00,Vila União
+793,Restaurante,restaurante,"Avenida Imperador, 880 - Centro, Fortaleza - CE, 60015-050",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+794,Hanna's Restaurante | Self Service | Centro,restaurante,"R. Major Facundo, 736 - Centro, Fortaleza - CE, 60025-100",$$,4.4,1332,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Centro
+795,Picanha do Lessa,restaurante,"R. Meton de Alencar, 199 - Centro, Fortaleza - CE, 60035-160",$,4.2,471,30.0,60.0,0 days 00:30:00,0 days 01:00:00,Centro
+796,Pier 95 Bar e Restaurante.,restaurante,"R. dos Pacajús, 95 - Praia de Iracema, Fortaleza - CE, 60060-520",Restaurante,5.0,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+797,Espaço Máxima Buffet \Restaurante,restaurante,"R. Carolina Sucupira, 939 - Aldeota, Fortaleza - CE, 60140-120",Restaurante,4.2,163,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+798,Restaurante e lanchonete barraca da amada,restaurante,"Shooping Floriano - R. Floriano Peixoto, 176 - Centro, Fortaleza - CE, 60025-130",Restaurante,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+799,Churrascaria Gheller,restaurante,"Av. Monsenhor Tabosa, 825 - Praia de Iracema, Fortaleza - CE, 60165-011",$$,4.2,6678,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+800,"Orla Praia Club: Restaurante, Barraca de Praia, Drinks, Happy Hour, Fortaleza CE",restaurante,"Av. Clóvis Arrais Maia, 3005 - Praia do Futuro, Fortaleza - CE, 60183-694",Restaurante,4.1,114,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia Do Futuro
+801,Estaleiro do Gaúcho,restaurante,"Av. Beira Mar, 4436 - Loja 7 e 8 - Mucuripe, Fortaleza - CE, 60165-121",$$,4.1,579,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Mucuripe
+802,Dom Tiziano,restaurante,"R. Floriano Peixoto, 799 - Centro, Fortaleza - CE, 60025-131",Restaurante self-service,4.4,155,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+803,Comida Porreta,restaurante,"Av. Almirante Barroso, 668 - Praia de Iracema, Fortaleza - CE, 60060-440",Restaurante self-service,4.2,40,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+804,AQuitanda,restaurante,"R. Waldery Uchôa, 230 - Benfica, Fortaleza - CE, 60020-110",Restaurante,4.6,523,180.0,180.0,0 days 03:00:00,0 days 03:00:00,Benfica
+805,Donastela Massas e Recheios,restaurante,"R. Major Facundo, 897 - Centro, Fortaleza - CE, 60025-100",Restaurante italiano,3.7,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+806,Mabel Restaurante,restaurante,"BR-116, 5271 - Alto da Balança, Fortaleza - CE, 60823-105",Restaurante,4.7,20,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Alto Da Balança
+807,"Seu Conrado Monte Castelo: Restaurante, Cozinha Brasileira, Boteco em Fortaleza CE",restaurante,"R. Conrado Cabral, 711 - Monte Castelo, Fortaleza - CE, 60325-440",$$,4.7,1367,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Monte Castelo
+808,Del Plata Pastas,restaurante,"Rua Santa Maria, 2 - José Bonifacio, Fortaleza - CE, 60025-110",Restaurante,4.9,128,90.0,90.0,0 days 01:30:00,0 days 01:30:00,José Bonifacio
+809,Tropical Restaurante,restaurante,"R. da Assunção, 16 - Centro, Fortaleza - CE, 60050-010",$,4.4,91,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Centro
+810,Bom Prato,restaurante,"Rua General Bezerril, 503 - Centro, Fortaleza - CE, 60055-100",$$,4.3,412,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+811,Carneiro do Ordones,restaurante,"R. Azevedo Bolão, 571 - Parquelândia, Fortaleza - CE, 60450-675",$$,4.6,26480,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Parquelândia
+812,Arcos Comidas e Bebidas,restaurante,"R. Padre Mororó, 2342 - Farias Brito, Fortaleza - CE, 60015-221",$$,4.4,708,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Farias Brito
+813,Cantina Primu's Self-Service,restaurante,"R. Barão do Rio Branco, 1469 - Centro, Fortaleza - CE, 60025-060",$,4.4,219,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+814,Garfo Self-service,restaurante,"R. Major Facundo, 259 - Centro, Fortaleza - CE, 60025-100",$$,4.6,518,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Centro
+815,Ceará Food,restaurante,"R. Gonçalves Lêdo, 1541 - Loja 2 - Centro, Fortaleza - CE, 60110-261",Restaurante de comida caseira,5.0,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+816,Mandir.amor Restaurante Vegano,restaurante,"Rua Padre Francisco Pinto, 257 - Benfica, Fortaleza - CE, 60020-290",$,4.8,1904,25.0,60.0,0 days 00:25:00,0 days 01:00:00,Benfica
+817,Hokkaido,restaurante,"Rua Torres Câmara, 425 - Meireles, Fortaleza - CE, 60150-060",$$,4.3,1390,45.0,90.0,0 days 00:45:00,0 days 01:30:00,Meireles
+818,Barraca marisol,restaurante,"Av. Rui Barbosa, 50 - Meireles, Fortaleza - CE, 60165-050",Restaurante,4.3,99,120.0,120.0,0 days 02:00:00,0 days 02:00:00,Meireles
+819,Rio Restaurante De Praia,restaurante,"R. Dr. Bernardo Feitosa, 510 - Edson Queiroz, Fortaleza - CE, 60835-775",$$,4.3,67,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+820,Johnny Rockets,restaurante,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341",$$,4.5,2514,25.0,90.0,0 days 00:25:00,0 days 01:30:00,Edson Queiroz
+821,Mar de Rosas,restaurante,"R. dos Tabajaras, 542 - Praia de Iracema, Fortaleza - CE, 60060-510",$$,4.7,774,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Praia De Iracema
+822,Domino's Pizza,restaurante,"Av. Coronel Miguel Dias, 1149 - Guararapes, Fortaleza - CE, 60810-160",$$,4.0,129,25.0,25.0,0 days 00:25:00,0 days 00:25:00,Guararapes
+823,Empório Divino Restaurante,restaurante,"R. Alberto Magno, 100 - Montese, Fortaleza - CE, 60416-135",$$,4.5,634,25.0,90.0,0 days 00:25:00,0 days 01:30:00,Montese
+824,Restaurante Sal & Açúcar,restaurante,"R. Olavo Bilac, 125 - Álvaro Weyne, Fortaleza - CE, 60320-000",Restaurante,4.3,77,20.0,60.0,0 days 00:20:00,0 days 01:00:00,Álvaro Weyne
+825,Restaurante Kitanda,restaurante,"Av. Tristão Gonçalves, 823 - Centro, Fortaleza - CE, 60015-000",Restaurante,4.4,80,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Centro
+826,Arupemba Restaurante,restaurante,"R. dos Tabajaras, 325 - Praia de Iracema, Fortaleza - CE, 60060-510",Restaurante,4.9,7,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+827,Boali,restaurante,"Av. Washington Soares, 85 - Loja 728 - Edson Queiroz, Fortaleza - CE, 60811-341",$$,4.2,29,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+828,"Carneiro do Ordones Jovita: Churrasco, Pratos Executivos, Cerveja, Restaurante, Delivery Fortaleza CE",restaurante,"Av. Jovita Feitosa, 289 - Parquelândia, Fortaleza - CE, 60455-410",Restaurante,4.5,254,150.0,150.0,0 days 02:30:00,0 days 02:30:00,Parquelândia
+829,Kina Restaurante,restaurante,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60810-350",Restaurante,4.1,25,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+830,Delicias grill,restaurante,"Rua Coronel Linhares, 887 - Meireles, Fortaleza - CE, 60170-240",Restaurante,4.5,11,30.0,30.0,0 days 00:30:00,0 days 00:30:00,Meireles
+831,Irmão Restaurante,restaurante,"Av. Almirante Barroso, 911 - Praia de Iracema, Fortaleza - CE, 60060-440",$,4.3,25,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+832,Delícias Grill - José Bonifacio,restaurante,"R. Eusébio de Souza, 1410 - José Bonifacio, Fortaleza - CE, 60050-110",$,4.5,497,30.0,30.0,0 days 00:30:00,0 days 00:30:00,José Bonifacio
+833,Delicie Do Casal 20,restaurante,"Av. Beira Mar - Meireles, Fortaleza - CE, 60165-120",Restaurante de comida caseira,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+834,China Gourmet,restaurante,"R. Rodrigues Júnior, 1063 - Centro, Fortaleza - CE, 60110-001",$,4.2,568,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+835,Fortaleza,restaurante,"Shopping Iguatemi - Edson Queiroz, Fortaleza - CE, 60810-350",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Edson Queiroz
+836,Restaurante,restaurante,"R. Antônio Pompeu, 1710 - Centro, Fortaleza - CE, 60040-000",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+837,Centro Cultural Annapurna,restaurante,"R. Paracuru, 34 - Centro, Fortaleza - CE, 60055-161",$,4.7,266,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Centro
+838,Panelada Vip Restaurante,restaurante,"R. Gen. Clarindo de Queiroz, 1745 - Centro, Fortaleza - CE, 60035-131",Mercado de produtos agrícolas,4.5,24,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+839,Abaeté Boteco,restaurante,"R. Barão de Aracati, 2899 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60115-082",$$,4.6,746,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+840,Bar & Restaurante,restaurante,"Rua Capitão Gustavo - SÃO JOÃO, Fortaleza - CE, 60120-340",Bar,3.4,23,0.0,0.0,0 days 00:00:00,0 days 00:00:00,São João
+841,Fortaleza,restaurante,"Vila Bachá, 15 - Meireles, Fortaleza - CE, 60160-050",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+842,Maria Clara Self Service,restaurante,"Rua General Bezerril, 503 - Centro, Fortaleza - CE, 60055-100",Restaurante,4.6,70,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Centro
+843,Cora,restaurante,"Rua Padre Luís Figueira, 252 - Aldeota, Fortaleza - CE, 60150-120",$$,4.7,709,30.0,90.0,0 days 00:30:00,0 days 01:30:00,Aldeota
+844,Choppicanha | Restaurante,restaurante,"Av. Jovita Feitosa, 191 - Parquelândia, Fortaleza - CE, 60455-410",$$,4.4,2502,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Parquelândia
+845,Papudim Bar e Restaurante,restaurante,"Praça Pelotas, 38 - Centro, Fortaleza - CE, 60110-210",Bar,4.5,157,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+846,Restaurante Reginaldo grill,restaurante,"R. Raimundo Arruda, 516 - Parque Araxá, Fortaleza - CE, 60450-500",Restaurante,4.4,1192,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Parque Araxá
+847,Erma Restaurantes e Lanchonetes,restaurante,"Av. Visconde do Rio Branco, 3066 - Loja 13 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60055-364",Restaurante self-service,3.5,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+848,"Coco Bambu Coffee Break: Cafés, Padaria, Restaurante, Drive Thru, Fortaleza CE",restaurante,"R. Barão de Aracati, 1060 - Aldeota, Fortaleza - CE, 60115-081",$$$,4.6,609,25.0,90.0,0 days 00:25:00,0 days 01:30:00,Aldeota
+849,Porquilo Self-Service,restaurante,"R. Barão do Rio Branco, 1221 - Centro, Fortaleza - CE, 60025-061",$$,4.6,1101,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Centro
+850,Flores RestôBar,restaurante,"R. Xavier de Castro, 68 - Praia de Iracema, Fortaleza - CE, 60060-660",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Praia De Iracema
+851,Sushi Festas Fortaleza,restaurante,"R. Sen. Pompeu - José Bonifacio, Fortaleza - CE, 60025-002",Restaurante asiático,2.6,5,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+852,Restaurante Caicó Benfica,restaurante,"R. Paulino Nogueira, 41 - Benfica, Fortaleza - CE, 60020-270",$$,4.2,1841,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Benfica
+853,Fortaleza,restaurante,"Farias Brito, Fortaleza - CE, 60010-730",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Farias Brito
+854,Point da Tapioca,restaurante,"Av. Duque de Caxias, 101 - Bloco B - Centro, Fortaleza - CE, 60035-111",Restaurante fast-food,5.0,3,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+855,Fone Pizza Restaurante,restaurante,"Av. Jovita Feitosa, 1152 - Parquelândia, Fortaleza - CE, 60455-410",$$,4.6,1749,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Parquelândia
+856,Restaurante,restaurante,"R. Pereira Valente - Meireles, Fortaleza - CE, 60160-250",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+857,"No Alvo Futebol Society, Paintball, Racha, Restaurante Fortaleza",restaurante,"Av. Comodoro Estácio Brigido, 2263 - Luciano Cavalcante, Fortaleza - CE, 60813-670",Campo de futebol,4.4,1205,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Luciano Cavalcante
+858,Restaurante Mangostin,restaurante,"Av. Beira Mar, 3980 - Loja 1 - Mucuripe, Fortaleza - CE, 60165-121",Restaurante asiático,4.4,62,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Mucuripe
+859,Restaurante Lá Na Roça,restaurante,"Rua Capitão Antônio de Aguiar, 41 - Aldeota, Fortaleza - CE, 60115-250",Restaurante,4.8,4,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Aldeota
+860,Restaurante Comida Cazeira,restaurante,"Av. Pintor Antônio Bandeira, 97 - Cais do Porto, Fortaleza - CE, 60180-476",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Cais Do Porto
+861,Itaparika,restaurante,"Centro, Fortaleza - CE, 60050-080",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+862,Restaurante,restaurante,"Av. Beira Mar, 2340 - Meireles, Fortaleza - CE, 60165-121",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Meireles
+863,Domino's Pizza - Praia de Iracema,restaurante,"Av. Monsenhor Tabosa, 1101 - Meireles, Fortaleza - CE, 60165-065",$$,4.3,78,45.0,45.0,0 days 00:45:00,0 days 00:45:00,Meireles
+864,Proeiro Restaurante,restaurante,"R. Barão de Aracati, 2706 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60115-082",Restaurante,4.8,37,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+865,Restaurante Barãozinho,restaurante,"R. Barão do Rio Branco, 1469 - José Bonifacio, Fortaleza - CE, 60025-061",Restaurante brasileiro,3.5,2,0.0,0.0,0 days 00:00:00,0 days 00:00:00,José Bonifacio
+866,Restaurante O Assis,restaurante,"R. Rufino de Alencar, 272 - Centro, Fortaleza - CE, 60060-145",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+867,Juliana's Restaurante,restaurante,"R. Sena Madureira, 914 - Centro, Fortaleza - CE, 60055-080",Restaurante self-service,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+868,Restaurante almoço,restaurante,"Rua Perboyre e Silva, 130 - Centro, Fortaleza - CE, 60030-200",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+869,Bar e Restaurante Euguimas,restaurante,"R. da Assunção, 119 - Centro, Fortaleza - CE, 60050-011",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+870,Restaurante Águas Bellas,restaurante,"Centro, Fortaleza - CE, 60060-090",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+871,Mjs bisqui,restaurante,"Centro, Fortaleza - CE, 60050-040",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+872,Francilene sousa,restaurante,"Centro, Fortaleza - CE, 60050-040",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+873,Indie Bistrô & Arte,restaurante,"R. Marcondes Pereira, 43 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60130-060",$$,4.5,110,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Joaquim Távora (Fortaleza)
+874,Restaurante,restaurante,"R. Ímpar, 118 - Álvaro Weyne, Fortaleza - CE, 60335-540",Restaurante sérvio,5.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Álvaro Weyne
+875,Padaria Romana (Centro),restaurante,"Av. Duque de Caxias, 137 - Centro, Fortaleza - CE, 60035-110",$$,4.2,865,15.0,15.0,0 days 00:15:00,0 days 00:15:00,Centro
+876,Bolo,restaurante,"Santa rosa - Santa Rosa, Fortaleza - CE, 60703-105",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Santa Rosa
+877,Restaurante,restaurante,"R. Gama, 170 - Vila Velha, Fortaleza - CE, 60349-330",Restaurante,3.0,1,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vila Velha
+878,Restaurante,restaurante,"Rua Ministro Antônio Coelho - Vila Velha, Fortaleza - CE, 60347-230",,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Vila Velha
+879,Pastel Quente,restaurante,"Av. Duque de Caxias, 235 - Centro, Fortaleza - CE, 60035-111",Pastelaria brasileira,4.6,21,0.0,0.0,0 days 00:00:00,0 days 00:00:00,Centro
+880,Fortaleza,restaurante,,,0.0,0,0.0,0.0,0 days 00:00:00,0 days 00:00:00,

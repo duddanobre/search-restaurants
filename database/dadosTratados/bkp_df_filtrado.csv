@@ -1,0 +1,882 @@
+,NOME,PONTUACAO,COMENTARIO,LOCAL,TIPO,TEMPO_ESPERA,BUSCA_ID
+0,Shopping RioMar Fortaleza,4.7,52.356 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055","Shopping center em Fortaleza, Ceará",45 min a 3 h,cafeteria
+1,Greta Café,4.7,1.094 comentários,"Av. Antônio Sales, 2960 - Dionísio Torres, Fortaleza - CE, 60135-102",$$,,cafeteria
+2,Bardo Café,4.9,22 comentários,"R. Amélia Benebien, 471 - Papicu, Fortaleza - CE, 60176-010",Cafeteria,,cafeteria
+3,"Go Coffee: Cafés, Chás, Frappes, Chocolate Quente, Cafeteria, Fortaleza CE",4.6,62 comentários,"R. Pereira Valente, 578 - Meireles, Fortaleza - CE, 60160-250",Cafeteria,10 min,cafeteria
+4,Le Pain Le Café | Aldeota,4.4,1.277 comentários,"Rua Professor Dias da Rocha, 670 - Meireles, Fortaleza - CE, 60170-310",$$$,"20 min a 1,5 h",cafeteria
+5,Cafeteria Club Café Santa Clara,4.0,25 comentários,"Rua Desembargador Lauro Nogueira, 1500 Piso L2 Quiosque 210 - Papicu, Fortaleza - CE, 60175-055",Cafeteria,,cafeteria
+6,Casa Bauducco,4.7,201 comentários,"R. Des. Lauro Nogueira, 1500 - loja 1046 - Papicu, Fortaleza - CE, 60175-055",$$,10 min,cafeteria
+7,Café Cultive,4.5,695 comentários,"R. Maria Tomásia, 1276 - Aldeota, Fortaleza - CE, 60150-170",Cafeteria,,cafeteria
+8,Torra Café,4.8,452 comentários,"Rua Marcos Macêdo, 827 - Aldeota, Fortaleza - CE, 60150-190",Cafeteria,1-2 horas,cafeteria
+9,Cafeteria Club Café Santa Clara Reserva da Família - RioMar Fortaleza,4.1,169 comentários,"Pça de Alimentação (Q304 - Rua Desembargador Lauro Nogueira, 1500 - Piso L3, R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",Cafeteria,,cafeteria
+10,Amika Coffeehouse,4.8,957 comentários,"Av. Desembargador Moreira, 2689 - Dionísio Torres, Fortaleza - CE, 60170-172",$$,"30 min a 1,5 h",cafeteria
+11,DOLCE GRÃO Cafeteria,4.5,55 comentários,"Av. Antônio Sales, 3410 - Cocó, Fortaleza - CE, 60810-350",Cafeteria,15-45 min,cafeteria
+12,l´espresso café - Livraria Leitura RioMar,4.8,9 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-125",Café,,cafeteria
+13,Cafeteria Prosa e Queijos,4.9,40 comentários,"Av. Dr. Aldy Mentor, 430 - Cidade 2000, Fortaleza - CE, 60191-106",Cafeteria,15 min,cafeteria
+14,Blend Coffee House,4.6,857 comentários,"R. Sabino Pires, 17 - Aldeota, Fortaleza - CE, 60150-090",$$,45 min a 2 h,cafeteria
+15,The Coffee,3.1,8 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",Cafeteria,,cafeteria
+16,Café 50,4.4,836 comentários,"Av. Beira Mar, 4050 - Mucuripe, Fortaleza - CE, 60165-120",Cafeteria,45 min,cafeteria
+17,Mercado do Café (Aldeota),4.2,701 comentários,"R. Maria Tomásia, 531 - Aldeota, Fortaleza - CE, 60150-170",Cafeteria,,cafeteria
+18,Lugano Fortaleza Jardins,4.4,39 comentários,"Rua Marcos Macêdo, 454 - Aldeota, Fortaleza - CE, 60170-001",Cafeteria,10-45 min,cafeteria
+19,Café Senac,4.8,100 comentários,"Av. Desembargador Moreira, 1301 - Aldeota, Fortaleza - CE, 60170-002",$$,,cafeteria
+20,pincoffee - Café Rosa - Cafeteria Rosa,4.1,121 comentários,"R. Maria Tomásia, 1262 - Aldeota, Fortaleza - CE, 60150-170",Cafeteria,,cafeteria
+21,"Coco Bambu Coffee Break: Cafés, Padaria, Restaurante, Drive Thru, Fortaleza CE",4.6,584 comentários,"R. Barão de Aracati, 1060 - Aldeota, Fortaleza - CE, 60115-081",$$$,"30 min a 1,5 h",cafeteria
+22,The Coffee,5.0,22 comentários,"Rua Professor Otávio Lobo, 755 - Loja 25 A - Cocó, Fortaleza - CE, 60192-290",Cafeteria,,cafeteria
+23,Milklandia Café,4.1,11 comentários,"Shopping Rio Mar - Papicu, Fortaleza - CE, 60175-055",Cafeteria,,cafeteria
+24,"Café Jangada: Cafeteria, Crepes, Tapiocas, Sanduiches, Cuscuz em Fortaleza CE",4.3,12 comentários,"Av. Beira Mar - Meireles, Fortaleza - CE, 60165-122",Cafeteria,,cafeteria
+25,Empório Café,4.7,117 comentários,"Av. Dom Luís, 1200 - Meireles, Fortaleza - CE, 60160-230",Cafeteria,,cafeteria
+26,Tiamate Coffee,4.5,786 comentários,"R. Floriano Peixoto, 484 - Centro, Fortaleza - CE, 60310-330",$$,25 min a 1 h,cafeteria
+27,Cafeteria Santa Clara,4.5,37 comentários,"R. Major Facundo, 500 - Centro, Fortaleza - CE, 60025-100",Cafeteria,,cafeteria
+28,Bleecker Café - Aldeota,4.7,536 comentários,"Rua Silva Paulet, 1281 - Aldeota, Fortaleza - CE, 60120-021",$$,25 min a 2 h,cafeteria
+29,Nupê Café,4.7,164 comentários,"Rua Coronel Jucá, 537 - Meireles, Fortaleza - CE, 60170-288",$$,,cafeteria
+30,Benévolo Café e Gelato,4.6,1.386 comentários,"R. Ana Bilhar, 1083 - Meireles, Fortaleza - CE, 60160-110",$$,"20 min a 1,5 h",cafeteria
+31,Oie Cafeteria,4.6,145 comentários,"R. República da Armênia, 1311 - Parque Manibura, Fortaleza - CE, 60821-760",Cafeteria,"15 min a 1,5 h",cafeteria
+32,Tipo.cc - Café e Coworking,4.7,204 comentários,"R. José Vilar, 3040 - loja 2 - Dionísio Torres, Fortaleza - CE, 60125-001",Cafeteria,1-3 horas,cafeteria
+33,Cafeteria Tres Coraçoes,4.3,3 comentários,"Av. Washington Soares, 85 - 720a - Edson Queiroz, Fortaleza - CE, 60811-900",Cafeteria,,cafeteria
+34,Duckbill Fortaleza (Beira Mar),4.2,103 comentários,"Av. Beira Mar, 2500 - Meireles, Fortaleza - CE, 60165-121 - Meireles, Fortaleza - CE, 60165-120",Cafeteria,,cafeteria
+35,Café & Company,5.0,2 comentários,"Av. Engenheiro Alberto Sá, 220 - Papicu, Fortaleza - CE, 60175-395",Cafeteria,,cafeteria
+36,The Coffee,4.3,9 comentários,"Av. Dom Luís, 1200 - Meireles, Fortaleza - CE, 60160-230",Cafeteria,,cafeteria
+37,The Coffee Beira Mar,4.6,111 comentários,"R. Osvaldo Cruz, 28 - Meireles, Fortaleza - CE, 60125-150",$$,,cafeteria
+38,Mercado do Café - Benfica,4.2,3.780 comentários,"Rua Padre Francisco Pinto, 186 - Gentilândia, Fortaleza - CE, 60020-290",$$,,cafeteria
+39,Nüsse Café,4.2,39 comentários,"R. Maria Tomásia, 521 - Aldeota, Fortaleza - CE, 60150-170",Cafeteria,"20 min a 1,5 h",cafeteria
+40,Le Pain Le Café (Jardins Open Mall),4.5,285 comentários,"G, Av. Desembargador Moreira, 1031 - Aldeota, Fortaleza - CE, 60160-230",Cafeteria,10 min a 1 h,cafeteria
+41,Cafeteria Plaza,4.7,11 comentários,"Av. Santos Dumont, 2626 - Aldeota, Fortaleza - CE, 60150-160",Café,,cafeteria
+42,Go Coffee Avenida Padre Antônio Tomás,4.6,16 comentários,"Av. Padre Antônio Tomás, 2080 - Loja 03 - Aldeota, Fortaleza - CE, 60140-160",Cafeteria,,cafeteria
+43,Brígida cafeteria,,,"R. Riachuelo, 40 A - Papicu, Fortaleza - CE, 60175-205",,,cafeteria
+44,Acclamé Café & Patisserie,4.8,37 comentários,"Av. Viena Weyne, 370 - loja 12 - Cambeba, Fortaleza - CE, 60822-180",Cafeteria,,cafeteria
+45,Santa Clara Cafeteria Dragão do Mar,4.6,562 comentários,"Dragão do Mar Center of Art and Culture - R. Dragão do Mar, 81 - Praia de Iracema, Fortaleza - CE, 60060-390",$$,"45 min a 1,5 h",cafeteria
+46,Cafeteria Club Café Rituais - Shopping Iguatemi,3.9,96 comentários,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60810-060",Cafeteria,,cafeteria
+47,Bleecker Café - Varjota,4.9,95 comentários,"R. Frederico Borges, 425 - Varjota, Fortaleza - CE, 60175-040",Cafeteria,,cafeteria
+48,The Coffee,4.7,302 comentários,"R. Barbosa de Freitas, 1040 - Aldeota, Fortaleza - CE, 60170-021",Cafeteria,,cafeteria
+49,Café Jangada Crepe & Tapioca,4.0,12 comentários,"Av. Beira Mar, 2361 - Meireles, Fortaleza - CE, 60165-121",Cafeteria,,cafeteria
+50,Mais1 Café - Fortaleza Centro,4.6,14 comentários,"Av. Santos Dumont, 994 - Centro, Fortaleza - CE, 60150-160",Cafeteria,,cafeteria
+51,Yucca Café,4.3,48 comentários,"Rua Frei Mansueto, 160 - Meireles, Fortaleza - CE, 60175-070",Bistrô,,cafeteria
+52,Mais1 Café - Aldeota,4.8,15 comentários,"Av. Desembargador Moreira, 1800 - Aldeota, Fortaleza - CE, 60170-002",Cafeteria,,cafeteria
+53,Confeitaria Sublime,4.5,638 comentários,"R. Eduardo Bezerra, 1276 A - São João do Tauape, Fortaleza - CE, 60130-271",$$,,cafeteria
+54,"Go Coffee Washington Soares: Cafés, Chás, Frappes, Chocolate Quente, Cafeteria, Fortaleza CE",4.9,32 comentários,"Av. Washington Soares, 1500 - Luciano Cavalcante, Fortaleza - CE, 60810-350",Cafeteria,15 min,cafeteria
+55,O Cafeeiro- Coffee & Bakery,3.3,47 comentários,"Av. Santos Dumont, 2284 - Manuel Dias Branco, Fortaleza - CE, 60150-161",Cafeteria,1-2 horas,cafeteria
+56,Grão Café,4.0,3 comentários,"Edificio Medical Center - Rua Coronel Linhares, 950 - Loja 04 - Aldeota, Fortaleza - CE, 60110-260",Cafeteria,,cafeteria
+57,Café das Artes,4.4,187 comentários,"Anexo Espaço Cultural UNIFOR - Av. Washington Soares, 1321 - Edson Queiroz, Fortaleza - CE, 60811-905",Cafeteria,,cafeteria
+58,Fantasia Café,,,"Av. Desembargador Moreira, 629 - Meireles, Fortaleza - CE, 60110-120",,,cafeteria
+59,Cafeteria Mio Café,,,"R. Carolina Sucupira, 400 - Aldeota, Fortaleza - CE, 60140-120",,,cafeteria
+60,Casa Bendita,,,"Av. Rui Barbosa, 888 - Meireles, Fortaleza - CE, 60115-220",,,cafeteria
+61,Café Canela,3.6,7 comentários,"Av. Dom Luís, 1233 - Aldeota, Fortaleza - CE, 60160-110",Café,,cafeteria
+62,Akele Café,4.9,34 comentários,"R. Lídia Brígido, 857 - loja 2 - Parque Manibura, Fortaleza - CE, 60821-800",Cafeteria,,cafeteria
+63,Lis Café,5.0,Um comentário,"R. Gonçalves Lêdo, 1226 - Centro, Fortaleza - CE, 60060-325",Cafeteria,,cafeteria
+64,Atelier 1913 Cafés Especiais,4.6,47 comentários,"R. Antônio Augusto, 744 - Meireles, Fortaleza - CE, 60110-370",Cafeteria,,cafeteria
+65,Casa do Pão de Queijo RioMar,4.0,29 comentários,"R. Des. Lauro Nogueira - Papicu, Fortaleza - CE, 60175-055",Café,,cafeteria
+66,Santa Maria Café,2.0,4 comentários,"Av. Pontes Vieira, 2531 - São João do Tauape, Fortaleza - CE, 60130-241",Cafeteria,,cafeteria
+67,Coffe America,,,"Av. Washington Soares - Edson Queiroz, Fortaleza - CE, 60811-341",,,cafeteria
+68,B.LEM,4.4,299 comentários,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60810-060",$$,10 min,cafeteria
+69,Vintage Coffee,,,"R. Joaquim Lima, n:2264 - Papicu, Fortaleza - CE, 60175-005",,,cafeteria
+70,Consulado Café,4.3,1.399 comentários,"Av. Bezerra de Menezes, 216 - Farias Brito, Fortaleza - CE, 60325-000",$$,,cafeteria
+71,Benévolo Café e Gelato,4.5,744 comentários,"Av. Monsenhor Tabosa, 688 - Centro, Fortaleza - CE, 60165-010",$$,"30 min a 1,5 h",cafeteria
+72,Vai Café,4.4,14 comentários,"Av. Santos Dumont, 2626 - loja 01 - Meireles, Fortaleza - CE, 60150-161",Cafeteria,,cafeteria
+73,Grão Café e Bistrô,4.0,8 comentários,"R. Joaquim Nabuco, 2829 - Dionísio Torres, Fortaleza - CE, 60125-121",Restaurante,,cafeteria
+74,Novo Café,3.3,6 comentários,"R. João Carvalho, 800 - Aldeota, Fortaleza - CE, 60140-140",Café,,cafeteria
+75,Don Cookies Coffee House,4.9,14 comentários,"Rua Felino Barroso, 1001 - Fátima, Fortaleza - CE, 60050-130",Cafeteria,20 min a 1 h,cafeteria
+76,Café Conceito Bar,5.0,Um comentário,"Av. Beira Mar, 3958 - Praia de Iracema, Fortaleza - CE, 60060-610",Cafeteria,,cafeteria
+77,Rose's Cafeteria & Restaurante,4.8,18 comentários,"R. Pedro Borges, 33 - Loja 01 - Centro, Fortaleza - CE, 60055-120",Cafeteria,25 min a 1 h,cafeteria
+78,Chez Café,4.5,366 comentários,"Av. Viena Weyne, 330 - Cambeba, Fortaleza - CE, 60822-180",$$,,cafeteria
+79,Cafeteria Santa Clara Luíza Távora,4.5,380 comentários,"Av. Santos Dumont, 1589 - Aldeota, Fortaleza - CE, 60160-150",Cafeteria,1-2 horas,cafeteria
+80,Cafe Liguria,5.0,Um comentário,"Av. Santos Dumont - Aldeota, Fortaleza - CE, 60150-161",Cafeteria,,cafeteria
+81,Salpetrier Café,4.9,29 comentários,"Edifício Scopa Platinum Ao lado da Selfit - Av. Santos Dumont, 1650 - Aldeota, Fortaleza - CE, 60115-191",Cafeteria,,cafeteria
+82,Pâine Panificação Artesanal,,,"R. Castro Monte, 899 - Varjota, Fortaleza - CE, 60230-175",$$,15 min a 1 h,cafeteria
+83,Central Coffee,5.0,Um comentário,"Av. Dom Luís, 300 - Meireles, Fortaleza - CE, 60160-230",Cafeteria,,cafeteria
+84,Café Iracema,4.0,4 comentários,"R. Liberato Barroso, SN - Centro, Fortaleza - CE, 60030-160",Cafeteria,,cafeteria
+85,Vonet Patisserie e Cafeteria,5.0,3 comentários,"R. Joaquim Tôrres, 298 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60135-130",Cafeteria,,cafeteria
+86,Cafeteria La Perla,5.0,Um comentário,"R. Gen. Clarindo de Queiroz, 1745 - Box 383 - Centro, Fortaleza - CE, 60015-221",Cafeteria,,cafeteria
+87,Pâine croissanterie,4.2,27 comentários,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341",Cafeteria,10 min,cafeteria
+88,Café Portugal,5.0,Um comentário,"R. Osvaldo Cruz - Aldeota, Fortaleza - CE, 60140-155",Café,,cafeteria
+89,Bauducco,3.8,13 comentários,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341",$$,15 min,cafeteria
+90,cafeteria arte de comer,5.0,2 comentários,"R. Frei Humberto - Farias Brito, Fortaleza - CE, 60010-815",Cafeteria,,cafeteria
+91,The Coffee,4.8,45 comentários,"Av. Santos Dumont, 1788 - L04 - Aldeota, Fortaleza - CE, 60150-161",Cafeteria,,cafeteria
+92,Bacio di Latte - Shopping Riomar Fortaleza,3.2,13 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",$$$,15 min,cafeteria
+93,Empório da Tapioca,4.3,246 comentários,"Rua Professor Dias da Rocha, 800 - Aldeota, Fortaleza - CE, 60170-285",Cafeteria,10 min,cafeteria
+94,Sh82 Café,5.0,10 comentários,"R. Floriano Peixoto, 1375 B - Centro, Fortaleza - CE, 60025-130",Cafeteria,,cafeteria
+95,Dona Rocilda- Cafeteria e Doceria,4.8,31 comentários,"Av. Pres. Castelo Branco, 2031a - Jacarecanga, Fortaleza - CE, 60312-060",Cafeteria,,cafeteria
+96,Padaria e Confeitaria Vovó Joana - Cocó,4.5,3.456 comentários,"Rua Dr. Francisco Matos, 279 - Cocó, Fortaleza - CE, 60176-130",$$,20 min,cafeteria
+97,Montmarttre (Varjota),4.5,1.665 comentários,"Av. Júlio Abreu, 175 - Varjota, Fortaleza - CE, 60160-240",$$,15-45 min,cafeteria
+98,Saci Pê Tabacaria e Café,4.6,15 comentários,"Av. Monsenhor Tabosa, 314 - Praia de Iracema, Fortaleza - CE, 60165-010",Cafeteria,15-45 min,cafeteria
+99,Go Coffee Abolição,4.4,25 comentários,"Av. da Abolição, 2019 - Loja 07 - Meireles, Fortaleza - CE, 60165-075",Cafeteria,,cafeteria
+100,Confeitaria Le Chica,4.6,230 comentários,"R. Guilherme Rocha, 1670 - Centro, Fortaleza - CE, 60030-141",$$,25 min,cafeteria
+101,Jardins Café Fortaleza,4.6,50 comentários,"Rua Professor Nogueira, 300 A - Parque Araxá, Fortaleza - CE, 60450-520",Cafeteria,"1-2,5 horas",cafeteria
+102,Flôr do Café Confeitaria,4.6,176 comentários,"R. Rodrigues Júnior, 996 - Centro, Fortaleza - CE, 60060-000",Confeitaria,10 min,cafeteria
+103,Tiamate Coffee Aldeota,5.0,23 comentários,"Rua Padre Valdevino, 1801 - Loja 5 - Aldeota, Fortaleza - CE, 60135-041",Cafeteria,,cafeteria
+104,Dom Kidrack'S Cafeteria,4.1,13 comentários,"Av. Duque de Caxias, 1747 - Centro, Fortaleza - CE, 60035-111",$,,cafeteria
+105,Zelig Café Pinacoteca,,,"Rua 24 de Maio, 34 - Centro, Fortaleza - CE, 60030-000",,,cafeteria
+106,Le pain Le café,,,"R. Sen. Pompeu - Fortaleza, CE, 60025-001",,,cafeteria
+107,Café Ilha,4.6,38 comentários,"R. dos Cariris, 43 - Térreo - Praia de Iracema, Fortaleza - CE, 60060-230",Cafeteria,"30 min a 1,5 h",cafeteria
+108,Café Arretado,3.7,35 comentários,"R. Carapinima, 2200 - Benfica, Fortaleza - CE, 60015-290",Cafeteria,15 min,cafeteria
+109,Los locos coffee,5.0,4 comentários,"R. Floriano Peixoto - Centro, Fortaleza - CE, 60025-130",Cafeteria,,cafeteria
+110,Padoca Les Roches,4.6,485 comentários,"Parque Manibura, Fortaleza - CE, 60810-350",$$,15 min a 1 h,cafeteria
+111,Santa Maria Café,2.8,36 comentários,"(Dentro do Hospital São Camilo) 280, R. Nogueira Acioli - Centro, Fortaleza - CE",Cafeteria,,cafeteria
+112,Emporio do Edu,,,"Rua Nossa Senhora da Piedade, 11 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60110-492",,,cafeteria
+113,Cafeteria deliciosa torta,,,"Av. Washington Soares, 747 - Edson Queiroz, Fortaleza - CE, 60811-440",,,cafeteria
+114,The Coffee,4.8,59 comentários,"Av. Beira Mar, 840 - Praia de Iracema, Fortaleza - CE, 60060-610",Cafeteria,25 min a 1 h,cafeteria
+115,Tapiocaria da Bena,4.8,71 comentários,"Rua Santo Antônio, 20 - Benfica, Fortaleza - CE, 60020-090",$,,cafeteria
+116,Caffee Lounge,3.6,13 comentários,"Av. Sgt. Hermínio Sampaio, 3100 - Pres. Kennedy, Fortaleza - CE, 60320-504",Cafeteria,,cafeteria
+117,Fettuccine's Massas & Café,5.0,3 comentários,"Rua Padre Luís Figueira, 10 - Aldeota, Fortaleza - CE, 60150-120",Cafeteria,,cafeteria
+118,Empório Del Quartiere,4.5,428 comentários,"R. Jaime Pinheiro, 177 - Guararapes, Fortaleza - CE, 60810-250",$$,10 min a 1 h,cafeteria
+119,Café Entalpia - Bairro de Fátima (Cafeteria Temática),5.0,9 comentários,"Av. Aguanambi, 1280 - Loja 5 - Fátima, Fortaleza - CE, 60050-220",Cafeteria,,cafeteria
+120,"Uritu Cafés Especiais: Cafés, Utensílios, Empório, Centro, Fortaleza",4.9,51 comentários,"Rua Dona Leopoldina, 396 - Centro, Fortaleza - CE, 60110-000",Atacadista de café,15 min a 1 h,cafeteria
+121,Coffee cake,,,"Av. Aguanambi, 1447 - Fátima, Fortaleza - CE, 60055-401",,,cafeteria
+122,The Coffee,,,"Av. Washington Soares, 4352 - Loja 04 - Parque Manibura, Fortaleza - CE, 60821-750",,,cafeteria
+123,Valdemar,,,"R. Pedro Pereira - Centro, Fortaleza - CE, 60020-030",,,cafeteria
+124,Café de Oyá,5.0,3 comentários,"R. Manuelito Moreira, 96 - Benfica, Fortaleza - CE, 60025-210",Bar,,cafeteria
+125,Cafeteria Club Café Rituais - Aeroporto Internacional de Fortaleza,3.8,4 comentários,"Av. Senador Carlos Jereissati, 3000 - Serrinha, Fortaleza - CE, 60741-900",Cafeteria,,cafeteria
+126,"Matte & Cia, mate e cia, massas, cafes , caldos, DD Lanches",5.0,3 comentários,"R. Floriano Peixoto - Centro, Fortaleza - CE, 60025-130",Lanchonete,,cafeteria
+127,Bacio di Latte - Shopping Iguatemi Fortaleza,4.5,180 comentários,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341",$$$,15 min,cafeteria
+128,Fortaleza,,,"R. Cararú, 04 - Sabiaguaba, Fortaleza - CE, 60835-305",,,cafeteria
+129,Cafè Dos Reis,,,"Av. Washington Soares, 4294 - Edson Queiroz, Fortaleza - CE, 60810-350",,,cafeteria
+130,Bellanches,4.4,45 comentários,"R. Castro e Silva, 780 - Centro, Fortaleza - CE, 60030-010",Café,,cafeteria
+131,Tapiocariabia,,,"R. Pedro Pereira, 1592 - Centro, Fortaleza - CE, 60035-001",,,cafeteria
+132,Cookie Mania Bairro De Fátima,4.8,38 comentários,"Av. Deputado Oswaldo Studart, 40a - Fátima, Fortaleza - CE, 60411-260",Cafeteria,15-45 min,cafeteria
+133,Café do Bigode,4.8,4 comentários,"Av. Santos Dumont, 3130 - Aldeota, Fortaleza - CE, 60150-161",Loja,,cafeteria
+134,Cafeteria Club Café Santa Clara Reserva da Família - Aeroporto Internacional de Fortaleza,5.0,2 comentários,"Terminal, Av. Senador Carlos Jereissati, 3000 - Serrinha, Fortaleza - CE, 60741-900",Cafeteria,,cafeteria
+135,Café Viriato,4.4,49 comentários,"R. Osvaldo Cruz, 2828 - Dionísio Torres, Fortaleza - CE, 60125-151",Restaurante,"1-2,5 horas",cafeteria
+136,Cafeteria Rituais - Club Café,5.0,Um comentário,"R. Des. Lauro Nogueira, 1500 Livraria Cultura RioMar Fortaleza (2° Piso - Papicu, Fortaleza - CE, 60175-055",Cafeteria,,cafeteria
+137,Padaria Evandro Delicatessen,4.6,1.212 comentários,"R. Carlos Vasconcelos, 2169 - Aldeota, Fortaleza - CE, 60115-171",$,10-45 min,cafeteria
+138,Jardim Café,5.0,Um comentário,"R. Nogueira Acioli, 891 - Aldeota, Fortaleza - CE, 60110-140",Café,,cafeteria
+139,Cafe GGVP,,,"Av. Desembargador Moreira, 1800 - Aldeota, Fortaleza - CE, 60170-002",,,cafeteria
+140,Bless café & açaí,5.0,4 comentários,"R. Soriano Albuquerque, 62 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60040-470",Cafeteria,,cafeteria
+141,Lanches,4.5,2 comentários,"R. da Assunção, 25 - Centro, Fortaleza - CE, 60050-010",Cafeteria,,cafeteria
+142,Conveniência Vip Service,4.5,2 comentários,"R. Barão do Rio Branco, 1385 - Centro, Fortaleza - CE, 60025-061",Cafeteria,,cafeteria
+143,Santa Maria Gourmet,3.6,31 comentários,"Dentro do Hospital Otoclinica - Joaquim Távora (Fortaleza), Fortaleza - CE",Cafeteria,,cafeteria
+144,Go Coffee - Dom Luis,4.1,14 comentários,"Av. Júlio Abreu, 120 - loja 5 - Meireles, Fortaleza - CE, 60160-240",Café,,cafeteria
+145,Padaria Romana Delicatessen,4.3,3.000 comentários,"Av. Treze de Maio, 901 - Fátima, Fortaleza - CE, 60040-531",$$,25 min,cafeteria
+146,Tony Machine,,,"Avenida Imperador, 1060 - Centro, Fortaleza - CE, 60015-050",,,cafeteria
+147,Cafeteria Família Café,5.0,4 comentários,"R. Rosinha Sampaio, 1869 - Quintino Cunha, Fortaleza - CE, 60346-251",Cafeteria,,cafeteria
+148,Bom Café Brasil,5.0,28 comentários,"R. da Assunção, 912 - José Bonifacio, Fortaleza - CE, 60420-430",Torrefação de café,,cafeteria
+149,Tapioca & Cia,3.4,5 comentários,"R. Gen. Clarindo de Queiroz, 1745 - Centro, Fortaleza - CE, 60015-221",Cafeteria,,cafeteria
+150,"Coffee, Love & Friends",,,"Somente Delivery - R. Máximo Linhares, 310 - Cidade dos Funcionários, Fortaleza - CE, 60822-482","Loja de cestas de presente em Fortaleza, Ceará",,cafeteria
+151,Café Solar Fortaleza,4.8,20 comentários,"R. Leonardo Mota, 295 - Meireles, Fortaleza - CE, 60160-110",Cafeteria,,cafeteria
+152,Madocinhos,5.0,3 comentários,"Rua Governador Sampaio - Centro, Fortaleza - CE, 60055-050",Lanchonete,,cafeteria
+153,Tortelê,,,"R. Des. Lauro Nogueira - Papicu, Fortaleza - CE, 60175-055",,,cafeteria
+154,Le Pain Le Café Boulangerie,4.5,180 comentários,"R. Monsenhor Catão, 1430 - Aldeota, Fortaleza - CE, 60175-000",Cafeteria,,cafeteria
+155,Catarina Cafe,5.0,42 comentários,"Av. Eng. Santana Jr., 999 - Papicu, Fortaleza - CE, 60175-652",Cafeteria,,cafeteria
+156,Panebox Gourmet (Fátima),4.3,1.192 comentários,"Rua Monsenhor Otávio de Castro, 582 - Fátima, Fortaleza - CE, 60050-150",$$,20 min,cafeteria
+157,Le Caféine,,,"Av Santos Dumont 3130 Quiosque 102, Piso 1, Fortaleza - CE, 60150-162",,,cafeteria
+158,Ponto do Guaraná e Cafeteria,5.0,3 comentários,"R. Barão de Aracati, 886 - Aldeota, Fortaleza - CE, 60115-081",Lanchonete,,cafeteria
+159,Moncloa Tea Boutique,4.8,20 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-065",Loja de chás,,cafeteria
+160,Sablé Diamant,4.6,1.073 comentários,"Rua Dr. José Lourenço, 1414 - Aldeota, Fortaleza - CE, 60115-280",$$$,,cafeteria
+161,JN Bolos e Confeitaria,,,"Rua Solon Pinheiro, 180 - Centro, Fortaleza - CE, 60050-040",,,cafeteria
+162,Espaço Vida Saudável Fit Lounge Bem Fica,4.9,14 comentários,"R. da Assunção, 1189 - José Bonifacio, Fortaleza - CE, 60050-011",Casa de chá tradicional,,cafeteria
+163,Mais1 Café - Fortaleza,4.8,22 comentários,"R. Vicente Leite, 876 - Meireles, Fortaleza - CE, 60170-150",Cafeteria,,cafeteria
+164,Pâine Croissanterie,4.3,20 comentários,"R. Des. Lauro Nogueira - Papicu, Fortaleza - CE, 60175-055",Patisserie,,cafeteria
+165,Monstera Café Cultural,5.0,3 comentários,"Av. Pontes Vieira, 417 - Dionísio Torres, Fortaleza - CE, 60130-240",Café,,cafeteria
+166,Café Passeio,4.5,1.044 comentários,"Passeio Público - R. Dr. João Moreira - Centro, Fortaleza - CE, 60030-000",$$,45 min a 2 h,cafeteria
+167,Vibe café,3.7,7 comentários,"Rua Manuel Queirós, 511A - Cocó, Fortaleza - CE, 60192-220",Cafeteria,,cafeteria
+168,Empório Brownie,4.4,22 comentários,"R. Carapinima, 2200 - Benfica, Fortaleza - CE, 60015-290",Padaria,,cafeteria
+169,CAFE CARAMELLO FORTALEZA - DISTRIBUIDORA,5.0,Um comentário,"R. Tibúrcio Cavalcante, 1675 - Meireles, Fortaleza - CE, 60125-045",Café,,cafeteria
+170,Cheirim Bão,,,"Av. Santos Dumont, 3131 - Aldeota, Fortaleza - CE, 60150-162",,,cafeteria
+171,D’ellas Cafeteria,4.4,8 comentários,"Rua Torres Câmara, 181 - Aldeota, Fortaleza - CE, 60150-060",Café,,cafeteria
+172,Empório do Cacau Brasil,5.0,7 comentários,"R. Sen. Pompeu, 2610 - loja 17 - José Bonifacio, Fortaleza - CE, 60025-001",Cafeteria,,cafeteria
+173,Café Santa Clara,,,"Av. Washington Soares, 85 - Loja 68 - Messejana, Fortaleza - CE, 60810-350",,,cafeteria
+174,cafe dek porronda,,,"R. Barão do Rio Branco, 1006 - Centro, Fortaleza - CE, 60025-060",,,cafeteria
+175,Loja Ostara,5.0,Um comentário,"R. Castro e Silva, 401 - Centro, Fortaleza - CE, 60030-010",Sorveteria,,cafeteria
+176,Trino Café Montese | Sua cafeteria no Montese,4.8,221 comentários,"R. Edite Braga, 1310 - Montese, Fortaleza - CE, 60410-222",Café,,cafeteria
+177,Tortelê - Riomar Fortaleza,,,"Rua Desembargador Lauro Nogueira 1500, Piso L2 2052 - Papicu, Fortaleza - CE, 60175-055",Confeitaria,15 min,cafeteria
+178,Café Aurora,5.0,Um comentário,"Alameda das Boas Noites, 333A - Cidade 2000, Fortaleza - CE, 60190-180",Café,,cafeteria
+179,Vibe 085,4.6,172 comentários,"Rua Manuel Queirós, 511 - Cocó, Fortaleza - CE, 60192-220",$$,"2-4,5 horas",cafeteria
+180,Launic caralem,,,"Av. das Graviolas, 1000 - Cidade 2000, Fortaleza - CE, 60190-560",,,cafeteria
+181,"Emporio, café, almoço.",,,"Av. Dioguinho, 4792-4800 - Vicente Pinzon, Fortaleza - CE, 60182-125",,,cafeteria
+182,Cafe Marita FORTALEZA CE,5.0,2 comentários,"R. Alagoas, 1169 - Demócrito Rocha, Fortaleza - CE, 60440-150",Loja de produtos naturais,,cafeteria
+183,Bento Cafeteria e Rostisseria,5.0,5 comentários,"Rua Padre Valdevino, 1138 - Aldeota, Fortaleza - CE, 60135-040",Restaurante,,cafeteria
+184,Boutique do Café,4.3,26 comentários,"Av. Leste Oeste, 3569 - Cristo Redentor, Fortaleza - CE, 60010-450",Café,,cafeteria
+185,ELO COZINHA AFETIVA,5.0,22 comentários,"Rua Torres Câmara, 100 - Aldeota, Fortaleza - CE, 60150-060",Cafeteria,,cafeteria
+186,Lindt,,,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-065",Chocolateria,10 min,cafeteria
+187,Livraria Lamarca,4.7,752 comentários,"Av. da Universidade, 2475 - Benfica, Fortaleza - CE, 60020-180",Livraria,,cafeteria
+188,Fortaleza,,,"Vila Bachá, 15 - Meireles, Fortaleza - CE, 60160-050",,,cafeteria
+189,Guanabara Pastelaria,4.7,505 comentários,"R. Major Facundo, 1003 - Centro, Fortaleza - CE, 60025-100",$,20 min,cafeteria
+190,Bistrô da Silvestre,,,"Centro, Fortaleza - CE, 60055-080",,,cafeteria
+191,LeCafé,,,"R. Gen. Clarindo de Queiroz, 1745 - Box 350 - Farias Brito, Fortaleza - CE, 60010-250",,,cafeteria
+192,Candyman bolos e doces,5.0,6 comentários,"Alameda das Crisadálias - Cidade 2000, Fortaleza - CE, 60190-380",Confeitaria,,cafeteria
+193,Leão do Sul Pastelaria,4.2,454 comentários,"R. Pedro Borges, 193 - Centro, Fortaleza - CE, 60055-110",$$,20 min,cafeteria
+194,Café Com Óculos,4.0,8 comentários,"R. Ildefonso Albano, 1445 - Aldeota, Fortaleza - CE, 60115-000","Ótica em Fortaleza, Ceará",,cafeteria
+195,Rs Panificadora,4.6,9 comentários,"R. Paulo Mendes, 308 - Antonio Diogo, Fortaleza - CE, 60182-410",Padaria,,cafeteria
+196,Mercantinho,4.8,4 comentários,"Av. Visconde do Rio Branco, 2412 - José Bonifacio, Fortaleza - CE, 60110-001",Supermercado,,cafeteria
+197,Brazilian Coffee,,,"R. Carapinima, 2200 - 139 - Benfica, Fortaleza - CE, 60015-329","Loja de departamento em Fortaleza, Ceará",,cafeteria
+198,Cafe Caramello C.D.,5.0,2 comentários,"R. Tibúrcio Cavalcante - Fortaleza, CE, 60125-045",Café,,cafeteria
+199,Café Nordeste,4.0,4 comentários,"Rua Tigipió, 33 - Praia de Iracema, Fortaleza - CE, 60060-420",Café,,cafeteria
+200,Indie Bistrô & Arte,4.5,110 comentários,"R. Marcondes Pereira, 43 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60130-060",$$,,cafeteria
+201,Nhamy Nhamy Mercado Saudável,5.0,20 comentários,"Av. Viena Weyne, 370 - loja 10 - Cambeba, Fortaleza - CE, 60822-180",Restaurante,"20 min a 1,5 h",delivery de comida
+202,Verdelima Restaurante,4.5,477 comentários,"R. Joaquim Nabuco, 1283 - Aldeota, Fortaleza - CE, 60125-055",$$,25 min a 1 h,delivery de comida
+203,Divina Comida,,,"Rua Desembargador Leite Albuquerque, 920 - Aldeota, Fortaleza - CE, 60150-100",$$,30 min,delivery de comida
+204,Delivery Menu,,,"R. Osvaldo Cruz, 2085 - Dionísio Torres, Fortaleza - CE, 60125-151",Delivery,,delivery de comida
+205,Delivery da Silvana e Kelson,5.0,Um comentário,"Alameda Maria da Glória - Cidade 2000, Fortaleza - CE, 60190-180",Restaurante de comida caseira,,delivery de comida
+206,Saladex,,,"Rua Frei Mansueto, 160 - Meireles, Fortaleza - CE, 60175-070",$$,,delivery de comida
+207,"Carneiro do Ordones Jovita: Churrasco, Pratos Executivos, Cerveja, Restaurante, Delivery Fortaleza CE",,,"Av. Jovita Feitosa, 289 - Parquelândia, Fortaleza - CE, 60455-410",Restaurante,"1-2,5 horas",delivery de comida
+208,Brasileirinho Delivery,,,"R. Costa Barros, 941 - Loja 04 e 05 - Aldeota, Fortaleza - CE, 60160-280",$,,delivery de comida
+209,Divina Comida,,,"Rua Torres Câmara, 135 - Aldeota, Fortaleza - CE, 60150-060",$$,"30 min a 1,5 h",delivery de comida
+210,China In Box Praia,,,"Av. Santos Dumont, 6945 - Manuel Dias Branco, Fortaleza - CE, 60175-057",$$,15-45 min,delivery de comida
+211,"Porpino Burger: Hambúrguer, Batata Frita, Hamburgueria Delivery Fortaleza CE",,,"Av. Senador Virgílio Távora, 597 - Meireles, Fortaleza - CE, 60170-265",$$,,delivery de comida
+212,Frango Chicken Delivery,,,"R. José Vilar, 734 - Meireles, Fortaleza - CE, 60125-025",Delivery,,delivery de comida
+213,Rafael Marmitaria Delivery,5.0,19 comentários,"R. Costa Barros, 249 - Aldeota, Fortaleza - CE, 60160-280",Restaurante de comida para viagem,,delivery de comida
+214,"Habib's Parque Shopping: Esfirra, Kibe, Sanduíche, Delivery, Fortaleza CE",,,"R. Dr. Gilberto Studart, 155 - Loja 34, 35 e 36 - Cocó, Fortaleza - CE, 60192-105",$$,10 min a 1 h,delivery de comida
+215,Ceará Food,5.0,4 comentários,"R. Gonçalves Lêdo, 1541 - Loja 2 - Centro, Fortaleza - CE, 60110-261",Restaurante de comida caseira,,delivery de comida
+216,China in Box,4.5,608 comentários,"Av. Santos Dumont, 1206 - Aldeota, Fortaleza - CE, 60150-160",$$,,delivery de comida
+217,"NBS Burguer: Hambúrgueres, Hot Dog, Hamburgueria, Delivery, Fortaleza CE",,,"R. Beni Carvalho, 677 - Dionísio Torres, Fortaleza - CE, 60135-400",Hamburgueria,20 min,delivery de comida
+218,Comida de Vó Delivery,4.3,11 comentários,"R. Cuiabá, 190 - Jóquei Clube, Fortaleza - CE, 60510-055",Delivery,,delivery de comida
+219,"Habib's Aldeota: Esfirra, Kibe, Sanduíche, Delivery, Fortaleza CE",,,"Av. da Abolição, 1780 - Meireles, Fortaleza - CE, 60165-080",$$,20 min a 1 h,delivery de comida
+220,Gosto Leve,,,(85) 3221-6052,,,delivery de comida
+221,"Two Brothers Cocó: Pizza, Massas, Calzones, Pizzaria, Delivery, Fortaleza CE",,,"R. Batista de Oliveira, 1071 - Cocó, Fortaleza - CE, 60192-340",Pizzaria,,delivery de comida
+222,La Forneria Delivery,,,"R. Andrade Furtado, 2115 B - Cocó, Fortaleza - CE, 60192-085",$$,,delivery de comida
+223,"Grow Healthy Food: Alimentação Saudável, opções Veganas em Fortaleza",4.4,91 comentários,"Stação 24h - Av. da Abolição, 2400 - Meireles, Fortaleza - CE, 60165-080",Restaurante de café da manhã,,delivery de comida
+224,"Olli's Burger: Hamburgueria, Batata Frita, Sobremesa, Delivery, Fortaleza CE",,,"R. Ana Bilhar, 1111 - Meireles, Fortaleza - CE, 60160-110",Hamburgueria,"30 min a 1,5 h",delivery de comida
+225,"Habib's Treze de Maio: Esfirra, Kibe, Sanduíche, Delivery, Fortaleza CE",4.0,5.071 comentários,"Av. Treze de Maio, 1746 - Fátima, Fortaleza - CE, 60040-531",$$,15 min a 1 h,delivery de comida
+226,"Grand Gourmet Pizzaria: Pizza Crocante, Marmitaria, Delivery em Fortaleza",,,"Rua Afonso Celso, 547 - Aldeota, Fortaleza - CE, 60140-190",$,,delivery de comida
+227,China Gourmet,,,"R. Rodrigues Júnior, 1063 - Centro, Fortaleza - CE, 60110-001",$,,delivery de comida
+228,"Parrileiro: Restaurante, Churrasco, Happy Hour, Parrila, Delivery em Fortaleza CE",,,"Av. Dep. Joaquim de Figueiredo Correia, 194 - Cambeba, Fortaleza - CE, 60822-360",$$,"1-2,5 horas",delivery de comida
+229,Tigela Refeições e Lanches,,,"R. Eduardo Garcia, 13 - Aldeota, Fortaleza - CE, 60150-100",Restaurante self-service,,delivery de comida
+230,Pasto e Pizzas,,,"Av. Júlio Abreu, 160 - Varjota, Fortaleza - CE, 60160-240",Restaurante,1-2 horas,delivery de comida
+231,Delicias da Iaiá,,,"Rua Dr. Ribamar Lobo, N° 20 - Papicu, Fortaleza - CE, 60176-145",Restaurante brasileiro,10-45 min,delivery de comida
+232,Vatapá Delivery,4.6,5 comentários,"Av. José Jatahy, 1563 - Jacarecanga, Fortaleza - CE, 60010-681",Restaurante,,delivery de comida
+233,Menu Brands,,,"Rua Padre Valdevino, 2520 - Aldeota, Fortaleza - CE, 60135-041",Delivery,,delivery de comida
+234,Júnior da Picanha,,,"Av. Nilo Gomes de Soares, 201 - Cidade 2000, Fortaleza - CE, 60190-630",$$,"1-2,5 horas",delivery de comida
+235,Pizzaria Bem na Hora,4.9,18 comentários,"Alameda Telma - Cidade 2000, Fortaleza - CE, 60190-290",Pizzaria,,delivery de comida
+236,Sra. Quentinha Fortaleza Self-Service E Delivery,,,"R. Barão do Rio Branco, 2251 - Centro, Fortaleza - CE, 60011-060",Restaurante,,delivery de comida
+237,"Padaria Portugália: Panificadora, Confeitaria, Delivery, Cocó, Fortaleza CE",,,"Rua Professor Otávio Lobo, 755 - Cocó, Fortaleza - CE, 60192-290",$$,20 min,delivery de comida
+238,Qué do Quê Restaurante Lanches,,,"Rua General Tertuliano Potiguara, 313 - Aldeota, Fortaleza - CE, 60135-280",Restaurante fast-food,25 min,delivery de comida
+239,Pizza To Go,4.4,51 comentários,"R. Eduardo Garcia, 1000 - Aldeota, Fortaleza - CE, 60150-100",Pizzaria,,delivery de comida
+240,"Ordo's Burguer: Hambúrgueres, Hot Dogs, Hamburgueria, Delivery Fortaleza CE",,,"Av. Jovita Feitosa, 279 - Parquelândia, Fortaleza - CE, 60455-410",$$,45 min a 2 h,delivery de comida
+241,"Barney's Burger Fábrica: Hamburgueria, Sobremesas, Delivery em Fortaleza CE",,,"Vila, R. Doctor Antônio Goes, 1125 - casa 7 - Aldeota, Fortaleza - CE, 60115-120",Hamburgueria,,delivery de comida
+242,"Two Brothers Aldeota: Pizza, Massas, Calzones, Pizzaria, Delivery, Fortaleza CE",,,"R. Alfredo Severo, 112 - Aldeota, Fortaleza - CE, 60150-040",Pizzaria,,delivery de comida
+243,Restaurante Fogão150,,,"R. Barão de Aracati, 150 - Meireles, Fortaleza - CE, 60115-080",$$,,delivery de comida
+244,"Camarada Camarão: Camarões, Peixes, Happy Hour, Restaurante, Fortaleza CE",,,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",$$$,5-45 min,delivery de comida
+245,Vai Já Lanches,,,"Rua Professor Álvaro Costa, 806 - Vicente Pinzon, Fortaleza - CE, 60182-014",Lanchonete,,delivery de comida
+246,Sushi-Bar e Pizzaria FV Delivery,4.0,8 comentários,"666, Av. Dos Jangadeiros - Vicente Pinzon, Fortaleza - CE, 60175-440",Pizzaria,,delivery de comida
+247,Ôxe Galeteria e Marmitaria Delivery,3.7,6 comentários,"R. Gonçalves Lêdo, 48 - Praia de Iracema, Fortaleza - CE, 60110-261",Restaurante,,delivery de comida
+248,Bill Esfiha Delivery,,,"Av. Aguanambi, 926 - José Bonifacio, Fortaleza - CE, 60055-402",Delivery,,delivery de comida
+249,Marmitas e Lanches,3.0,2 comentários,"R. República da Armênia, 110 - Parque Manibura, Fortaleza - CE, 60821-760",Lanchonete,,delivery de comida
+250,Marmitaria marmitex quentinha restaurante Comidinha caseira da marcia delivery 989309177,,,"Rua Professor Carvalho, 3084 - Altos - Joaquim Távora (Fortaleza), Fortaleza - CE, 60120-340",Restaurante brasileiro,,delivery de comida
+251,Brittus Pizza,,,"R. Nogueira Acioli, 2001 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60356-581",$,15 min a 1 h,delivery de comida
+252,Marmitaria Delivery,,,"R. Agapito dos Santos, 465 - Centro, Fortaleza - CE, 60010-250",,,delivery de comida
+253,Menu Alimentação Saudável,,,"R. Norvinda Píres, 90 - Aldeota, Fortaleza - CE, 60150-280",$$,15-45 min,delivery de comida
+254,Duque de Coxinhas,5.0,7 comentários,"R. Gonçalves Lêdo, 175 - Centro, Fortaleza - CE, 60110-261",Delivery,,delivery de comida
+255,Temperô Food,3.8,5 comentários,"Alameda Telma, 45 - Cidade 2000, Fortaleza - CE, 60190-290",Delivery,,delivery de comida
+256,Comida Saudável e Yakisoba,4.5,20 comentários,"Av. Treze de Maio, 2118 B - Benfica, Fortaleza - CE, 60040-531",Restaurante de comida caseira,,delivery de comida
+257,Dieta Já,,,"Centro, Fortaleza - CE, 60050-040",Delivery,,delivery de comida
+258,Casa da Comida,,,"R. Sen. Pompeu, 1099 L2 - Loja 101 A 106 - Centro, Fortaleza - CE, 60025-000",,,delivery de comida
+259,Mini Menu Fortaleza,5.0,3 comentários,"Av. Viena Weyne, 370 - loja 10 - Cambeba, Fortaleza - CE, 60822-180",Restaurante,,delivery de comida
+260,Naturallís Comida Saudável,,,"Rua Josias Paulo de Sousa, 120 - Vicente Pinzon, Fortaleza - CE, 60184-110",,,delivery de comida
+261,Restaurante Frederico Delivery,,,"Av. Barão de Studart, 855 - Aldeota, Fortaleza - CE, 60120-000",,,delivery de comida
+262,Coco Bambu - Dom Pastel,,,"R. Carlos Vasconcelos, 996 - Aldeota, Fortaleza - CE, 60115-170",$$$,"1,5-2,5 horas",delivery de comida
+263,Restaurante e Marmitaria Tô Com Fome,4.5,15 comentários,"Av. Rogaciano Leite, 1860A - Cocó, Fortaleza - CE, 60821-070",Lanchonete,,delivery de comida
+264,Marmitaria Comida Caseira,4.3,18 comentários,"R. Coronel Manuel Jesuíno - Mucuripe, Fortaleza - CE, 60175-270",Restaurante de comida caseira,,delivery de comida
+265,Mangusta Restaurante e Pizzaria,,,"R. da Assunção, 1195 - José Bonifacio, Fortaleza - CE, 60040-230",Restaurante,,delivery de comida
+266,Pizzaria & Restaurante do Mar,,,"Av. César Cals, 1089 - Vicente Pinzon, Fortaleza - CE, 60182-035",Pizzaria,,delivery de comida
+267,Marmitaria Sabor Delivery,,,"Odernes Figueredo, 73, Rua Doutor José Lino, 260 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60135-260",Delivery,,delivery de comida
+268,"Saladinha Top: Saladas, Congelados, Alimentação Saudável, Delivery em Fortaleza CE",,,"R. Mário Alencar Araripe, 1080 - Lagoa Sapiranga (Coité), Fortaleza - CE, 60833-163",Saladas prontas,,delivery de comida
+269,Restaurante e Marmitaria da Flávia,,,"Av. Dioguinho, 4360 - Vicente Pinzon, Fortaleza - CE, 60183-712",Restaurante,,delivery de comida
+270,Tequenhosemolhos,,,"São João do Tauape, Fortaleza - CE, 60130-300",,,delivery de comida
+271,We Love Pizza,4.3,469 comentários,"Av. Pontes Vieira, 726 - Fátima, Fortaleza - CE, 60130-240",Delivery de Pizza,,delivery de comida
+272,Paradaise Gourmet,4.5,29 comentários,"Rua Dona Leopoldina, 53 - Centro, Fortaleza - CE, 60110-000",Delivery de Pizza,,delivery de comida
+273,Sabor no Prato Lanches e Marmitas,5.0,Um comentário,"R. Santo Amaro, 68 - Vicente Pinzon, Fortaleza - CE, 60181-750",Restaurante de comida caseira,,delivery de comida
+274,"Carneiro do Ordones Butiquim: Restaurante, Drinks, Carnes, Delivery em Fortaleza",,,"R. Azevedo Bolão, 570 - Parquelândia, Fortaleza - CE, 60450-675",$$,1-3 horas,delivery de comida
+275,Boteco da Panelada Self-service e Marmita.Temos delivery,,,"R. Joaquim Magalhães, 140 - Loja 01 - Benfica, Fortaleza - CE, 60040-160",$$,,delivery de comida
+276,Sabor de Mar,4.2,148 comentários,"Av. Desembargador Moreira, 256 - Meireles, Fortaleza - CE, 60170-000",$$,"1-2,5 horas",delivery de comida
+277,Empório de Fátima,,,"Av. Deputado Oswaldo Studart, 250 - Fátima, Fortaleza - CE, 60415-040",$$,15-45 min,delivery de comida
+278,Delicie Do Casal 20,5.0,Um comentário,"Av. Beira Mar - Meireles, Fortaleza - CE, 60165-120",Restaurante de comida caseira,,delivery de comida
+279,brotÔ congelados,,,"R. Eduardo Salgado - Aldeota, Fortaleza - CE, 60150-140",,,delivery de comida
+280,"NBS Burguer Parquelândia: Hambúrgueres, Hot Dog, Hamburgueria, Delivery, Fortaleza CE",,,"Rua Professor Nogueira, 45 - Loja 01 - Parquelândia, Fortaleza - CE, 60450-520",Hamburgueria,"30 min a 1,5 h",delivery de comida
+281,Feijoada Brasil,,,"Av. das Adenanteras, 689a - Cidade 2000, Fortaleza - CE, 60190-560",Delivery,,delivery de comida
+282,Mistura Cearense,,,"R. da Assunção, 119 - Centro, Fortaleza - CE, 60050-010",Restaurante self-service,30 min,delivery de comida
+283,"Barney's Burger Sul: Hamburgueria, Sobremesas, Delivery em Fortaleza CE",,,"R. Lourival Correia Pinho, 147 - Parque Manibura, Fortaleza - CE, 60821-720",$$$,"20 min a 1,5 h",delivery de comida
+284,Bambolê Lanches,4.1,18 comentários,"Rua do Rosário, 68 - Centro, Fortaleza - CE, 60055-090",Lanchonete,,delivery de comida
+285,Take a Juice - Varjota,4.6,122 comentários,"Av. Júlio Abreu, 160 - Loja 13 - Varjota, Fortaleza - CE, 60160-240",$$,,delivery de comida
+286,Disk marmitaria,,,"R. Novo Farol, 174 - Vicente Pinzon, Fortaleza - CE, 60181-005",Restaurante familiar,,delivery de comida
+287,Delicious Pizzaria,4.6,44 comentários,"Alameda Das Miosótes, 405 - Cidade 2000, Fortaleza - CE, 60190-490",Delivery de Pizza,,delivery de comida
+288,FRM Marmitex Delivery,,,"R. Carlos Gomes, 619 - José Bonifacio, Fortaleza - CE, 60025-101",,,delivery de comida
+289,Baiano Lanches e Comida,,,"R. Barão de Aratanha, 80 - Lj 03 - Centro, Fortaleza - CE, 60050-070",,,delivery de comida
+290,Carlos Lanches,,,"R. Antônio Pompeu, 586 - Centro, Fortaleza - CE, 60040-000",Lanchonete,30 min,delivery de comida
+291,Dunada Burger,5.0,21 comentários,"M dias branco - R. dos Cajueiros, 1421 - Fortaleza, CE, 60190-620",Hamburgueria,,delivery de comida
+292,DOM CARIOCA'S,3.0,Um comentário,"Av Dioguinho Praia do Futuro ll, Fortaleza - CE, 60371-809",Pizzaria,,delivery de comida
+293,"Butcher's 746: Steakhouse, Carnes Nobres, Churrasco, Delivery, Restaurante, Fortaleza CE",,,"R. Maria Tomásia, 746 - Aldeota, Fortaleza - CE, 60150-170",$$$,1-2 horas,delivery de comida
+294,"Zé, comida na rua",,,"Av. Almirante Barroso, 877 - loja 3 - Praia de Iracema, Fortaleza - CE, 60060-440",,,delivery de comida
+295,Creuza Burguer,,,"Alameda Ana Elisa, 34B - Cidade 2000, Fortaleza - CE, 60190-130",$,25 min,delivery de comida
+296,Frigideira do Jonny Self Service,4.6,2.259 comentários,"R. Joaquim Nabuco, 1900 - Aldeota, Fortaleza - CE, 60125-055",$$,45 min,delivery de comida
+297,Cozinha Mágica,,,"Av. Santos Dumont, 3130 - Aldeota, Fortaleza - CE, 60150-161",Restaurante self-service,15 min,delivery de comida
+298,Delicias de Horler,5.0,9 comentários,"Rua Solon Pinheiro, 218 - Centro, Fortaleza - CE, 60050-040",Restaurante,,delivery de comida
+299,"Estela Pizza: Pizza Americana, Pizza Doce, Delivery, Pizzaria, Fortaleza CE",,,"Vila, R. Doctor Antônio Goes, 1125 - Aldeota, Fortaleza - CE, 60115-120",Pizzaria,,delivery de comida
+300,Donadel Food Truck,,,"Av. Desembargador Moreira, 2355 - Aldeota, Fortaleza - CE, 60170-173",Restaurante fast-food,,delivery de comida
+301,Bom Pasto,,,"R. Rocha Lima, 166 - Centro, Fortaleza - CE, 60135-000",Restaurante self-service,30 min,delivery de comida
+302,Kêla Pasta,,,"Alameda das Tulipas, 408 - Cidade 2000, Fortaleza - CE, 60190-350",Restaurante,,delivery de comida
+303,Popizza,,,"nao rola - Aldeota, Fortaleza - CE, 60110-301",,,delivery de comida
+304,Aioli - Delivery de Delícias,4.5,8 comentários,"R. Ildefonso Albano, 870 - Meireles, Fortaleza - CE, 60115-000",Restaurante,,delivery de comida
+305,Marmitaria e Pizzaria Ernane,4.5,19 comentários,"R. Pedro Balbino, 170 - Manuel Dias Branco, Fortaleza - CE, 60191-680",Pizzaria,,delivery de comida
+306,Comida caseira sabor do goias,,,"Av. Almirante Barroso, 980 - Iracema, Fortaleza - CE, 60060-440",Restaurante,,delivery de comida
+307,Pizzaria Doro,,,"R. Pereira Filgueiras, 564 - Centro, Fortaleza - CE, 60160-150",$,15 min,delivery de comida
+308,Coco Bambu Beira Mar,4.6,18.708 comentários,"Av. Beira Mar, 3698 - Beira Mar, Fortaleza - CE, 60165-121",$$$,"1-2,5 horas",delivery de comida
+309,Restaurante da Zena,,,"R. Meton de Alencar, 549 - Centro, Fortaleza - CE, 60035-160",$$,25 min a 1 h,delivery de comida
+310,Madruga Varjota,,,"R. Coronel Manuel Jesuíno, 652 - Varjota, Fortaleza - CE, 60175-270",Restaurante self-service,,delivery de comida
+311,Dom Tiziano,,,"R. Floriano Peixoto, 799 - Centro, Fortaleza - CE, 60025-131",Restaurante self-service,30 min,delivery de comida
+312,Larica Pizzaria,,,"Av. Nila Gomes de Soárez, 403 - Cidade 2000, Fortaleza - CE, 60190-630",,,delivery de comida
+313,Italian Pizza Fortaleza,5.0,3 comentários,"Av. Antônio Sales, 1357 - quiosque 02 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60135-101",Delivery de Pizza,,delivery de comida
+314,Fisgo - Delivery de Pescados,1.0,Um comentário,"Av. Antônio Justa, 2380 - Meireles, Fortaleza - CE, 60165-090",Delivery,,delivery de comida
+315,Restaurante Família e Lanchonete,,,"Av. Desembargador Gonzaga, 144 - Cidade dos Funcionários, Fortaleza - CE, 60824-062",Lanchonete,,delivery de comida
+316,Caldos & Sopas da Jane,5.0,4 comentários,"Travessa São João, 6 - Mucuripe, Fortaleza - CE, 60175-510",Delivery,,delivery de comida
+317,Restaurante Gramado Self-Service,,,"R. Pedro Borges, 33 - Loja 21 - Centro, Fortaleza - CE, 60055-110",Restaurante self-service,30 min a 1 h,delivery de comida
+318,Beef's - Sanduíche de Churrasco,4.3,12 comentários,"Av. Desembargador Moreira, 2355 - Dionísio Torres, Fortaleza - CE, 60170-002",Restaurante,,delivery de comida
+319,Donastela Massas e Recheios,3.7,3 comentários,"R. Major Facundo, 897 - Centro, Fortaleza - CE, 60025-100",Restaurante italiano,,delivery de comida
+320,Rai Lanches,3.0,2 comentários,"R. Pedro Borges, 33 - Centro, Fortaleza - CE, 60055-120",Restaurante fast-food,,delivery de comida
+321,"Livremente Padaria Sem Glúten, Sem Lactose: Pão, Bolo, Delivery, Fortaleza CE",,,"R. Amarílio Cartaxo, 169 - De Lourdes, Fortaleza - CE, 60177-030",Padaria,,delivery de comida
+322,Juliana's Grill Self-Service,,,"R. Barão do Rio Branco, 1396 - Centro, Fortaleza - CE, 60025-060",Restaurante self-service,25 min a 1 h,delivery de comida
+323,Irene comida saudável,,,"Alameda das cravinas, 121 Cidade 2000 Papicu - Cidade 2000, Fortaleza - CE, 60190-320",,,delivery de comida
+324,Delivery DiFábios,5.0,Um comentário,"R. Carlos Gomes, 199 - José Bonifacio, Fortaleza - CE, 60040-230",Delivery de Pizza,,delivery de comida
+325,De Babo Restaurante,4.6,172 comentários,"Rua do Rosário, 86 - Centro, Fortaleza - CE, 60135-050",Restaurante,,delivery de comida
+326,Fino Sabor,,,"R. J da Penha, 421 - Centro, Fortaleza - CE, 60110-120",$$,,delivery de comida
+327,Q do Q Self Service Salgados e Lanches,3.0,2 comentários,"Rua General Tertuliano Potiguara, 297 - Aldeota, Fortaleza - CE, 60135-280",Restaurante self-service,,delivery de comida
+328,Sal e Açucar,5.0,2 comentários,"Avenida Imperador, 1473 - Farias Brito, Fortaleza - CE, 60015-052",Delivery,,delivery de comida
+329,Porquilo Self-Service,,,"R. Barão do Rio Branco, 1221 - Centro, Fortaleza - CE, 60025-061",$$,45 min,delivery de comida
+330,Pizza Prime,4.0,141 comentários,"R. Barão de Aratanha, 873 - José Bonifacio, Fortaleza - CE, 60050-071",Delivery de Pizza,,delivery de comida
+331,Republic Pizzaria Delivery,4.4,54 comentários,"R. Waldery Uchôa, 188 - Benfica, Fortaleza - CE, 60020-110",Delivery de Pizza,,delivery de comida
+332,Jotacê Carnes & Grill - Cocó,,,"Alameda das Angélicas, 340 A - Cocó, Fortaleza - CE, 60192-085",Açougue,,delivery de comida
+333,Salty salgados,3.7,3 comentários,"R. dos Cajueiros, 1409 - Manuel Dias Branco, Fortaleza - CE, 60190-620",Lanchonete,,delivery de comida
+334,"Açailândia Conceito: Açaí, Cremes, Milk Shake, Pizzas, Delivery em Fortaleza CE",4.8,1.240 comentários,"R. Conegundes Rodrigues, 425 - Montese, Fortaleza - CE, 60410-226",Loja de açaí,15-45 min,delivery de comida
+335,Talita Lanches e Refeições,5.0,Um comentário,"Av. Antônio Sales, 1001 - loja 6 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60135-100",Restaurante,,delivery de comida
+336,Restaurante Estação do marisco Fortaleza Ceará,5.0,20 comentários,"R. Frederico Borges, 404 - Meireles, Fortaleza - CE, 60175-040",Restaurante de frutos do mar,,delivery de comida
+337,Lucio Lanches,,,"B - R. Rodrigues Júnior, 1432 - Centro, Fortaleza - CE, 60060-001",Lanchonete,,delivery de comida
+338,Quentinha do Chef,3.9,7 comentários,"R. Antônio Drumond, 165 - Monte Castelo, Fortaleza - CE, 60325-700",Restaurante,,delivery de comida
+339,Tropical Restaurante,,,"R. da Assunção, 16 - Centro, Fortaleza - CE, 60050-010",$,30 min,delivery de comida
+340,Comida D'Cozinha,5.0,2 comentários,"Av. Pres. Castelo Branco, 2435 - Carlito Pamplona, Fortaleza - CE, 60312-060",Lanchonete,,delivery de comida
+341,Picanha's Food Truck,4.0,4 comentários,"Av. Desembargador Moreira, 2355 - Aldeota, Fortaleza - CE, 60170-172",Restaurante,,delivery de comida
+342,Flavio Lanches,,,"Rua Governador Sampaio, 431 - Centro, Fortaleza - CE, 60055-050",Restaurante,,delivery de comida
+343,Amigos Sushi,3.3,15 comentários,"R. Vilebaldo Aguiar, 2222 - Cocó, Fortaleza - CE, 60192-035",Restaurante de sushi,,delivery de comida
+344,Lanchonete Hiper Lanche,4.0,Um comentário,"Rua General Bezerril, 593 - Centro, Fortaleza - CE, 60055-100",Lanchonete,,delivery de comida
+345,Marmitaria e churrasquinho Rosana,,,"Miguel calmont 526, Fortaleza - CE, 60821-200",,,delivery de comida
+346,BM Log Express,5.0,Um comentário,"R. Nogueira Acioli, 996 - Centro, Fortaleza - CE, 60110-140",Serviço de entrega,,delivery de comida
+347,Amazon Delícia,,,"R. Sen. Pompeu, 1579 - Centro, Fortaleza - CE, 60025-001",Restaurante,,delivery de comida
+348,Food Brazil,,,"R. Major Facundo, 833 - Centro, Fortaleza - CE, 60025-100",Restaurante,30 min a 1 h,delivery de comida
+349,Cantinho Da Tica,,,"R. Cel. Ferraz, 284 - Centro, Fortaleza - CE, 60060-150",Restaurante,,delivery de comida
+350,Restaurante Compasso Gourmet,,,"R. Pedro 1, 349 - Centro, Fortaleza - CE, 60035-100",$$,30 min,delivery de comida
+351,Zoá Gastrobar,,,"R. Visc. de Mauá, 2217 - Dionísio Torres, Fortaleza - CE, 60125-161",Restaurante,45 min a 2 h,delivery de comida
+352,Brazinha Grill 2,,,"Rua General Bezerril, 590 - Centro, Fortaleza - CE, 60055-100",Restaurante,30 min,delivery de comida
+353,Hanna's Restaurante | Self Service | Centro,,,"R. Major Facundo, 736 - Centro, Fortaleza - CE, 60025-100",$$,45 min,delivery de comida
+354,Acarajé da Ieda,,,"Esquina da Praça do Ferreira com, R. Floriano Peixoto - Centro, Fortaleza - CE, 60025-230",$,,delivery de comida
+355,Macarronada É Massa,,,"R. Gen. Sampaio, 1235 - Centro, Fortaleza - CE, 60020-030",Restaurante italiano,,delivery de comida
+356,Mercantil Vegano,4.4,18 comentários,"R. Major Facundo, 1826 - José Bonifacio, Fortaleza - CE, 60025-101",Fabricante de alimentos,,delivery de comida
+357,Play Lanches,,,"R. Liberato Barroso, 675 - Centro, Fortaleza - CE, 60030-160",Lanchonete,,delivery de comida
+358,Catina Primu's Self-service,,,"R. da Assunção, 35 - Centro, Fortaleza - CE, 60050-010",$,,delivery de comida
+359,Bambs Bar e Restaurante,4.7,30 comentários,"R. Floriano Peixoto, 1166 - Centro, Fortaleza - CE, 60025-131",Bar,"25 min a 1,5 h",delivery de comida
+360,Restaurante Sabores Maia,5.0,Um comentário,"R. Gen. Murilo Borges, 571 - Cais do Porto, Fortaleza - CE, 60180-010",Restaurante familiar,,delivery de comida
+361,Irmão Lanches,,,"Av. Visconde do Rio Branco, 1719 - Centro, Fortaleza - CE, 60055-170",$,15 min,delivery de comida
+362,"Pecorino Bar & Trattoria: Massas, Vinhos, Delivery, Fortaleza CE",4.8,12 comentários,"R. Frederico Borges, 585 - Meireles, Fortaleza - CE, 60175-040",Restaurante italiano,,delivery de comida
+363,Tios Comidas Caseiras,5.0,Um comentário,"Av. Dolor Barreira, 259 - Vicente Pinzon, Fortaleza - CE, 60181-140",Restaurante,,delivery de comida
+364,Maria Clara Self Service,,,"Rua General Bezerril, 503 - Centro, Fortaleza - CE, 60055-100",Restaurante,45 min,delivery de comida
+365,Restaurante Nonas,,,"Rua Conselheiro Tristão, 236 - Centro, Fortaleza - CE, 60050-100",$,,delivery de comida
+366,Jotacê Carnes & Grill - Benfica,3.5,8 comentários,"Av. Domingos Olímpio, 387 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60040-081",Açougue,,delivery de comida
+367,Giappone Sushibar,4.1,33 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",Restaurante de sushi,,delivery de comida
+368,Carioca's Restaurant e Pizzaria,4.8,4 comentários,"Rua Tavares Coutinho, 1782 - Varjota, Fortaleza - CE, 60160-140",Pizzaria,,delivery de comida
+369,Point do Pesk Pag,,,"Av. Nila Gomes de Soárez, 403 - Cidade 2000, Fortaleza - CE, 60190-630",Restaurante,,delivery de comida
+370,L'escale Shopping Central,4.4,242 comentários,"R. Sen. Pompeu, 856 - Centro, Fortaleza - CE, 60025-000",$$,,delivery de comida
+371,VóBisa Festas&Eventos,5.0,21 comentários,"R. Barão de Aratanha, 363 - José Bonifacio, Fortaleza - CE, 60050-071",Empresa de organização de eventos,,delivery de comida
+372,Restaurante Amaral (o goiano),,,"Av. César Cals, 953 - Vicente Pinzon, Fortaleza - CE, 60182-035",Restaurante,25 min,delivery de comida
+373,Açaiteria Sabor a Vida,,,"R. Antônio Pompeu, 584 - Centro, Fortaleza - CE, 60040-000",,,delivery de comida
+374,Bar e Restaurante Dois Irmãos,,,"R. Pero Coelho, 136 - Centro, Fortaleza - CE, 60055-170",Restaurante,30 min,delivery de comida
+375,Empório Errejota,,,"R. Floriano Peixoto, 1063 - Centro, Fortaleza - CE, 60025-131",,,delivery de comida
+376,Self Service Robinho comida caseira,4.0,Um comentário,"Rua Torres Câmara, 648 - Aldeota, Fortaleza - CE, 60150-060",Restaurante self-service,,delivery de comida
+377,Neto e Lurdinha Frituras em Geral,2.7,9 comentários,"Av. Beira Mar, 4699 - box 02 - Mucuripe, Fortaleza - CE, 60165-120",Restaurante de frutos do mar,,delivery de comida
+378,Restaurante e Lanchonete Cartaxo,,,"Rua Bárbara de Alencar, 940 - Centro, Fortaleza - CE, 60140-025",,,delivery de comida
+379,Ed jú Lanches,5.0,4 comentários,"R. Floriano Peixoto, 1474 - José Bonifacio, Fortaleza - CE, 60025-131",Lanchonete,,delivery de comida
+380,Geladinho do Maia,,,"R. Jaime Benévolo, 695 - José Bonifacio, Fortaleza - CE, 60050-081",,,delivery de comida
+381,Yaking food,,,"R. Fiscal Vieira, 3472 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60120-170",,,delivery de comida
+382,"Iaçá: Açai, Distribuidora, Polpa, Açai do Pará, Açai Iaça, Belém, Fortaleza CE",5.0,8 comentários,"R. Sen. Alencar, 652 - Loja 2 - Centro, Fortaleza - CE, 60030-050",Delivery,,delivery de comida
+383,Cafeteria Prosa e Queijos,4.9,40 comentários,"Av. Dr. Aldy Mentor, 430 - Cidade 2000, Fortaleza - CE, 60191-106",Cafeteria,15 min,delivery de comida
+384,Comidart Comércio e Serv de Restaurante,5.0,Um comentário,"R. Maria Tomásia, 388 - Aldeota, Fortaleza - CE, 60150-170",Restaurante fast-food,,delivery de comida
+385,Cucina di Maria,5.0,Um comentário,"Rua Visconde de Cairu, 431 - Praia do Futuro, Fortaleza - CE, 60182-130",Restaurante de comida para viagem,,delivery de comida
+386,Skina do Açaí,4.8,6 comentários,"R. Pedro 1, 357 - Centro, Fortaleza - CE, 60035-100",Lanchonete,,delivery de comida
+387,Boteco da Valdeci,,,"em frente a areninha - R. dos Cajueiros, 120 - Cidade 2000, Fortaleza - CE, 60190-270",Restaurante,,delivery de comida
+388,Master Alimentos,,,"Av. Dom Manuel, 1196 - Centro, Fortaleza - CE, 60060-091",,,delivery de comida
+389,Dimaias Comércio,2.5,2 comentários,"R. Joaquim Magalhães, 272 - Benfica, Fortaleza - CE, 60040-160",Delivery de Pizza,,delivery de comida
+390,doceteria Maria Bonita,,,"R. Barão do Rio Branco, 1958 - José Bonifacio, Fortaleza - CE, 60025-062",,,delivery de comida
+391,Iphome_estacio,,,"Av. Duque de Caxias, 101 - Centro, Fortaleza - CE, 60035-111",Restaurante,,delivery de comida
+392,Padoca Café Centro,5.0,Um comentário,"R. Major Facundo, 981 E - Centro, Fortaleza - CE, 60025-100",Lanchonete,,delivery de comida
+393,Água e Gelada AM,5.0,Um comentário,"R. Rodrigues Júnior, 535 - Centro, Fortaleza - CE, 60050-180",Fornecedor de água engarrafada,,delivery de comida
+394,PlastMax Embalagens,4.8,41 comentários,"Loja de Embalagens Descartáveis Embalagens Descartáveis para Alimentos Embalagens Descartáveis Produtos Descartáveis com Melhor Preço - R. Gen. Clarindo de Queiroz, 1606 - Centro, Fortaleza - CE, 60035-131",Empresa de embalagens,,delivery de comida
+395,Casa do Alfajor,,,"R. Dragão do Mar, 10 - Centro, Fortaleza - CE, 60060-390",Restaurante,,delivery de comida
+396,Jambalera confeitaria vegana,,,"Av. Domingos Olímpio, 391 - José Bonifacio, Fortaleza - CE, 60040-081",Confeitaria,,delivery de comida
+397,Damião do Guaraná,4.7,361 comentários,"R. da Assunção, 81 - Centro, Fortaleza - CE, 60050-010",$,20 min,delivery de comida
+398,Matsurya,,,"R. Frederico Borges, 280 - Meireles, Fortaleza - CE, 60175-040",Restaurante japonês,,delivery de comida
+399,Cozinha Boa Restaurante e Lanchonete,,,"R. Dep. Matoso Filho, 1318 - Antônio Bezerra, Fortaleza - CE, 60351-360",,,delivery de comida
+400,La Mandolina Cozinha Experimental,3.7,3 comentários,"Condomínio do Edifício Cearense - R. Barão de Aratanha, 186 - loja 1 - Centro, Fortaleza - CE, 60050-070",Curso de Culinária,,delivery de comida
+401,Rose's Cafeteria & Restaurante,4.8,19 comentários,"R. Pedro Borges, 33 - Loja 01 - Centro, Fortaleza - CE, 60055-120",Cafeteria,25 min a 1 h,delivery de comida
+402,IMPERIO DO BOLO,4.6,7 comentários,"R. Edgar Borges, 74 - Centro, Fortaleza - CE, 60050-000",Doceria,,delivery de comida
+403,Mercado dos Peixes (Centro),4.2,17 comentários,"Rua General Bezerril, 630-698 - Centro, Fortaleza - CE, 60135-050",Restaurante,,delivery de comida
+404,Vínise,4.9,11 comentários,"R. Marcelino Lopes, 4200 - Lagoa Sapiranga (Coité), Fortaleza - CE, 60833-075",Loja de bebidas alcoólicas,,delivery de comida
+405,Espaço Herbalife EVS JG Vida Saudável,4.7,3 comentários,"Condomínio Edif Palácio Progresso - R. Pedro Borges, 33 - Sala 805 - Centro, Fortaleza - CE, 60055-110",Restaurante,,delivery de comida
+406,Padaria Romana (Centro),4.2,865 comentários,"Av. Duque de Caxias, 137 - Centro, Fortaleza - CE, 60035-110",$$,15 min,delivery de comida
+407,Consultoria Íntima Sex shop e Consultoria Sexual em Fortaleza somente delivery,5.0,7 comentários,"Av. Nila Gomes de Soárez - Cidade 2000, Fortaleza - CE, 60190-630",Sex Shop,,delivery de comida
+408,Ds Festas,3.1,50 comentários,"R. Barão do Rio Branco, 2035 - Centro, Fortaleza - CE, 60025-062",Confeitaria,,delivery de comida
+409,Liv Up - Fortaleza,5.0,5 comentários,"Rua Afonso Celso, 300 - Aldeota, Fortaleza - CE, 60140-190",Delivery,,delivery de comida
+410,Refeicões da Hora,,,"R. Rodrigues Júnior, 935 - Centro, Fortaleza - CE, 60060-001",,,delivery de comida
+411,Talher Eventos & Ocasiões por Silvia Gonçalves,,,"R. José Romero de Barros, 31 - Centro, Fortaleza - CE, 60055-161",,,delivery de comida
+412,Restaurante Comida Cazeira,,,"Av. Pintor Antônio Bandeira, 97 - Cais do Porto, Fortaleza - CE, 60180-476",,,delivery de comida
+413,Do seu jeito,,,"Av. Dom Luís, 798 - Meireles, Fortaleza - CE, 60160-230",,,delivery de comida
+414,Indie Bistrô & Arte,,,"R. Marcondes Pereira, 43 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60130-060",$$,,delivery de comida
+423,Dunada Burger,5.0,21 comentários,"M dias branco - R. dos Cajueiros, 1421 - Fortaleza, CE, 60190-620",Hamburgueria,,drive thru
+426,Iracemado Lanches,5.0,2 comentários,"R. dos Cajueiros, 1593 - Cidade 2000, Fortaleza - CE, 60190-620",Restaurante fast-food,,drive thru
+427,The Waffle King Fortaleza,4.5,101 comentários,"R. Dr. Gilberto Studart, 155 - Loja 09 - Cocó, Fortaleza - CE, 60192-105",Restaurante fast-food,10 min,drive thru
+428,El Ranchero Hamburgueria,4.4,31 comentários,"R. João Cordeiro, 201 - Praia de Iracema, Fortaleza - CE, 60110-355",Hamburgueria,30 min a 1 h,drive thru
+431,Mr. Fruit Açaí Fortaleza,5.0,2 comentários,"R. Barão do Rio Branco, 927 - Centro, Fortaleza - CE, 60025-060",Loja de açaí,,drive thru
+432,Sorvete da Reserva,4.8,192 comentários,"Rua Torres Câmara, 100 - loja 03 - Aldeota, Fortaleza - CE, 60150-060",Sorveteria,,drive thru
+434,"Two Brothers Cocó: Pizza, Massas, Calzones, Pizzaria, Delivery, Fortaleza CE",3.3,40 comentários,"R. Batista de Oliveira, 1071 - Cocó, Fortaleza - CE, 60192-340",Pizzaria,,drive thru
+437,BBQ5,4.5,312 comentários,"R. Bento Albuquerque - Cocó, Fortaleza - CE, 60192-055",Restaurante especializado em carnes,"30 min a 1,5 h",drive thru
+438,Macarronada É Massa,3.8,14 comentários,"R. Gen. Sampaio, 1235 - Centro, Fortaleza - CE, 60020-030",Restaurante italiano,,drive thru
+441,Food Brazil,4.8,37 comentários,"R. Major Facundo, 833 - Centro, Fortaleza - CE, 60025-100",Restaurante,30 min a 1 h,drive thru
+444,Donastela Massas e Recheios,3.7,3 comentários,"R. Major Facundo, 897 - Centro, Fortaleza - CE, 60025-100",Restaurante italiano,,drive thru
+445,Rose's Cafeteria & Restaurante,4.8,19 comentários,"R. Pedro Borges, 33 - Loja 01 - Centro, Fortaleza - CE, 60055-120",Cafeteria,25 min a 1 h,drive thru
+446,galeteria o chefão,4.1,41 comentários,"avenida central leste - Cidade 2000, Fortaleza - CE, 60190-611",Restaurante,30 min,drive thru
+448,Point do Pesk Pag,4.6,5 comentários,"Av. Nila Gomes de Soárez, 403 - Cidade 2000, Fortaleza - CE, 60190-630",Restaurante,,drive thru
+449,Delícias da Gê,5.0,3 comentários,"edifício palácio do sol - Rua Solon Pinheiro, 116 - sala 202 - Centro, Fortaleza - CE, 60050-040",Restaurante,,drive thru
+450,Brokado's Pizza,4.8,34 comentários,"Av. Nila Gomes de Soárez, 400 - Sala 8 - Cidade 2000, Fortaleza - CE, 60190-630",Pizzaria,,drive thru
+452,The Coffee,4.3,9 comentários,"Av. Dom Luís, 1200 - Meireles, Fortaleza - CE, 60160-230",Cafeteria,,drive thru
+453,Delicious Pizzaria,4.6,44 comentários,"Alameda Das Miosótes, 405 - Cidade 2000, Fortaleza - CE, 60190-490",Delivery de Pizza,,drive thru
+454,Café de Oyá,5.0,3 comentários,"R. Manuelito Moreira, 96 - Benfica, Fortaleza - CE, 60025-210",Bar,,drive thru
+455,Del Plata Pastas,4.9,128 comentários,"Rua Santa Maria, 2 - José Bonifacio, Fortaleza - CE, 60025-110",Restaurante,"1,5 horas",drive thru
+456,Brazinha Grill 2,4.3,154 comentários,"Rua General Bezerril, 590 - Centro, Fortaleza - CE, 60055-100",Restaurante,30 min,drive thru
+460,Zoá Gastrobar,4.7,54 comentários,"R. Visc. de Mauá, 2217 - Dionísio Torres, Fortaleza - CE, 60125-161",Restaurante,45 min a 2 h,drive thru
+461,Marmitaria tempero da Mary,3.7,6 comentários,"R. Manoel Marques, 232 - Manuel Dias Branco, Fortaleza - CE, 60191-675",Restaurante de comida caseira,,drive thru
+464,Doceria da Thatha,5.0,5 comentários,"Rua Sousa Girão, 115 - José Bonifacio, Fortaleza - CE, 60055-370",Doceria,,drive thru
+466,"Uritu Cafés Especiais: Cafés, Utensílios, Empório, Centro, Fortaleza",4.9,51 comentários,"Rua Dona Leopoldina, 396 - Centro, Fortaleza - CE, 60110-000",Atacadista de café,10 min a 1 h,drive thru
+471,Jambalera confeitaria vegana,5.0,20 comentários,"Av. Domingos Olímpio, 391 - José Bonifacio, Fortaleza - CE, 60040-081",Confeitaria,,drive thru
+477,Feijoada Brasil,4.2,10 comentários,"Av. das Adenanteras, 689a - Cidade 2000, Fortaleza - CE, 60190-560",Delivery,,drive thru
+478,"Iaçá: Açai, Distribuidora, Polpa, Açai do Pará, Açai Iaça, Belém, Fortaleza CE",5.0,8 comentários,"R. Sen. Alencar, 652 - Loja 2 - Centro, Fortaleza - CE, 60030-050",Delivery,,drive thru
+483,Aroma e bombom doces e salgados,5.0,3 comentários,"Alameda dos Lírios, Quadra 21 - número 355 - Cidade 2000, Fortaleza - CE, 60190-530",Doceria,,drive thru
+488,Sh82 Café,5.0,10 comentários,"R. Floriano Peixoto, 1375 B - Centro, Fortaleza - CE, 60025-130",Cafeteria,,drive thru
+490,Moncloa Tea Boutique,4.8,20 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-065",Loja de chás,,drive thru
+495,IMPERIO DO BOLO,4.6,7 comentários,"R. Edgar Borges, 74 - Centro, Fortaleza - CE, 60050-000",Doceria,,drive thru
+499,Sonhar buffet móvel,5.0,Um comentário,"R. Barão de Aratanha, 704 - José Bonifacio, Fortaleza - CE, 60050-071",Buffet de doces e sobremesas,,drive thru
+520,Cake Mania By Adriana Pessoa,4.5,24 comentários,"Alameda Nadja, 334 - Quadra 8 - Cidade 2000, Fortaleza - CE, 60190-230",Confeitaria,,drive thru
+523,Bolos confeitados - Bolos em fortaleza - Kátia Silva Cakes - Fortaleza (CE),5.0,6 comentários,"R. Marconi, 85 - Farias Brito, Fortaleza - CE, 60015-190",Confeitaria,,drive thru
+568,Espaço Herbalife Nutrition - @EVSSETPLUS,5.0,2 comentários,"Edifício Palácio Progresso - R. Pedro Borges, 33 - 3° andar sala 303 - Centro, Fortaleza - CE, 60055-110",Casa de chá,,drive thru
+634,Vibe café,3.6,8 comentários,"Rua Manuel Queirós, 511A - Cocó, Fortaleza - CE, 60192-220",Cafeteria,,drive thru
+635,B.LEM,4.4,299 comentários,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60810-060",$$,10 min,padaria
+636,Pão de Mel,3.8,752 comentários,"Av. Monsenhor Tabosa, 1108 - Meireles, Fortaleza - CE, 60165-068",Padaria,25 min,padaria
+637,Panificadora o Matutinho,4.8,117 comentários,"Rua São, R. São Bernardo do Campo, 241 - Cais do Porto, Fortaleza - CE, 60175-440",$,10 min,padaria
+638,Rebeca Panificadora,4.2,37 comentários,"R. Coronel Manuel Jesuíno, 311 - Mucuripe, Fortaleza - CE, 60175-270",Padaria,15 min,padaria
+639,Padaria Narjara,4.4,993 comentários,"R. Padre Anchieta, 1320 - São Gerardo, Fortaleza - CE, 60325-582",$$,20 min,padaria
+640,Padaria Confeitos Vitória,4.1,229 comentários,"Av. Central, 208 - Cidade 2000, Fortaleza - CE, 60190-611",$$,15 min,padaria
+641,Portitália Paladaria (Parque Manibura),4.3,1.463 comentários,"Av. Washington Soares, 4040 - Parque Manibura, Fortaleza - CE, 60821-750",$$,20 min,padaria
+642,Padaria Da Viza,4.4,92 comentários,"R. Miguel Calmom, 407 - Vicente Pinzon, Fortaleza - CE, 60182-160",$,10 min,padaria
+643,Padaria Romana Delicatessen,4.3,3.001 comentários,"Av. Treze de Maio, 901 - Fátima, Fortaleza - CE, 60040-531",$$,25 min,padaria
+644,Padaria Contrigo,1.0,Um comentário,"R. Júlio Ibiapina, 291 - Dionísio Torres, Fortaleza - CE, 60170-220",Padaria,,padaria
+645,Padaria Globo,4.5,340 comentários,"R. Padre Mororó, 1155 - Centro, Fortaleza - CE, 60015-220",$$,10 min,padaria
+646,Padaria Romana (Aldeota),4.2,502 comentários,"R. Barbosa de Freitas, 1455 - Aldeota, Fortaleza - CE, 60170-020",Padaria,25 min,padaria
+647,Pequena Padaria Caseira,4.8,15 comentários,"edificio lara - Joaquim Távora (Fortaleza), Fortaleza - CE, 60120-002",Padaria,,padaria
+648,Molino Padaria Artesanal,4.5,150 comentários,"Rua Torres Câmara, 314 - loja 2 - Aldeota, Fortaleza - CE, 60150-060",Padaria,20 min a 1 h,padaria
+649,Padaria Família,4.4,26 comentários,"R. Oliveira Filho, 665 - Cais do Porto, Fortaleza - CE, 60181-805",Padaria,,padaria
+650,F,4.7,16 comentários,"Av. Dioguinho, 4740 - Loja 1 - Praia do Futuro II, Fortaleza - CE, 60183-712",Padaria,,padaria
+651,Panificadora Nogueira,4.5,2.763 comentários,"R. Padre Pedro de Alencar, 244 - Messejana, Fortaleza - CE, 60840-280",$$,15 min,padaria
+652,Panificadora Macropan (Damas),4.6,48 comentários,"R. Machado de Assis, 654 - Damas, Fortaleza - CE, 60426-000",$$,10 min,padaria
+653,Padaria O Elias,4.3,27 comentários,"Av. Clóvis Matos, 1304 - Vicente Pinzon, Fortaleza - CE, 60183-100",Padaria,,padaria
+654,Vila do Pão Delicatessen,4.4,669 comentários,"Av. Rogaciano Leite, 450 - Guararapes, Fortaleza - CE, 60810-001",$$,20 min,padaria
+655,Donata Padaria,4.3,824 comentários,"Av. Jovita Feitosa, 2345 - Alagadiço, Fortaleza - CE, 60455-410",$$,15 min,padaria
+656,Speciale Pães Artesanais,4.7,142 comentários,"R. Fênix, 789 - Luciano Cavalcante, Fortaleza - CE, 60811-000",$$,15 min,padaria
+657,Pão de Açúcar,4.2,1.278 comentários,"Rua Bárbara de Alencar, 1887 - Loja 1 - Aldeota, Fortaleza - CE, 60140-000",Supermercado,20 min,padaria
+658,Padaria do Zenardo,4.8,13 comentários,"R. Livreiro Gualter, 222 - Vila União, Fortaleza - CE, 60420-130",$,,padaria
+659,Panificadora Holanda,4.2,37 comentários,"R. João Cordeiro, 2994 - Aldeota, Fortaleza - CE, 60110-535",Padaria,,padaria
+660,Padaria Romana (Centro),4.2,865 comentários,"Av. Duque de Caxias, 137 - Centro, Fortaleza - CE, 60035-110",$$,15 min,padaria
+661,Padaria Romana (Centro),4.3,420 comentários,"Av. Tristão Gonçalves, 664 - Centro, Fortaleza - CE, 60015-000",$$,10-45 min,padaria
+662,Panificadora Pão Nosso,4.3,73 comentários,"Rua Padre Antonino, 803 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60110-480",$$,10 min,padaria
+663,Padaria e mercadinho Premiato,4.8,37 comentários,"R. Sen. Pompeu, 2610 - Benfica, Fortaleza - CE, 60025-002",Padaria,,padaria
+664,Padaria em Fortaleza Delícias da Marta,4.7,22 comentários,"R. Manuel Moura, 718 - Barra do Ceará, Fortaleza - CE, 60330-780",Padaria,,padaria
+665,B.LEM Padaria Portuguesa - Fortaleza RioMar,4.3,7 comentários,"R. Des. Lauro Nogueira, nº1500 - Loja 2004 - Papicu, Fortaleza - CE, 60176-065",Doceria,,padaria
+666,Padaria da Andreia,4.3,6 comentários,"Rua Rui Barbosa, 150 - Vicente Pinzon, Fortaleza - CE, 60181-461",Padaria,,padaria
+667,Costa Mendes Delicatessen,4.4,11.204 comentários,"Rua Professor Costa Mendes, 609 - Montese, Fortaleza - CE, 60426-084",$$,15-45 min,padaria
+668,Padaria Romana,4.5,216 comentários,"R. Mario Studart, 81 - Jacarecanga, Fortaleza - CE, 60326-060",$$,15 min a 2 h,padaria
+669,Mercearia 25 de março & Padaria,4.9,22 comentários,"R. Vinte e Cinco de Março, 132 - Centro, Fortaleza - CE, 60060-120",Mercado,15 min,padaria
+670,Padaria La Casa do Pão,4.9,12 comentários,"Av. Rogaciano Leite, 2893 - Jardim Das Oliveiras, Fortaleza - CE, 60821-075",Padaria,,padaria
+671,Padaria e confeitaria Yeshua,4.7,15 comentários,"R. Fiscal Vieira, 4067 - São João do Tauape, Fortaleza - CE, 60120-170",Padaria,10 min,padaria
+672,Panificadora GullaBox,4.4,66 comentários,"R. Carlos Gomes, 451 - José Bonifacio, Fortaleza - CE, 60040-230",Padaria,,padaria
+673,Mercadinho e Panificadora Casa do Pão,,,"Av. Antônio Justa, 3959 - Varjota, Fortaleza - CE, 60165-090",,,padaria
+674,Padaria São Sebastião,4.4,42 comentários,"R. Tereza Cristina, 1299 - Otávio Bonfim, Fortaleza - CE, 60015-141",$,,padaria
+675,Padaria Novo Mundo,4.5,4 comentários,"Av. Álvaro Correia - Mucuripe, Fortaleza - CE, 60165-230",Padaria,,padaria
+676,Panificadora Santa Luzia,4.0,290 comentários,"R. João Cordeiro, 766 - Praia de Iracema, Fortaleza - CE, 60110-300",$$,10 min,padaria
+677,Pão de Açúcar - Cocó,4.2,1.007 comentários,"Shopping Casa Blanca Mall, Av. Eng. Santana Jr., 2277 - Cocó, Fortaleza - CE, 60175-650",Supermercado,20 min,padaria
+678,Empório Do Pão (Beni de Carvalho) (Cometa),3.4,5 comentários,"R. Beni Carvalho, 627 - Aldeota, Fortaleza - CE, 60135-400",Padaria,,padaria
+679,Panebox Gourmet (Fátima),4.3,1.192 comentários,"Rua Monsenhor Otávio de Castro, 582 - Fátima, Fortaleza - CE, 60050-150",$$,20 min,padaria
+680,Padaria San Remo (José Bonifácio),4.3,1.205 comentários,"R. Barão de Aratanha, 551 - José Bonifacio, Fortaleza - CE, 60050-070",$$,15 min,padaria
+681,Delicias do Trigo Padaria (Farias Brito),3.9,84 comentários,"R. Rúbia Sampaio, 1155 - loja 5 - Farias Brito, Fortaleza - CE, 60360-820",Padaria,20 min,padaria
+682,Padaria e confeitaria o Elias,5.0,6 comentários,"R. Caravelas - Vicente Pinzon, Fortaleza - CE, 60181-740",Padaria,,padaria
+683,Alice Padaria,4.1,1.336 comentários,"Av. Castelo de Castro, 53 - Conjunto São Cristóvão, Fortaleza - CE, 60866-681",$$,15 min,padaria
+684,Costa Mendes (Vila União),4.4,1.153 comentários,"R. Raul Cabral, 140 - Vila União, Fortaleza - CE, 60410-672",$$,20 min,padaria
+685,Panificadora Nossa Senhora Da Guia,4.4,557 comentários,"Av. Carneiro de Mendonça, 1151 - Demócrito Rocha, Fortaleza - CE, 60440-160",Padaria,15 min,padaria
+686,Padaria Pão do Chefe,4.3,7 comentários,"Rua Professor Álvaro Costa, 1210 - Vicente Pinzon, Fortaleza - CE, 60182-012",Padaria,,padaria
+687,Panificadora Trigo Doce,4.2,113 comentários,"Rua Marechal Deodoro, 67 - Benfica, Fortaleza - CE, 60020-060",$$,10 min,padaria
+688,Padaria e Confeitaria Pão Caseiro,4.4,70 comentários,"Av. Independência, 2185 - Quintino Cunha, Fortaleza - CE, 60345-530",Padaria,10 min,padaria
+689,PANIFICADORA TOP PÃO,4.4,115 comentários,"R. 327, 25 - Conj. Ceará II, Fortaleza - CE, 60530-690",$,10 min,padaria
+690,Panificadora,,,"Av. Zezé Diogo, 112 - Cais do Porto, Fortaleza - CE, 60180-005",,,padaria
+691,Padaria Helloysa,4.0,4 comentários,"R. Audízio Mosca de Carvalho - Manuel Dias Branco, Fortaleza - CE, 60191-520",Padaria,15 min,padaria
+692,Padaria o bolinha,5.0,2 comentários,"R. Castro Monte, 11 - Varjota, Fortaleza - CE, 60175-230",Padaria,,padaria
+693,Padaria Vitoria,,,"Av. Central, 215 - Cidade 2000, Fortaleza - CE, 60190-611",,,padaria
+694,Padaria monte carmelo,4.8,9 comentários,"R. Floriano Peixoto, 916 - Centro, Fortaleza - CE, 60025-130",Padaria,30 min,padaria
+695,Padaria delicias de pães,,,"R. Lima Barreto, 18 - Vicente Pinzon, Fortaleza - CE, 60184-230",,,padaria
+696,Padaria Tripane,4.2,11 comentários,"Rua Nossa Senhora das Graças, 1079 - Cristo Redentor, Fortaleza - CE, 60310-770",Padaria,,padaria
+697,FRANGOPAN,4.4,115 comentários,"Av. Sgt. Hermínio Sampaio, 2688 - Bairro Ellery, Fortaleza - CE, 60320-501",$,10 min,padaria
+698,Padaria Lisieux,4.1,357 comentários,"Av. Sgt. Hermínio Sampaio, 3568 - Pres. Kennedy, Fortaleza - CE, 60355-512",$,10 min,padaria
+699,Padaria Trigo de Ouro,3.0,Um comentário,"R. dos Cajueiros, 1537 - Manuel Dias Branco, Fortaleza - CE, 60191-665",Padaria,,padaria
+700,Padaria Pet Fortaleza,4.9,40 comentários,"Rua Doutor José Lourenço, 870. Lojas 5 e 6 - Aldeota, Fortaleza - CE, 60115-280","Pet shop em Fortaleza, Ceará",15-45 min,padaria
+701,Mercado e Padaria Vó Mozinha,,,"R. Antônio Gomes Guimarães, 159 - Manuel Dias Branco, Fortaleza - CE, 60191-195",,,padaria
+702,O Elias Padaria,3.5,4 comentários,"Rua Professor Luíz Costa - Vicente Pinzon, Fortaleza - CE, 60175-550",Padaria,,padaria
+703,Padaria Bom Preço,,,"R. Socorro Gomes - Manuel Dias Branco, Fortaleza - CE, 60191-662",,,padaria
+704,Padaria,4.2,22 comentários,"R. Fenelon Bomilcar, 304 - Jardim Iracema, Fortaleza - CE, 60330-705",Padaria,,padaria
+705,Mercado do Café - Benfica,4.2,3.780 comentários,"Rua Padre Francisco Pinto, 186 - Gentilândia, Fortaleza - CE, 60020-290",$$,,padaria
+706,Panificadora GG,5.0,2 comentários,"R. Dom Hélio Campos, 80 - Carlito Pamplona, Fortaleza - CE, 60311-630",Padaria,,padaria
+707,Padaria Praia,,,"R. José Mauro, 2-20 - Antonio Diogo, Fortaleza - CE, 60182-535",,,padaria
+708,Pão do Jorge - Fermentação Natural por Encomenda,,,"Parque del Sol - Cidade dos Funcionários, Fortaleza - CE, 60824-020",,,padaria
+709,DVWR Padaria de Delícias,5.0,4 comentários,"R. São Crisóstomo, 100 - Cais do Porto, Fortaleza - CE, 60180-310",Confeitaria,,padaria
+710,Padaria,5.0,3 comentários,"R. Almírante Rufino, 473 - Vila União, Fortaleza - CE, 60420-075",Padaria,,padaria
+711,Padariaopçõeslanches,,,"Av. Dos Jangadeiros, 1115 - Mucuripe, Fortaleza - CE, 60175-440",,,padaria
+712,Mercadinho e Padaria Fortaleza,4.5,8 comentários,"R. José Vilar - Meireles, Fortaleza - CE, 60125-000",Supermercado,15 min,padaria
+713,Padaria Vó Dedé,3.0,3 comentários,"Av. Coronel Miguel Dias, 1389 - Luciano Cavalcante, Fortaleza - CE, 60810-160",Padaria,,padaria
+714,PADARIA LINA,5.0,2 comentários,"R. Antônio Pompeu - Centro, Fortaleza - CE, 60040-000",Padaria,,padaria
+715,Flôr do Café Confeitaria,4.6,176 comentários,"R. Rodrigues Júnior, 996 - Centro, Fortaleza - CE, 60060-000",Confeitaria,10 min,padaria
+716,Empório do Bolo - Cidade 2000,4.5,130 comentários,"Av. Central, 248 - Cidade 2000, Fortaleza - CE, 60190-610",Confeitaria,15 min,padaria
+717,Padaria do Joao,,,"R. Central - Cajazeiras, Fortaleza - CE, 60000-000",,,padaria
+718,Chiquita Bacana,,,"R. Pedro Balbino, 158 - Cidade 2000, Fortaleza - CE, 60191-680",,,padaria
+719,Praiadomorrobranco,,,"Centro, Fortaleza - CE, 60050-040",,,padaria
+720,Bolos Da Flor,,,"Alameda Telma, 106 - Cidade 2000, Fortaleza - CE, 60190-250",,,padaria
+721,"Coco Bambu Coffee Break: Cafés, Padaria, Restaurante, Drive Thru, Fortaleza CE",4.6,584 comentários,"R. Barão de Aracati, 1060 - Aldeota, Fortaleza - CE, 60115-081",$$$,"30 min a 1,5 h",padaria
+722,Panificadora Romana Praça do Ferreira,2.9,34 comentários,"R. Barão do Rio Branco, 992 - Centro, Fortaleza - CE, 60025-903",Padaria,,padaria
+723,Empório Ribeira do Porto,4.6,230 comentários,"Av. Litorânea, 1000 - Sabiaguaba, Aquiraz - CE, 61700-000",Padaria,10-45 min,padaria
+724,Mil Doçuras,4.7,36 comentários,"R. Vitória da Conquista, 1453 - Manuel Dias Branco, Fortaleza - CE, 60191-670",Confeitaria,,padaria
+725,"Pasteleria ""Maju""",,,"Rua Solon Pinheiro, 1015 - Centro, Fortaleza - CE, 60050-041",,,padaria
+726,Puro Amor - Doces e Salgados,4.0,355 comentários,"R. Sen. Pompeu, 2764 - Loja B - Benfica, Fortaleza - CE, 60025-002",$,10 min,padaria
+727,Cafeteria Prosa e Queijos,4.9,40 comentários,"Av. Dr. Aldy Mentor, 430 - Cidade 2000, Fortaleza - CE, 60191-106",Cafeteria,15 min,padaria
+728,Padaria São Raimundo,4.3,12 comentários,"R. Antônio Atualpa Rodrigues - Antonio Diogo, Fortaleza - CE",Padaria,,padaria
+729,Padaria Pão e Pizza,4.0,8 comentários,"Av. dos Flamboyants, 95 - Cidade 2000, Fortaleza - CE, 60190-570",Padaria,,padaria
+730,Lá na Lícia,,,"R. Vilebaldo Aguiar, 3000 - Manuel Dias Branco, Fortaleza - CE, 60191-375",,,padaria
+731,Dream Place Ateliê,5.0,9 comentários,"R. Jaime Benévolo, 708 - José Bonifacio, Fortaleza - CE, 60050-080",Confeitaria,,padaria
+732,Cake Mania By Adriana Pessoa,4.5,24 comentários,"Alameda Nadja, 334 - Quadra 8 - Cidade 2000, Fortaleza - CE, 60190-230",Confeitaria,,padaria
+733,Padaria Armorial,4.2,10 comentários,"Av. Visconde do Rio Branco, 2565 - E - Joaquim Távora (Fortaleza), Fortaleza - CE, 60055-171",Padaria,,padaria
+734,Padaria Sabor De Pāo,3.8,14 comentários,"R. Paulo Águiar, 1111 - Vicente Pinzon, Fortaleza - CE, 60184-310",Padaria,,padaria
+735,Padaria Do Trigo,1.0,Um comentário,"Av. Pintor Antônio Bandeira - Cais do Porto, Fortaleza - CE, 60180-476",Padaria,,padaria
+736,Padaria Padoca,,,"Rua Dona Leopoldina, 1681 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60110-482",,,padaria
+737,Pão de Açúcar,4.2,2.721 comentários,"Av. Santos Dumont, 3130 - Aldeota, Fortaleza - CE, 60150-161",Supermercado,15 min,padaria
+738,Pão Da Hoora Padaria,,,"R. Antônio Augusto, 630 - Meireles, Fortaleza - CE, 60110-370",,,padaria
+739,Imperial Delicatessen,4.1,13 comentários,"Av. Bezerra de Menezes, 2485 - Parquelândia, Fortaleza - CE, 60325-105",Padaria,,padaria
+740,Confeitaria Sabor E Requinte,2.0,Um comentário,"R. Barão do Rio Branco, 1980 - Centro, Fortaleza - CE",Padaria,,padaria
+741,Thalita pães e cafés,,,"Av. G, 291 - Pref. José Walter, Fortaleza - CE, 60750-060",Restaurante,15 min,padaria
+742,Rei Dos Pasteis E Salgados Padaria,,,"Centro, Fortaleza - CE, 60035-110",,,padaria
+743,Cheirinho de Pão,5.0,Um comentário,"R. Doralice Costa, 353 - Luciano Cavalcante, Fortaleza - CE, 60810-680",Padaria,,padaria
+744,Padaria,,,"R. Rev. Bolivar Pinto Bandeira, 237 - Luciano Cavalcante, Fortaleza - CE, 60811-310",,,padaria
+745,Santeq Store Equipamentos,,,"Av. Dom Manuel, 1211 - Centro, Fortaleza - CE, 60060-091",Equipamentos de panificação,25 min,padaria
+746,Delicias da lana,,,"Rua Maria Pereira, 117 - Manuel Dias Branco, Fortaleza - CE, 60190",,,padaria
+747,Paes,,,"R. Bartolomeu de Gusmão, 1025 - Fátima, Fortaleza - CE, 60415-170",,,padaria
+748,Confeitaria Pra Sentir,5.0,2 comentários,"Alameda Eliane Lúcia, 62 - Cidade 2000, Fortaleza - CE, 60190-150",Confeitaria,,padaria
+749,Padaria Fort Pão,4.1,7 comentários,"Av. Francisco Sá, 3636 - Loja 3 - Carlito Pamplona, Fortaleza - CE, 60310-001",Padaria,,padaria
+750,CafécumBolo,,,"R. Rodrigues Júnior - Centro, Fortaleza - CE, 60060-090",,,padaria
+751,Padaria,4.4,8 comentários,"Av. Pasteur - Carlito Pamplona, Fortaleza - CE, 60355-000",Padaria,,padaria
+752,Padaria,4.5,4 comentários,"Tv. Raimundo, 149 - Jacarecanga, Fortaleza - CE, 60311-040",Padaria,,padaria
+753,L'escale Shopping Central,4.4,242 comentários,"R. Sen. Pompeu, 856 - Centro, Fortaleza - CE, 60025-000",$$,,padaria
+754,Padaria,4.0,2 comentários,"Rua Virgílio Brigido, 1128 - Pres. Kennedy, Fortaleza - CE, 60355-050",Padaria,,padaria
+755,Panificadora DÁTOLLO,3.5,15 comentários,"R. Jacaúna, 707 - Barra do Ceará, Fortaleza - CE, 60332-530",Padaria,,padaria
+756,Panificadora Paneva Confeitaria,5.0,2 comentários,"R. Martins de Carvalho, 1944 - Granja Lisboa, Fortaleza - CE, 60540-178",Padaria,,padaria
+757,Eugeni bolos e doces,5.0,3 comentários,"Alameda Telma, 298 - Cidade 2000, Fortaleza - CE, 60190-290",Loja de bolos,,padaria
+758,Pão de Açúcar,4.4,554 comentários,"Av. Senador Virgílio Távora, 2270 - Dionísio Torres, Fortaleza - CE, 60170-251",Supermercado,20 min,padaria
+759,Padaria Lorenzo,3.4,10 comentários,"R. Sen. Pompeu, 2354 - Benfica, Fortaleza - CE, 60025-002",Padaria,,padaria
+760,Padaia,,,"Rua Tulipa - Barra do Ceará, Fortaleza - CE, 60330-520",,,padaria
+761,Romana,,,"R. Major Facundo, 566 - Centro, Fortaleza - CE, 60025-100",$$,25 min a 1 h,padaria
+762,Trigobia Comercio De Trigo Ltda,,,"R. Manoel Arruda, 120 - Messejana, Fortaleza - CE, 60842-090",,,padaria
+763,Wg Bolos,4.3,10 comentários,"Av. Duque de Caxias, 455A - Centro, Fortaleza - CE, 60035-110",Loja de bolos,,padaria
+764,IMPERIO DO BOLO GOURMET,5.0,Um comentário,"R. Barão do Rio Branco, 1308 - Centro, Fortaleza - CE, 60025-060",Loja de bolos,,padaria
+765,IMPERIO DO BOLO,4.6,7 comentários,"R. Edgar Borges, 74 - Centro, Fortaleza - CE, 60050-000",Doceria,,padaria
+766,Casa do Chocolate,4.5,842 comentários,"Av. Duque de Caxias, 425 - Centro, Fortaleza - CE, 60035-111",Loja,20 min,padaria
+767,Lanches,4.5,2 comentários,"R. da Assunção, 25 - Centro, Fortaleza - CE, 60050-010",Cafeteria,,padaria
+768,Padaria Benfica,,,"Benfica, Fortaleza - CE, 60020-181",,,padaria
+769,Ceiça Bolos,5.0,Um comentário,"Rua Solon Pinheiro, 831 - José Bonifacio, Fortaleza - CE, 60050-040",Loja de bolos,,padaria
+770,Chocolates Paloma,4.6,16 comentários,(85) 99944-2291,,,padaria
+771,Deliciale_Confeitaria,,,"R. Floriano Peixoto, 171 - Centro, Fortaleza - CE, 60025-130",,,padaria
+772,Santa Maria Café,2.8,36 comentários,"(Dentro do Hospital São Camilo) 280, R. Nogueira Acioli - Centro, Fortaleza - CE",Cafeteria,,padaria
+773,Mercearia O Bené,3.0,5 comentários,"R. Vinte e Cinco de Março, 150 A - Centro, Fortaleza - CE, 60060-120","Mercado em Fortaleza, Ceará",,padaria
+774,Bomboniere,4.0,3 comentários,"R. Pedro Borges, 192 - Centro, Fortaleza - CE, 60055-110",Doceria,,padaria
+775,Rei dos Chocolates,,,"R. Pedro Borges, 192 - Centro, Fortaleza - CE, 60055-110",,,padaria
+776,kit festa fortaleza ''CACAU FESTA'',1.7,41 comentários,"bela cruz - Farias Brito, Fortaleza - CE, 60011-120",Confeitaria,,padaria
+777,Amarú Cosméticos & Baby,4.8,17 comentários,"R. Pedro Pereira, 151 - Centro, Fortaleza - CE, 60035-000","Loja de cosmético em Fortaleza, Ceará",,padaria
+778,MALHY Cozinhas Industriais,4.0,Um comentário,"Rua 24 de Maio, 1019 - Centro, Fortaleza - CE, 60035-110","Loja de artigos domésticos em Fortaleza, Ceará",,padaria
+779,Pão de Açúcar (São Gerardo),4.3,1.995 comentários,"Av. Bezerra de Menezes, 1498/1548 - São Gerardo, Fortaleza - CE, 60325-001",Supermercado,20 min,padaria
+780,Jotacê Carnes & Grill - Benfica,3.9,7 comentários,"Av. Domingos Olímpio, 387 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60040-081",Açougue,,padaria
+781,super Uchôa,4.0,3 comentários,"Fortaleza - Zone 1, Fortaleza - CE",Supermercado,,padaria
+782,Fortaleza Ceará,,,"Av. da Abolição - Meireles, Fortaleza - CE, 60125-160",,,padaria
+783,Nova Oriental,3.0,Um comentário,"R. Edgar Borges, 32 - Centro, Fortaleza - CE, 60050-000","Loja em Fortaleza, Ceará",,padaria
+784,Paraíba Importados,4.9,10 comentários,"Centro, Fortaleza - CE, 60050-000","Loja em Fortaleza, Ceará",,padaria
+785,#Gôndolas - Instalações Comerciais,5.0,Um comentário,"R. Pedro Borges, 30 - Centro, Fortaleza - CE, 60055-110",Moveleiro,,padaria
+786,"Óticas Boris Loja 07: Óculos de Grau, Óculos de Sol e Alianças em Fortaleza CE",5.0,40 comentários,"R. Pedro Pereira, 554 - Loja 07 - Centro, Fortaleza - CE, 60035-000","Ótica em Fortaleza, Ceará",,padaria
+787,Máxima Fidelidade,,,"Palácio do Progresso - R. do Pocinho, Nº 33 - Loja 3 - Centro, Fortaleza - CE, 60055-110",,,padaria
+788,Super Lagoa,,,"Rua Solon Pinheiro, 136 - Centro, Fortaleza - CE, 60050-040",Supermercado,20 min,padaria
+789,Leve & natural,4.3,4 comentários,"R. Barão do Rio Branco, 2027 - José Bonifacio, Fortaleza - CE, 60025-061",Lanchonete,,padaria
+790,Lanchonete Hiper Lanche,4.0,Um comentário,"Rua General Bezerril, 593 - Centro, Fortaleza - CE, 60055-100",Lanchonete,,padaria
+791,Fortaleza,4.0,Um comentário,"R. Esperança - Vicente Pinzon, Fortaleza - CE, 60181-200",Armazém,,padaria
+792,Esquina das Variedades,5.0,3 comentários,"R. Pedro Pereira, 732 - Centro, Fortaleza - CE, 60035-000","Loja de variedades em Fortaleza, Ceará",10 min a 1 h,padaria
+793,Remap Elétrica e Iluminação Ltda Me,4.4,18 comentários,"R. Pedro 1, 619 A - Centro, Fortaleza - CE, 60035-100","Loja de iluminação em Fortaleza, Ceará",,padaria
+794,Dr. Visão - Ótica em Fortaleza,4.3,18 comentários,"R. Pedro Pereira, n° 530 - Loja 01 - Centro, Fortaleza - CE, 60035-000","Ótica em Fortaleza, Ceará",,padaria
+795,Shopping Dos Livros,3.3,3 comentários,"Rua General Bezerril, 420 - Centro, Fortaleza - CE, 60055-100","Livraria em Fortaleza, Ceará",,padaria
+796,PRN Comércio de Confecções,,,"Av. Duque de Caxias, 235 - Centro, Fortaleza - CE, 60035-110",,,padaria
+797,Condomínio do Edifício Atlantic Hills,4.7,15 comentários,"R. Gothardo Moraes, 155 - Papicu, Fortaleza - CE, 60190-801","Complexo de condomínio em Fortaleza, Ceará",,padaria
+798,Construmix,4.5,4 comentários,"Condomínio Edifício Gal Tiburcio - loja 4, R. São Paulo, 32 - Centro, Fortaleza - CE","Loja de ferragens em Fortaleza, Ceará",,padaria
+799,j alves e oliveira ltda,3.0,Um comentário,"R. Sen. Pompeu, 940 - Centro, Fortaleza - CE, 60025-000","Loja em Fortaleza, Ceará",15 min,padaria
+800,Pão de Açúcar,4.4,840 comentários,"Shop. Aldeota - Av. Dom Luís, 500 - Lj.40 - Aldeota, Fortaleza - CE, 60160-230",Supermercado,10 min,padaria
+801,Elétrica Fortaleza,5.0,3 comentários,"R. Pedro 1, 639 - Centro, Fortaleza - CE, 60035-100","Loja de materiais elétricos em Fortaleza, Ceará",,padaria
+802,A Esmeralda,4.0,6 comentários,"R. Guilherme Rocha, 250 - Centro, Fortaleza - CE, 60030-140","Loja de roupa em Fortaleza, Ceará",,padaria
+803,Fardamentos Intuito Fatal,4.0,3 comentários,"Rua Conselheiro Tristão, 622 - José Bonifacio, Fortaleza - CE, 60050-100","Loja de uniformes em Fortaleza, Ceará",,padaria
+804,Via Cosméticos,5.0,7 comentários,"R. Floriano Peixoto, 577 - Centro, Fortaleza - CE, 60025-130","Loja de cosmético em Fortaleza, Ceará",,padaria
+805,Perfecta Curitiba,4.5,4 comentários,"Av. Aguanambi, 837 - Fátima, Fortaleza - CE, 60040-290","Equipamentos de panificação em Fortaleza, Ceará",,padaria
+806,Skinão das Ferragens,5.0,3 comentários,"R. São Paulo, 32 - Loja 02 - Centro, Fortaleza - CE, 60030-100","Loja de ferramentas em Fortaleza, Ceará",,padaria
+807,Precision Ótica,3.0,4 comentários,"R. da Assunção, 511 - Centro, Fortaleza - CE, 60050-010","Ótica em Fortaleza, Ceará",,padaria
+808,Simag - Distribuidora de Produtos de Limpeza.,4.4,12 comentários,"Av. Visconde do Rio Branco, 1714 - Centro, Fortaleza - CE, 60055-170","Serviço de distribuição em Fortaleza, Ceará",,padaria
+809,Grotta,,,"R. Floriano Peixoto, 768 - Centro, Fortaleza - CE, 60025-130",,,padaria
+810,Cirúrgica Fortaleza,2.8,5 comentários,"R. Barão do Rio Branco, 1731 - Centro, Fortaleza - CE, 60025-061","Loja de artigos hospitalares em Fortaleza, Ceará",,padaria
+811,Churros Baia,,,"Centro, Fortaleza - CE, 60050-040",,,padaria
+812,Bolos Caseiros Artesanais,5.0,Um comentário,"R. Dr. Gilberto Studart, 2980 - Manuel Dias Branco, Fortaleza - CE, 60191-365",Loja de bolos,,padaria
+813,Bolo do Céu,4.1,7 comentários,"Rua Joaquim Magalhães, 1049,5 Altos - Benfica, Fortaleza - CE, 60040-125",Lanchonete,,padaria
+814,Pastelaria Araújo,,,"R. dos Cajueiros, 1577 - Dunas, Fortaleza - CE, 60191-665",,,padaria
+815,Espaço Gourmet,,,"Av. Duque de Caxias, 101 - Centro, Fortaleza - CE, 60055-170",,,padaria
+816,1 2 3 Comercial De Presentes,,,"R. Floriano Peixoto, 809 - Centro, Fortaleza - CE, 60025-131",,,padaria
+817,Manga Rosa,,,"R. Joaquim Magalhães, 262 - Benfica, Fortaleza - CE, 60040-160",,,padaria
+818,Lojão Do Atacadista,,,"Rua Governador Sampaio, 25 - Centro, Fortaleza - CE, 60055-050",,,padaria
+819,Limodas Industrial,3.0,2 comentários,"R. Barão do Rio Branco, 1092 - Centro, Fortaleza - CE, 60025-061","Loja de roupa em Fortaleza, Ceará",,padaria
+820,Ôxximydog,5.0,4 comentários,"R. Raimundo Arruda, 64 - Parquelândia, Fortaleza - CE, 60450-500",Restaurante,,restaurante
+821,Restaurante Mariano da Picanha,4.0,1.231 comentários,"Av. Monsenhor Tabosa, 1712 - Meireles, Fortaleza - CE, 60165-010",$$,,restaurante
+822,"Camarada Camarão: Camarões, Peixes, Happy Hour, Restaurante, Fortaleza CE",4.5,867 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",$$$,5-45 min,restaurante
+823,Cabaña Del Primo - Restaurante de Carnes em Fortaleza,4.6,823 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-065",$$$,"5 min a 1,5 h",restaurante
+824,Divino Fogão - Riomar Fortaleza,4.2,667 comentários,"Rua Desembargador Lauro Nogueira, 1500 piso L3 sala coml 3030 - Papicu, Fortaleza - CE, 60176-065",$$,,restaurante
+825,Hard Rock Cafe,4.7,5.290 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",$$$,"10 min a 1,5 h",restaurante
+826,Delicias da Iaiá,4.4,5 comentários,"Rua Dr. Ribamar Lobo, N° 20 - Papicu, Fortaleza - CE, 60176-145",Restaurante brasileiro,10-45 min,restaurante
+827,Cocina 378,4.7,510 comentários,"R. Vilebaldo Aguiar, 378 - Cocó, Fortaleza - CE, 60192-010",$$$,"1-2,5 horas",restaurante
+828,Quintal Restaurante,4.6,350 comentários,"Av. Desembargador Moreira, 533 - Meireles, Fortaleza - CE, 60170-000",$$$,"45 min a 1,5 h",restaurante
+829,Cemoara Restaurante,4.4,54 comentários,"R. Joaquim Nabuco, 166 - Meireles, Fortaleza - CE, 60125-120",Restaurante de frutos do mar,,restaurante
+830,Santa Grelha,4.7,1.799 comentários,"R. Tibúrcio Cavalcante, 790 - Meireles, Fortaleza - CE, 60125-100",$$$,"1-2,5 horas",restaurante
+831,Cabaña Del Primo,4.7,1.313 comentários,"R. Maria Tomásia, 503 - Aldeota, Fortaleza - CE, 60170-001",$$$,"10 min a 1,5 h",restaurante
+832,Balcony Bistro,4.8,227 comentários,"R. Frederico Borges, 616 - Meireles, Fortaleza - CE, 60175-040",$$,,restaurante
+833,Restaurante Mucuripe,4.6,189 comentários,"Av. Beira Mar, 3980 - Mucuripe, Fortaleza - CE, 60165-121",Restaurante de frutos do mar,1-3 horas,restaurante
+834,Restaurante Marquês da Varjota,4.6,1.114 comentários,"R. Frederico Borges, 426 - Meireles, Fortaleza - CE, 60175-040",$$$,"1-2,5 horas",restaurante
+835,Restaurante 44,4.4,522 comentários,"R. Joaquim Nabuco, 1224 - Aldeota, Fortaleza - CE, 60125-055",$$,30 min a 1 h,restaurante
+836,"Butcher's 746: Steakhouse, Carnes Nobres, Churrasco, Delivery, Restaurante, Fortaleza CE",4.6,699 comentários,"R. Maria Tomásia, 746 - Aldeota, Fortaleza - CE, 60150-170",$$$,1-2 horas,restaurante
+837,Casa Beá Restaurante,4.3,82 comentários,"Av. Desembargador Moreira, 615 A - Meireles, Fortaleza - CE, 60170-055",Restaurante,,restaurante
+838,Pipo Restaurante,4.6,1.367 comentários,"R. Manoel Lourenço dos Santos, 399 - São João do Tauape, Fortaleza - CE, 60135-450",$$$,,restaurante
+839,Vasto Restaurante,4.8,374 comentários,"Av. Senador Virgílio Távora, 511 - Meireles, Fortaleza - CE, 60170-251",Restaurante,"2-3,5 horas",restaurante
+840,Madero Steak House Riomar Fortaleza,4.5,2.374 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",$$$,10 min a 1 h,restaurante
+841,Restaurante Lima 21 - Gastronomia Peruana,4.6,243 comentários,"Rua Silva Jatahy, 505 - Meireles, Fortaleza - CE, 60165-070",Restaurante peruano,,restaurante
+842,Restaurante Mayú,4.9,186 comentários,"Senac Reference - Av. Desembargador Moreira, 1301 - 4º andar - Aldeota, Fortaleza - CE, 60170-001",Restaurante,"1,5-3 horas",restaurante
+843,ZOI Restaurante,4.6,772 comentários,"Av. Hermenegildo Sá Cavalcante, s/n - Edson Queiroz, Fortaleza - CE, 60811-905",Restaurante,,restaurante
+844,Tilápia Restaurante,4.9,200 comentários,"R. Eliseu Uchôa Beco, 450 - Guararapes, Fortaleza - CE, 60810-270",Restaurante,"1-2,5 horas",restaurante
+845,Casa Fontana,4.5,111 comentários,"R. Bento Albuquerque, 1976 - Cocó, Fortaleza - CE, 60192-050",Restaurante,"1,5-3 horas",restaurante
+846,Moranga Bistrô,4.5,710 comentários,"R. Xavier de Castro, 100 - Praia de Iracema, Fortaleza - CE, 60060-660",$$$$,"1,5-2,5 horas",restaurante
+847,Casa Nostra | Restaurante Italiano,4.6,1.203 comentários,"Av. Senador Virgílio Távora, 1800 - Dionísio Torres, Fortaleza - CE, 60170-251",$$,,restaurante
+848,Moleskine Gastrobar,4.7,3.009 comentários,"Rua Professor Dias da Rocha, 578 - Meireles, Fortaleza - CE, 60170-310",$$$,,restaurante
+849,Marcel Restaurante.,4.6,117 comentários,"Av. Historiador Raimundo Girão, 800 - Praia de Iracema, Fortaleza - CE, 60165-050",Restaurante francês,,restaurante
+850,Sabor de Mar,4.2,148 comentários,"Av. Desembargador Moreira, 256 - Meireles, Fortaleza - CE, 60170-000",$$,"45 min a 2,5 h",restaurante
+851,Dom Antunes Steakhouse: Restaurante de Carnes Nobres Aldeota Fortaleza,4.4,1.396 comentários,"Rua Frei Mansueto, 1560 - Aldeota, Fortaleza - CE, 60175-082",$$,,restaurante
+852,Riô - drinks & comida,4.9,11 comentários,"Rua Frei Mansueto, 662 - Meireles, Fortaleza - CE, 60175-070",Restaurante brasileiro,,restaurante
+853,Giz Cozinha Boêmia,4.6,1.583 comentários,"Rua Professor Dias da Rocha, 579 - Meireles, Fortaleza - CE, 60170-310",Restaurante brasileiro,"1,5-3,5 horas",restaurante
+854,Geppos Praia - Restaurante na Praia de Iracema,4.4,3.201 comentários,"Av. Beira Mar, 3222 - Meireles, Fortaleza - CE, 60165-121",$$,1-2 horas,restaurante
+855,Restaurante Moqueca,4.8,16 comentários,"Rua Pescador Chico Bindá, 318 - Vicente Pinzon, Fortaleza - CE, 60181-160",Restaurante de frutos do mar,,restaurante
+856,Coco Bambu Beira Mar,4.6,18.692 comentários,"Av. Beira Mar, 3698 - Beira Mar, Fortaleza - CE, 60165-121",$$$,"1-2,5 horas",restaurante
+857,Amarú Restaurante,4.4,1.299 comentários,"R. Mario Mamede, 932 - Fátima, Fortaleza - CE, 60411-170",$$,25 min a 1 h,restaurante
+858,Restaurante Rei do Baião,4.5,1.367 comentários,"Av. Heráclito Graça, 699 - Centro, Fortaleza - CE, 60140-061",$$,30 min a 1 h,restaurante
+859,Restaurante Renascença,4.5,282 comentários,"Rua General Tertuliano Potiguara, 570 - Aldeota, Fortaleza - CE, 60135-280",$$,45 min,restaurante
+860,Coco Bambu Meireles,4.6,10.689 comentários,"Rua Canuto de Aguiar, 1317 - Meireles, Fortaleza - CE, 60160-120",$$$,"1,5-3 horas",restaurante
+861,Restaurante da Zena,4.5,2.004 comentários,"R. Meton de Alencar, 549 - Centro, Fortaleza - CE, 60035-160",$$,25 min a 1 h,restaurante
+862,Cervejaria Turatti,4.4,3.042 comentários,"R. Ana Bilhar, 1178 - Varjota, Fortaleza - CE, 60160-110",$$,,restaurante
+863,RAIZ Cozinha Brasileira,4.4,1.185 comentários,"Av. Washington Soares, 3300 - Edson Queiroz, Fortaleza - CE, 60810-350",$$,1-3 horas,restaurante
+864,Restaurante Ubajara,4.1,267 comentários,"R. Pinto Madeira, 600 - Centro, Fortaleza - CE, 60150-000",$,25 min,restaurante
+865,Restaurante La Fiorelli,3.9,30 comentários,"Centro, Fortaleza - CE, 60025-100",Restaurante,,restaurante
+866,Giappone Sushibar,4.1,33 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60175-055",Restaurante de sushi,,restaurante
+867,Vignoli Fortaleza – Virgílio Távora,4.5,2.527 comentários,"Av. Senador Virgílio Távora, 10 - Meireles, Fortaleza - CE, 60822-150",$$$,1-2 horas,restaurante
+868,Ryori Buganvília,4.5,668 comentários,"Av. Dom Luís, 1113 - Meireles, Fortaleza - CE, 60160-230",$$$,,restaurante
+869,Ponza Frutos do Mar,3.7,19 comentários,"R. Vicente Leite, 520 - Loja 01 - Meireles, Fortaleza - CE, 60170-150",Restaurante mediterrâneo,"1,5-3 horas",restaurante
+870,RESTAURANTE FINNA MISTURA,4.2,25 comentários,"Av. Beira Mar - Meireles, Fortaleza - CE, 60165-121",Restaurante self-service,,restaurante
+871,Mistura Cearense,4.4,179 comentários,"R. da Assunção, 119 - Centro, Fortaleza - CE, 60050-010",Restaurante self-service,30 min,restaurante
+872,Balcone,4.6,1.602 comentários,"R. Osvaldo Cruz, 919 - Meireles, Fortaleza - CE, 60125-048",$$$,1-2 horas,restaurante
+873,Restaurante Philó,4.6,222 comentários,"Rua Silva Paulet, 958 - Meireles, Fortaleza - CE, 60120-020",$$,30 min a 1 h,restaurante
+874,Vila Mosquito,4.5,1.120 comentários,"R. Antônio Augusto, 786 - Meireles, Fortaleza - CE, 60110-370",$$$,"1-2,5 horas",restaurante
+875,Restaurante Estação do marisco Fortaleza Ceará,5.0,20 comentários,"R. Frederico Borges, 404 - Meireles, Fortaleza - CE, 60175-040",Restaurante de frutos do mar,,restaurante
+876,Flor de Sal,3.7,688 comentários,"esquina com - Rua Osvaldo Cruz, Av. Beira Mar, n 08 - Meireles, Fortaleza - CE, 60125-150",$$,"1-1,5 horas",restaurante
+877,"Porpino Burger: Hambúrguer, Batata Frita, Hamburgueria Delivery Fortaleza CE",4.6,4.594 comentários,"Av. Senador Virgílio Távora, 597 - Meireles, Fortaleza - CE, 60170-265",$$,,restaurante
+878,Fortaleza Grill Restaurante,4.4,2.294 comentários,"R. Pereira Filgueiras, 2111 - Aldeota, Fortaleza - CE, 60160-150",$$,25 min a 1 h,restaurante
+879,Restaurante Maranhão,4.2,25 comentários,"R. Rodrigues Júnior, 540 - Centro, Fortaleza - CE, 60060-000",$,,restaurante
+880,Cantinho do Frango,4.7,5.414 comentários,"Rua Torres Câmara, 71 - Aldeota, Fortaleza - CE, 60150-060",$$,45 min a 2 h,restaurante
+881,Baltazar Beira Mar - Baltazar Pizza Express - Barraca Baltazar,4.8,275 comentários,"Av. Beira Mar, 2661 - Meireles, Fortaleza - CE, 60165-121",Restaurante,,restaurante
+882,Mistura Nordestina,4.7,45 comentários,"R. Gonçalves Lêdo, 23 - Loja 11 - Praia de Iracema, Fortaleza - CE, 60160-220",Restaurante,,restaurante
+883,Villa Carneiro Bar & Restaurante,3.9,29 comentários,"R. Sen. Alencar, 1182 - Centro, Fortaleza - CE, 60030-051",$,"30 min a 1,5 h",restaurante
+884,Restaurante Pôr do Sol,4.5,10 comentários,"Av. Beira Mar, 3678 - Mucuripe, Fortaleza - CE, 60165-121",Restaurante,,restaurante
+885,Restaurante Boreale,4.1,7 comentários,"Av. da Abolição, 3035 - Meireles, Fortaleza - CE, 60165-081",Restaurante,,restaurante
+886,Restaurante Delícias do Mar,4.6,165 comentários,"R. Frederico Borges, 372 - Meireles, Fortaleza - CE, 60175-040",$,,restaurante
+887,Sabores Orgânicos,4.6,1.859 comentários,"R. Monsenhor Bruno, 1300 - Meireles, Fortaleza - CE, 60115-190",$$,"1-2,5 horas",restaurante
+888,Restaurante Amuarama,4.2,59 comentários,"Av. Deputado Oswaldo Studart, 888 - Fátima, Fortaleza - CE, 60411-260",$$,,restaurante
+889,Caravaggio Cucina&Vino,4.7,229 comentários,"Rua Professor Dias da Rocha, 199 - Meireles, Fortaleza - CE, 60170-310",$$$,"1,5-3,5 horas",restaurante
+890,Lagar Restaurante,4.4,420 comentários,"R. Lauro Maia, 625 - Fátima, Fortaleza - CE, 60055-210",$$,,restaurante
+891,Coco Bambu,4.8,2.234 comentários,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60810-060",$$$,,restaurante
+892,Cozinha Mágica,4.4,89 comentários,"Av. Santos Dumont, 3130 - Aldeota, Fortaleza - CE, 60150-161",Restaurante self-service,15 min,restaurante
+893,Coco Bambu Sul,4.6,12.189 comentários,"R. República da Armênia, 1154 - Parque Manibura, Fortaleza - CE, 60821-760",$$$,"1,5-3 horas",restaurante
+894,Sintra Gourmet,4.8,20 comentários,"R. Joaquim Nabuco, 161 - Meireles, Fortaleza - CE, 60125-120",Restaurante self-service,30 min,restaurante
+895,Nova Casa,4.5,2.960 comentários,"R. Joaquim Nabuco, 1800 - Aldeota, Fortaleza - CE, 60125-055",$$,30 min,restaurante
+896,El Chancho Aldeota,4.6,3.872 comentários,"R. Leonardo Mota, 1477 - Aldeota, Fortaleza - CE, 60170-041",$$,45 min a 2 h,restaurante
+897,Divina Comida,4.5,2.920 comentários,"Rua Torres Câmara, 135 - Aldeota, Fortaleza - CE, 60150-060",$$,"30 min a 1,5 h",restaurante
+898,Vignoli | Silva Jatahy,4.5,1.717 comentários,"Rua Silva Jatahy, 529 - Meireles, Fortaleza - CE, 60165-070",$$$,1-2 horas,restaurante
+899,K-BaB,4.8,702 comentários,"Av. Desembargador Moreira, 90 - Meireles, Fortaleza - CE, 60170-000",$$,"45 min a 1,5 h",restaurante
+900,Restaurante Boa Mistura,4.5,102 comentários,"Rua Dom Joaquim, 46 - Centro, Fortaleza - CE, 60110-100",$,30 min,restaurante
+901,Restaurante Aconchego do Mar,4.3,37 comentários,"Av. Dioguinho, 5810 - Vicente Pinzon, Fortaleza - CE, 60183-706",Restaurante,15-45 min,restaurante
+902,Domino's Pizza,4.3,242 comentários,"R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE, 60176-065",$$,,restaurante
+903,L'Ô Restaurante,4.7,901 comentários,"Av. Pessoa Anta, 217 - Praia de Iracema, Fortaleza - CE, 60060-440",Restaurante,,restaurante
+904,Restaurante Fogão150,4.0,231 comentários,"R. Barão de Aracati, 150 - Meireles, Fortaleza - CE, 60115-080",$$,,restaurante
+905,Tempero do Mangue,4.4,1.771 comentários,"R. Valdir Bezerra, 100 - Sabiaguaba, Fortaleza - CE, 60835-795",$$$,,restaurante
+906,La Bella Italia,4.5,1.337 comentários,"Av. Almirante Barroso, 812 - Praia de Iracema, Fortaleza - CE, 60060-440",$$,1-2 horas,restaurante
+907,Restaurante Caicó Papicu,4.5,1.809 comentários,"R. Eduardo Sabóia, 228 - Papicu, Fortaleza - CE, 60175-145",$$,"30 min a 1,5 h",restaurante
+908,Misaki - Restaurante Japonês Contemporâneo em Fortaleza,4.6,736 comentários,"Shopping Jardins Open Mall Avenida Desembargador Moreira, 1011 Aldeota Fortaleza CE 60170-001, Av. Desembargador Moreira, 1011 - Aldeota, Fortaleza - CE, 60160-230",$$$$,"10 min a 1,5 h",restaurante
+909,Restaurante Self Service - Mosaico Restaurante,4.5,294 comentários,"R. Francisco Holanda, 609 - 706 - Dionísio Torres, Fortaleza - CE, 60130-140",$,30 min,restaurante
+910,Culinária da Van,4.5,3.309 comentários,"R. Waldery Uchôa, 260 - Benfica, Fortaleza - CE, 60020-110",$$,"1-2,5 horas",restaurante
+911,Le Marché,4.5,310 comentários,"Praça Pelotas, 41 - Centro, Fortaleza - CE, 60110-210",Restaurante francês,,restaurante
+912,Novos Boêmios,4.7,527 comentários,"R. João Cordeiro, 219 - Meireles, Fortaleza - CE, 60110-355",$$,,restaurante
+913,Aconchego Bistrô Cearense,4.5,120 comentários,"R. Dr. João Moreira, 143 - Centro, Fortaleza - CE, 60030-000",Restaurante,1-2 horas,restaurante
+914,Restaurante Mareiro,4.3,53 comentários,"Av. Beira Mar, 2380 - Meireles, Fortaleza - CE, 60165-121",Restaurante,,restaurante
+915,Pasto e Pizzas,4.6,704 comentários,"Av. Júlio Abreu, 160 - Varjota, Fortaleza - CE, 60160-240",Restaurante,1-2 horas,restaurante
+916,Frigideira do Jonny Self Service,4.6,2.259 comentários,"R. Joaquim Nabuco, 1900 - Aldeota, Fortaleza - CE, 60125-055",$$,45 min,restaurante
+917,"Cinco Sentidos Bistrô: Restaurante, Gastronomia, Drinks, Vinhos em Fortaleza CE",4.3,12 comentários,"Rua Professor Dias da Rocha, 579 - Meireles, Fortaleza - CE, 60170-310",Restaurante,"1,5-3 horas",restaurante
+918,Anzio Gastronomia,4.5,517 comentários,"Travessa Acaraú, 39 - Meireles, Fortaleza - CE, 60160-180",$$,,restaurante
+919,Carbone Steakhouse,4.6,532 comentários,"Av. Desembargador Moreira, 1300 - Aldeota, Fortaleza - CE, 60191-156",$$$,"1,5-2,5 horas",restaurante
+920,Colosso Fortaleza,4.5,716 comentários,"Av. Hermenegildo Sá Cavalcante, s/n - Edson Queiroz, Fortaleza - CE, 60811-665",$$$$,,restaurante
+921,Mangusta Restaurante e Pizzaria,4.8,77 comentários,"R. da Assunção, 1195 - José Bonifacio, Fortaleza - CE, 60040-230",Restaurante,,restaurante
+922,Churrascaria JP Steakhouse Fortaleza,4.6,3.519 comentários,"Av. Beira Mar, 2500 - Loja 9 - Meireles, Fortaleza - CE, 60165-120",$$$,"1,5-3 horas",restaurante
+923,Domino's Pizza,4.2,764 comentários,"Av. Treze de Maio, 825 - Fátima, Fortaleza - CE, 60040-531",$$,20 min a 1 h,restaurante
+924,O Capo,4.2,318 comentários,"R. Barão de Aracati, 50 - Praia de Iracema, Fortaleza - CE, 60115-080",Restaurante italiano,,restaurante
+925,Conimaki,4.2,619 comentários,"Rua Canuto de Aguiar, 1368 - Meireles, Fortaleza - CE, 60160-120",$$$,,restaurante
+926,Restaurante Amaral (o goiano),4.1,53 comentários,"Av. César Cals, 953 - Vicente Pinzon, Fortaleza - CE, 60182-035",Restaurante,25 min,restaurante
+927,Zoá Gastrobar,4.7,53 comentários,"R. Visc. de Mauá, 2217 - Dionísio Torres, Fortaleza - CE, 60125-161",Restaurante,45 min a 2 h,restaurante
+928,Pepe nero Bistrô,4.4,366 comentários,"Av. Pres. Castelo Branco, 158 - Centro, Fortaleza - CE",$$,"45 min a 2,5 h",restaurante
+929,Mar de Lima,4.8,39 comentários,"Rua Frei Mansueto, 1130 - Varjota, Fortaleza - CE, 60175-070",Restaurante,"1-2,5 horas",restaurante
+930,Restaurante Fiorentina,4.0,65 comentários,"R. Osvaldo Cruz, 8 - Praia de Iracema, Fortaleza - CE, 60125-150",Restaurante,,restaurante
+931,Barraca da Boa,4.2,7.976 comentários,"Av. Beira Mar, 2571 - Meireles, Fortaleza - CE, 60165-121",$$,,restaurante
+932,Restaurante Sesc João Cordeiro,4.8,144 comentários,"R. João Cordeiro, 933 - Aldeota, Fortaleza - CE, 60110-301",$,30 min,restaurante
+933,Restaurante Fortaleza,,,"R. Clodoaldo Arruda, 250 - Cambeba, Fortaleza - CE, 60822-375",,,restaurante
+934,Bruta Flor,4.6,137 comentários,"R. Antônio Augusto, 806 - Meireles, Fortaleza - CE, 60110-370",$$,"1,5-3 horas",restaurante
+935,Restaurante da Boró - Comida Caseira,5.0,2 comentários,"R. dos Aprendizes Marinheiros, 300 - Moura Brasil, Fortaleza - CE, 60015-220",Restaurante de comida caseira,,restaurante
+936,Barraca Terra do Sol,4.5,6.280 comentários,"Av. Clóvis Arrais Maia, 5295 - Praia do Futuro II, Fortaleza - CE, 60182-026",$$,,restaurante
+937,Restaurante Frederico,4.4,1.166 comentários,"Rua Dr. José Lourenço, 504 - Meireles, Fortaleza - CE, 60115-280",$$,,restaurante
+938,Cantina Primu's,4.1,164 comentários,"R. Guilherme Rocha, 52 - Centro, Fortaleza - CE, 60030-140",$,,restaurante
+939,Chale Suíça Carnes e Fondue,4.3,127 comentários,"R. Pereira Filgueiras, 1645 - Aldeota, Fortaleza - CE, 60160-150",$$$,,restaurante
+940,Nem Restaurante,4.7,43 comentários,"Centro, Fortaleza - CE, 60035-130",Restaurante,,restaurante
+941,Lagostinne Fortaleza,4.4,181 comentários,"Rua Frei Mansueto, 1225 - Varjota, Fortaleza - CE, 60175-157",Restaurante japonês,"1,5-2,5 horas",restaurante
+942,Restaurante Le Pritaf,1.6,10 comentários,"Av. Alberto Nepomuceno, 199 - Centro, Fortaleza - CE, 60055-000",Restaurante,,restaurante
+943,Restaurante Fanfan,4.6,78 comentários,"R. Meton de Alencar, 522 - Centro, Fortaleza - CE, 60030-160",Restaurante,25 min a 1 h,restaurante
+944,Nhamy Nhamy Mercado Saudável,4.9,19 comentários,"Av. Viena Weyne, 370 - loja 10 - Cambeba, Fortaleza - CE, 60822-180",Restaurante,"20 min a 1,5 h",restaurante
+945,De Babo Restaurante,4.6,171 comentários,"Rua do Rosário, 86 - Centro, Fortaleza - CE, 60135-050",Restaurante,,restaurante
+946,Costa | Bar e Restaurante,4.5,247 comentários,"R. Costa Barros, 1199 - Aldeota, Fortaleza - CE, 60160-190",$,25 min a 1 h,restaurante
+947,Restaurante Compasso Gourmet,4.5,356 comentários,"R. Pedro 1, 349 - Centro, Fortaleza - CE, 60035-100",$$,30 min,restaurante
+948,Churrascaria Picui Prime Cidade 2000,4.5,1.327 comentários,"R. Andrade Furtado, 2520 - Cidade 2000, Fortaleza - CE, 60191-345",$$,,restaurante
+949,VILLELÔ,,,"Av. da Abolição, 2324 - Meireles, Fortaleza - CE, 60165-080",,,restaurante
+950,Comes e Bebes Restaurante,4.4,138 comentários,"R. Barão do Rio Branco, 783 - Centro, Fortaleza - CE, 60025-060",Restaurante self-service,25 min,restaurante
+951,Zé Tropeiro - Culinária Mineira,4.5,440 comentários,"Rua Isac Meyer, 211 - Meireles, Fortaleza - CE, 60160-200",$$,"1-2,5 horas",restaurante
+952,Aki Asian Kitchen,4.5,386 comentários,"R. Leonardo Mota, 753 - Meireles, Fortaleza - CE, 60170-040",Restaurante asiático,"1-2,5 horas",restaurante
+953,Varanda Tropical,4.2,1.171 comentários,"Av. Monsenhor Tabosa, 714 - Praia de Iracema, Fortaleza - CE, 60165-010",$$,,restaurante
+954,Restaurante O Brazão,4.4,2.972 comentários,"R. João Cordeiro, 43 - Praia de Iracema, Fortaleza - CE, 60110-300",$$,,restaurante
+955,Grelha Sul Restaurante,4.4,74 comentários,"Av. Borges de Melo, 1643 - Parreão, Fortaleza - CE, 60410-335",Restaurante fast-food,,restaurante
+956,Ossobuco Self-Service Restaurante e Lanches,4.5,1.139 comentários,"Av. Treze de Maio, 1200 - Sala 1701 - Fátima, Fortaleza - CE, 60040-530",$$,30 min,restaurante
+957,Churrascaria Nativas Grill Fortaleza,4.5,3.043 comentários,"Av. Dom Luís, 1219 - Meireles, Fortaleza - CE, 60160-230",$$,"1,5-3 horas",restaurante
+958,Kina do Feijão Verde - Aldeota,4.6,6.925 comentários,"Rua João Cordeiro, R. Pero Coelho, 1697 - Aldeota, Fortaleza - CE, 60110-301",$$,1-2 horas,restaurante
+959,Sabará Restaurante,4.5,113 comentários,"R. Floriano Peixoto, nº814 - Centro, Fortaleza - CE, 60025-130",$,,restaurante
+960,Le Lis Café e Restaurante.,2.3,6 comentários,"R. Barão de Aracati, 145 - Meireles, Fortaleza - CE, 60115-080",Restaurante,,restaurante
+961,Inhamuns Restaurante,4.7,20 comentários,"R. Ildefonso Albano, 1261 - Aldeota, Fortaleza - CE, 60115-000",Restaurante self-service,,restaurante
+962,La Marine,4.6,92 comentários,"Av. Pres. Castelo Branco, 400 - Moura Brasil, Fortaleza - CE, 60312-060",Restaurante,,restaurante
+963,Restaurante Kilo & Kilo,4.0,33 comentários,"Rua do Rosário, 120 - Centro, Fortaleza - CE, 60055-090",Restaurante self-service,30 min,restaurante
+964,Bom Pasto,4.4,128 comentários,"R. Rocha Lima, 166 - Centro, Fortaleza - CE, 60135-000",Restaurante self-service,30 min,restaurante
+965,PaellaDonpepe,4.5,107 comentários,"R. Ildefonso Albano, 603 - Meireles, Fortaleza - CE, 60115-000",Restaurante espanhol,,restaurante
+966,Aipos Restaurante,5.0,3 comentários,"Rua Solon Pinheiro, 464 - Centro, Fortaleza - CE, 60050-040",Restaurante,,restaurante
+967,Casa do Alfajor,4.3,12 comentários,"R. Dragão do Mar, 10 - Centro, Fortaleza - CE, 60060-390",Restaurante,,restaurante
+968,Ryori,4.7,366 comentários,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341",Restaurante japonês,15 min a 1 h,restaurante
+969,Restaurante Cinco Estrelas,4.3,51 comentários,"Mercado São Sebastião - R. Gen. Clarindo de Queiroz, 1745 - Centro, Fortaleza - CE, 60010-690",Restaurante,,restaurante
+970,Restaurante e Lanchonete Cartaxo,,,"Rua Bárbara de Alencar, 940 - Centro, Fortaleza - CE, 60140-025",,,restaurante
+971,Floresta Bar,4.6,11.702 comentários,"Av. Santos Dumont, 1788 - Aldeota, Fortaleza - CE, 60150-160",$$,"2-3,5 horas",restaurante
+972,Iracema's Grill,4.1,15 comentários,"R. Xavier de Castro, 72 - Praia de Iracema, Fortaleza - CE, 60060-660",Restaurante,,restaurante
+973,RESTAURANTE BRITTO'S,4.3,136 comentários,"R. São Paulo, 425 - Centro, Fortaleza - CE, 60030-100",$,30 min,restaurante
+974,Camarão To Go,4.4,135 comentários,"R. Barão de Aracati, 1473 A - Aldeota, Fortaleza - CE, 60115-081",Restaurante de frutos do mar,,restaurante
+975,Caravelle,4.3,1.384 comentários,"Av. Luciano Carneiro, 1936 - Vila União, Fortaleza - CE, 60410-691",Restaurante,"25 min a 1,5 h",restaurante
+976,Restaurante,,,"Avenida Imperador, 880 - Centro, Fortaleza - CE, 60015-050",,,restaurante
+977,Hanna's Restaurante | Self Service | Centro,4.4,1.332 comentários,"R. Major Facundo, 736 - Centro, Fortaleza - CE, 60025-100",$$,45 min,restaurante
+978,Picanha do Lessa,4.2,471 comentários,"R. Meton de Alencar, 199 - Centro, Fortaleza - CE, 60035-160",$,30 min a 1 h,restaurante
+979,Pier 95 Bar e Restaurante.,5.0,2 comentários,"R. dos Pacajús, 95 - Praia de Iracema, Fortaleza - CE, 60060-520",Restaurante,,restaurante
+980,Espaço Máxima Buffet \Restaurante,4.2,163 comentários,"R. Carolina Sucupira, 939 - Aldeota, Fortaleza - CE, 60140-120",Restaurante,,restaurante
+981,Restaurante e lanchonete barraca da amada,5.0,Um comentário,"Shooping Floriano - R. Floriano Peixoto, 176 - Centro, Fortaleza - CE, 60025-130",Restaurante,,restaurante
+982,Churrascaria Gheller,4.2,6.678 comentários,"Av. Monsenhor Tabosa, 825 - Praia de Iracema, Fortaleza - CE, 60165-011",$$,,restaurante
+983,"Orla Praia Club: Restaurante, Barraca de Praia, Drinks, Happy Hour, Fortaleza CE",4.1,114 comentários,"Av. Clóvis Arrais Maia, 3005 - Praia do Futuro, Fortaleza - CE, 60183-694",Restaurante,,restaurante
+984,Estaleiro do Gaúcho,4.1,579 comentários,"Av. Beira Mar, 4436 - Loja 7 e 8 - Mucuripe, Fortaleza - CE, 60165-121",$$,,restaurante
+985,Dom Tiziano,4.4,155 comentários,"R. Floriano Peixoto, 799 - Centro, Fortaleza - CE, 60025-131",Restaurante self-service,30 min,restaurante
+986,Comida Porreta,4.2,40 comentários,"Av. Almirante Barroso, 668 - Praia de Iracema, Fortaleza - CE, 60060-440",Restaurante self-service,,restaurante
+987,AQuitanda,4.6,523 comentários,"R. Waldery Uchôa, 230 - Benfica, Fortaleza - CE, 60020-110",Restaurante,1-3 horas,restaurante
+988,Donastela Massas e Recheios,3.7,3 comentários,"R. Major Facundo, 897 - Centro, Fortaleza - CE, 60025-100",Restaurante italiano,,restaurante
+989,Mabel Restaurante,4.7,20 comentários,"BR-116, 5271 - Alto da Balança, Fortaleza - CE, 60823-105",Restaurante,,restaurante
+990,"Seu Conrado Monte Castelo: Restaurante, Cozinha Brasileira, Boteco em Fortaleza CE",4.7,1.367 comentários,"R. Conrado Cabral, 711 - Monte Castelo, Fortaleza - CE, 60325-440",$$,"1-2,5 horas",restaurante
+991,Del Plata Pastas,4.9,128 comentários,"Rua Santa Maria, 2 - José Bonifacio, Fortaleza - CE, 60025-110",Restaurante,"1,5 horas",restaurante
+992,Tropical Restaurante,4.4,91 comentários,"R. da Assunção, 16 - Centro, Fortaleza - CE, 60050-010",$,20-45 min,restaurante
+993,Bom Prato,4.3,412 comentários,"Rua General Bezerril, 503 - Centro, Fortaleza - CE, 60055-100",$$,,restaurante
+994,Carneiro do Ordones,4.6,26.480 comentários,"R. Azevedo Bolão, 571 - Parquelândia, Fortaleza - CE, 60450-675",$$,"1-2,5 horas",restaurante
+995,Arcos Comidas e Bebidas,4.4,708 comentários,"R. Padre Mororó, 2342 - Farias Brito, Fortaleza - CE, 60015-221",$$,"30 min a 1,5 h",restaurante
+996,Cantina Primu's Self-Service,4.4,219 comentários,"R. Barão do Rio Branco, 1469 - Centro, Fortaleza - CE, 60025-060",$,30 min,restaurante
+997,Garfo Self-service,4.6,518 comentários,"R. Major Facundo, 259 - Centro, Fortaleza - CE, 60025-100",$$,45 min,restaurante
+998,Ceará Food,5.0,4 comentários,"R. Gonçalves Lêdo, 1541 - Loja 2 - Centro, Fortaleza - CE, 60110-261",Restaurante de comida caseira,,restaurante
+999,Mandir.amor Restaurante Vegano,4.8,1.904 comentários,"Rua Padre Francisco Pinto, 257 - Benfica, Fortaleza - CE, 60020-290",$,25 min a 1 h,restaurante
+1000,Hokkaido,4.3,1.390 comentários,"Rua Torres Câmara, 425 - Meireles, Fortaleza - CE, 60150-060",$$,"45 min a 1,5 h",restaurante
+1001,Barraca marisol,4.3,99 comentários,"Av. Rui Barbosa, 50 - Meireles, Fortaleza - CE, 60165-050",Restaurante,1-2 horas,restaurante
+1002,Rio Restaurante De Praia,4.3,67 comentários,"R. Dr. Bernardo Feitosa, 510 - Edson Queiroz, Fortaleza - CE, 60835-775",$$,,restaurante
+1003,Johnny Rockets,4.5,2.514 comentários,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341",$$,"25 min a 1,5 h",restaurante
+1004,Mar de Rosas,4.7,774 comentários,"R. dos Tabajaras, 542 - Praia de Iracema, Fortaleza - CE, 60060-510",$$,"1-2,5 horas",restaurante
+1005,Domino's Pizza,4.0,129 comentários,"Av. Coronel Miguel Dias, 1149 - Guararapes, Fortaleza - CE, 60810-160",$$,25 min,restaurante
+1006,Empório Divino Restaurante,4.5,634 comentários,"R. Alberto Magno, 100 - Montese, Fortaleza - CE, 60416-135",$$,"25 min a 1,5 h",restaurante
+1007,Restaurante Sal & Açúcar,4.3,77 comentários,"R. Olavo Bilac, 125 - Álvaro Weyne, Fortaleza - CE, 60320-000",Restaurante,20 min a 1 h,restaurante
+1008,Restaurante Kitanda,4.4,80 comentários,"Av. Tristão Gonçalves, 823 - Centro, Fortaleza - CE, 60015-000",Restaurante,30 min,restaurante
+1009,Arupemba Restaurante,4.9,7 comentários,"R. dos Tabajaras, 325 - Praia de Iracema, Fortaleza - CE, 60060-510",Restaurante,,restaurante
+1010,Boali,4.2,29 comentários,"Av. Washington Soares, 85 - Loja 728 - Edson Queiroz, Fortaleza - CE, 60811-341",$$,,restaurante
+1011,"Carneiro do Ordones Jovita: Churrasco, Pratos Executivos, Cerveja, Restaurante, Delivery Fortaleza CE",4.5,254 comentários,"Av. Jovita Feitosa, 289 - Parquelândia, Fortaleza - CE, 60455-410",Restaurante,"1-2,5 horas",restaurante
+1012,Kina Restaurante,4.1,25 comentários,"Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60810-350",Restaurante,,restaurante
+1013,Delicias grill,4.5,11 comentários,"Rua Coronel Linhares, 887 - Meireles, Fortaleza - CE, 60170-240",Restaurante,30 min,restaurante
+1014,Irmão Restaurante,4.3,25 comentários,"Av. Almirante Barroso, 911 - Praia de Iracema, Fortaleza - CE, 60060-440",$,,restaurante
+1015,Delícias Grill - José Bonifacio,4.5,497 comentários,"R. Eusébio de Souza, 1410 - José Bonifacio, Fortaleza - CE, 60050-110",$,30 min,restaurante
+1016,Delicie Do Casal 20,5.0,Um comentário,"Av. Beira Mar - Meireles, Fortaleza - CE, 60165-120",Restaurante de comida caseira,,restaurante
+1017,China Gourmet,4.2,568 comentários,"R. Rodrigues Júnior, 1063 - Centro, Fortaleza - CE, 60110-001",$,,restaurante
+1018,Fortaleza,,,"Shopping Iguatemi - Edson Queiroz, Fortaleza - CE, 60810-350",,,restaurante
+1019,Restaurante,,,"R. Antônio Pompeu, 1710 - Centro, Fortaleza - CE, 60040-000",,,restaurante
+1020,Centro Cultural Annapurna,4.7,266 comentários,"R. Paracuru, 34 - Centro, Fortaleza - CE, 60055-161",$,"30 min a 1,5 h",restaurante
+1021,Panelada Vip Restaurante,4.5,24 comentários,"R. Gen. Clarindo de Queiroz, 1745 - Centro, Fortaleza - CE, 60035-131",Mercado de produtos agrícolas,,restaurante
+1022,Abaeté Boteco,4.6,746 comentários,"R. Barão de Aracati, 2899 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60115-082",$$,,restaurante
+1023,Bar & Restaurante,3.4,23 comentários,"Rua Capitão Gustavo - SÃO JOÃO, Fortaleza - CE, 60120-340",Bar,,restaurante
+1024,Fortaleza,,,"Vila Bachá, 15 - Meireles, Fortaleza - CE, 60160-050",,,restaurante
+1025,Maria Clara Self Service,4.6,70 comentários,"Rua General Bezerril, 503 - Centro, Fortaleza - CE, 60055-100",Restaurante,45 min,restaurante
+1026,Cora,4.7,709 comentários,"Rua Padre Luís Figueira, 252 - Aldeota, Fortaleza - CE, 60150-120",$$,"30 min a 1,5 h",restaurante
+1027,Choppicanha | Restaurante,4.4,2.502 comentários,"Av. Jovita Feitosa, 191 - Parquelândia, Fortaleza - CE, 60455-410",$$,,restaurante
+1028,Papudim Bar e Restaurante,4.5,157 comentários,"Praça Pelotas, 38 - Centro, Fortaleza - CE, 60110-210",Bar,,restaurante
+1029,Restaurante Reginaldo grill,4.4,1.192 comentários,"R. Raimundo Arruda, 516 - Parque Araxá, Fortaleza - CE, 60450-500",Restaurante,,restaurante
+1030,Erma Restaurantes e Lanchonetes,3.5,2 comentários,"Av. Visconde do Rio Branco, 3066 - Loja 13 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60055-364",Restaurante self-service,,restaurante
+1031,"Coco Bambu Coffee Break: Cafés, Padaria, Restaurante, Drive Thru, Fortaleza CE",4.6,609 comentários,"R. Barão de Aracati, 1060 - Aldeota, Fortaleza - CE, 60115-081",$$$,"25 min a 1,5 h",restaurante
+1032,Porquilo Self-Service,4.6,1.101 comentários,"R. Barão do Rio Branco, 1221 - Centro, Fortaleza - CE, 60025-061",$$,45 min,restaurante
+1033,Flores RestôBar,,,"R. Xavier de Castro, 68 - Praia de Iracema, Fortaleza - CE, 60060-660",,,restaurante
+1034,Sushi Festas Fortaleza,2.6,5 comentários,"R. Sen. Pompeu - José Bonifacio, Fortaleza - CE, 60025-002",Restaurante asiático,,restaurante
+1035,Restaurante Caicó Benfica,4.2,1.841 comentários,"R. Paulino Nogueira, 41 - Benfica, Fortaleza - CE, 60020-270",$$,,restaurante
+1036,Fortaleza,,,"Farias Brito, Fortaleza - CE, 60010-730",,,restaurante
+1037,Point da Tapioca,5.0,3 comentários,"Av. Duque de Caxias, 101 - Bloco B - Centro, Fortaleza - CE, 60035-111",Restaurante fast-food,,restaurante
+1038,Fone Pizza Restaurante,4.6,1.749 comentários,"Av. Jovita Feitosa, 1152 - Parquelândia, Fortaleza - CE, 60455-410",$$,,restaurante
+1039,Restaurante,,,"R. Pereira Valente - Meireles, Fortaleza - CE, 60160-250",,,restaurante
+1040,"No Alvo Futebol Society, Paintball, Racha, Restaurante Fortaleza",4.4,1.205 comentários,"Av. Comodoro Estácio Brigido, 2263 - Luciano Cavalcante, Fortaleza - CE, 60813-670",Campo de futebol,,restaurante
+1041,Restaurante Mangostin,4.4,62 comentários,"Av. Beira Mar, 3980 - Loja 1 - Mucuripe, Fortaleza - CE, 60165-121",Restaurante asiático,,restaurante
+1042,Restaurante Lá Na Roça,4.8,4 comentários,"Rua Capitão Antônio de Aguiar, 41 - Aldeota, Fortaleza - CE, 60115-250",Restaurante,,restaurante
+1043,Restaurante Comida Cazeira,,,"Av. Pintor Antônio Bandeira, 97 - Cais do Porto, Fortaleza - CE, 60180-476",,,restaurante
+1044,Itaparika,,,"Centro, Fortaleza - CE, 60050-080",,,restaurante
+1045,Restaurante,,,"Av. Beira Mar, 2340 - Meireles, Fortaleza - CE, 60165-121",,,restaurante
+1046,Domino's Pizza - Praia de Iracema,4.3,78 comentários,"Av. Monsenhor Tabosa, 1101 - Meireles, Fortaleza - CE, 60165-065",$$,20-45 min,restaurante
+1047,Proeiro Restaurante,4.8,37 comentários,"R. Barão de Aracati, 2706 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60115-082",Restaurante,,restaurante
+1048,Restaurante Barãozinho,3.5,2 comentários,"R. Barão do Rio Branco, 1469 - José Bonifacio, Fortaleza - CE, 60025-061",Restaurante brasileiro,,restaurante
+1049,Restaurante O Assis,,,"R. Rufino de Alencar, 272 - Centro, Fortaleza - CE, 60060-145",,,restaurante
+1050,Juliana's Restaurante,5.0,Um comentário,"R. Sena Madureira, 914 - Centro, Fortaleza - CE, 60055-080",Restaurante self-service,,restaurante
+1051,Restaurante almoço,,,"Rua Perboyre e Silva, 130 - Centro, Fortaleza - CE, 60030-200",,,restaurante
+1052,Bar e Restaurante Euguimas,,,"R. da Assunção, 119 - Centro, Fortaleza - CE, 60050-011",,,restaurante
+1053,Restaurante Águas Bellas,,,"Centro, Fortaleza - CE, 60060-090",,,restaurante
+1054,Mjs bisqui,,,"Centro, Fortaleza - CE, 60050-040",,,restaurante
+1055,Francilene sousa,,,"Centro, Fortaleza - CE, 60050-040",,,restaurante
+1056,Indie Bistrô & Arte,4.5,110 comentários,"R. Marcondes Pereira, 43 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60130-060",$$,,restaurante
+1057,Restaurante,5.0,Um comentário,"R. Ímpar, 118 - Álvaro Weyne, Fortaleza - CE, 60335-540",Restaurante sérvio,,restaurante
+1058,Padaria Romana (Centro),4.2,865 comentários,"Av. Duque de Caxias, 137 - Centro, Fortaleza - CE, 60035-110",$$,15 min,restaurante
+1059,Bolo,,,"Santa rosa - Santa Rosa, Fortaleza - CE, 60703-105",,,restaurante
+1060,Restaurante,3.0,Um comentário,"R. Gama, 170 - Vila Velha, Fortaleza - CE, 60349-330",Restaurante,,restaurante
+1061,Restaurante,,,"Rua Ministro Antônio Coelho - Vila Velha, Fortaleza - CE, 60347-230",,,restaurante
+1062,Pastel Quente,4.6,21 comentários,"Av. Duque de Caxias, 235 - Centro, Fortaleza - CE, 60035-111",Pastelaria brasileira,,restaurante
+1063,Fortaleza,,,,,,restaurante

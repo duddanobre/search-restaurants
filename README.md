@@ -23,11 +23,11 @@ Trabalho final (LP)
     1. data_cleaning.py
         Lê os arquivos da pasta dadosbrutos
         Remove inconsistências, campos inválidos, caracteres especiais, etc.
-        Salva o arquivo limpo na pasta dadostratados como df_final.csv
+        Salva o arquivo limpo na pasta dadostratados como df_final_semGeo.csv
     2. data_geolytic.py
-        Carrega o df_final.csv tratado
+        Carrega o df_final_semGeo.csv tratado
         Usa a API ArcGIS (Esri) para buscar as coordenadas geográficas (LAT, LNG) de cada endereço
         Salva o resultado final na mesma pasta
     3. data_inferencias.ipynb
-        Carrega o df_final.csv tratado
+        Carrega o df_final_comGeo.csv tratado
         Cria varias inferencias de teste de integridade e usabilidade dos dados

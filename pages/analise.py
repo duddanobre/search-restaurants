@@ -127,7 +127,7 @@ try:
             'PONTUACAO': 'mean',
             'NOME': 'count'
         }).reset_index()
-        bairro_analysis = bairro_analysis[bairro_analysis['NOME'] >= 3].sort_values('PONTUACAO', ascending=True)
+        bairro_analysis = bairro_analysis[bairro_analysis['NOME'] >= 10].sort_values('PONTUACAO', ascending=True)
         
         fig3, ax3 = plt.subplots(figsize=(12, 10))
         bars3 = ax3.barh(range(len(bairro_analysis)), bairro_analysis['PONTUACAO'], 

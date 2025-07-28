@@ -538,7 +538,7 @@ try:
         st.subheader("🔬 Metodologia Aplicada")
         st.markdown("""
         **Critérios de Análise:**
-        - Filtro de confiabilidade: Apenas bairros com 3+ estabelecimentos
+        - Filtro de confiabilidade: Apenas bairros com 10+ estabelecimentos
         - Tratamento de dados: Exclusão de valores ausentes em análises críticas
         - Múltiplas perspectivas: Rankings, correlações, distribuições geográficas
         - Visualizações interativas: Mapeamento com Folium para exploração detalhada

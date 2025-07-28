@@ -39,7 +39,7 @@ try:
     ])
     
     with tab1:
-        st.header("📈 Panorama Geral do Mercado")
+        st.header("Panorama Geral do Mercado")
         
         col1, col2, col3, col4 = st.columns(4)
         with col1:
@@ -76,9 +76,9 @@ try:
         
         st.markdown(f"""
         **Insights de Mercado:**
-        - 🥇 **Segmento dominante**: {tipo_counts.index[0]} com {tipo_counts.iloc[0]} unidades
-        - 📉 **Menor representação**: {tipo_counts.index[-1]} com {tipo_counts.iloc[-1]} unidades
-        - 📊 **Diferença de mercado**: {tipo_counts.iloc[0] - tipo_counts.iloc[-1]} unidades entre maior e menor segmento
+        -  **Segmento dominante**: {tipo_counts.index[0]} com {tipo_counts.iloc[0]} unidades
+        -  **Menor representação**: {tipo_counts.index[-1]} com {tipo_counts.iloc[-1]} unidades
+        -  **Diferença de mercado**: {tipo_counts.iloc[0] - tipo_counts.iloc[-1]} unidades entre maior e menor segmento
         """)
         
         st.markdown("---")
@@ -106,13 +106,13 @@ try:
         concentracao = (bairro_counts.sum() / len(df_filtrado)) * 100
         st.markdown(f"""
         **Análise de Concentração:**
-        - 🎯 **Bairro líder**: {bairro_counts.index[0]} com {bairro_counts.iloc[0]} estabelecimentos
-        - 📍 **Concentração**: Top 15 bairros representam {concentracao:.1f}% do mercado total
-        - 🏙️ **Padrão**: Mercado altamente concentrado nos centros urbanos
+        -  **Bairro líder**: {bairro_counts.index[0]} com {bairro_counts.iloc[0]} estabelecimentos
+        -  **Concentração**: Top 15 bairros representam {concentracao:.1f}% do mercado total
+        -  **Padrão**: Mercado altamente concentrado nos centros urbanos
         """)
     
     with tab2:
-        st.header("🏆 Análise de Qualidade por Região")
+        st.header("Análise de Qualidade por Região")
         
         # Ranking geral
         st.subheader("Ranking Geral de Bairros por Qualidade")
@@ -121,7 +121,7 @@ try:
             'PONTUACAO': 'mean',
             'NOME': 'count'
         }).reset_index()
-        bairro_analysis = bairro_analysis[bairro_analysis['NOME'] >= 3].sort_values('PONTUACAO', ascending=True)
+        bairro_analysis = bairro_analysis[bairro_analysis['NOME'] >= 10].sort_values('PONTUACAO', ascending=True)
         
         fig3, ax3 = plt.subplots(figsize=(12, 10))
         bars3 = ax3.barh(range(len(bairro_analysis)), bairro_analysis['PONTUACAO'], 
@@ -146,8 +146,8 @@ try:
             bottom_3 = bairro_analysis.head(3)['BAIRRO'].tolist()
             st.markdown(f"""
             **Ranking de Qualidade:**
-            - 🥇 **Top 3 bairros**: {', '.join(reversed(top_3))}
-            - 📉 **Menores pontuações**: {', '.join(bottom_3)}
+            -  **Top 3 bairros**: {', '.join(reversed(top_3))}
+            -  **Menores pontuações**: {', '.join(bottom_3)}
             """)
         
         st.markdown("---")
@@ -215,12 +215,12 @@ try:
             st.markdown("**Líderes por Categoria:**")
             for tipo, dados in resultados_por_tipo.items():
                 st.markdown(f"""
-                - **{tipo}**: 🥇 {dados['melhor']} (melhor) | 📉 {dados['pior']} (menor pontuação)  
+                - **{tipo}**:  {dados['melhor']} (melhor) |  {dados['pior']} (menor pontuação)  
                   _{dados['total']} estabelecimentos em {dados['bairros_analisados']} bairros_
                 """)
     
     with tab3:
-        st.header("🔍 Análise de Correlações e Padrões")
+        st.header("Análise de Correlações e Padrões")
         
         # Matriz de correlação
         st.subheader("Matriz de Correlação - Variáveis Numéricas")
@@ -281,10 +281,10 @@ try:
             
             st.markdown(f"""
             **Análise dos Tempos de Entrega:**
-            - 📊 **Correlação MIN vs MAX**: {correlacao_tempo:.3f}
-            - ⏱️ **Diferença média**: {diferenca_media:.1f} minutos
-            - 🕐 **Tempo mínimo mais comum**: {df_tempo['TEMPO_MIN_M'].mode().iloc[0]:.0f} min
-            - 🕕 **Tempo máximo mais comum**: {df_tempo['TEMPO_MAX_M'].mode().iloc[0]:.0f} min
+            - **Correlação MIN vs MAX**: {correlacao_tempo:.3f}
+            - **Diferença média**: {diferenca_media:.1f} minutos
+            - **Tempo mínimo mais comum**: {df_tempo['TEMPO_MIN_M'].mode().iloc[0]:.0f} min
+            - **Tempo máximo mais comum**: {df_tempo['TEMPO_MAX_M'].mode().iloc[0]:.0f} min
             """)
         
         st.markdown("---")
@@ -323,7 +323,7 @@ try:
                     st.markdown(f"- **{tipo}**: Correlação = {corr:.3f} ({len(df_tipo)} estabelecimentos)")
     
     with tab4:
-        st.header("🗺️ Mapeamento Geográfico Interativo")
+        st.header("Mapeamento Geográfico Interativo")
         
         # Filtro de pontuação para o mapa
         min_pontuacao = st.slider("Pontuação mínima para exibir no mapa:", 0.0, 5.0, 3.5, 0.1)
@@ -427,19 +427,19 @@ try:
             # Estatísticas finais
             st.markdown(f"""
             **Análise Geográfica:**
-            - 📍 **Total de estabelecimentos bem avaliados**: {len(df_mapa)}
-            - 🏘️ **Bairros representados**: {df_mapa['BAIRRO'].nunique()}
-            - 📊 **Concentração no top 5 bairros**: {len(df_top_bairros)/len(df_mapa)*100:.1f}%
-            - ⭐ **Pontuação média geral**: {df_mapa['PONTUACAO'].mean():.2f}
+            - **Total de estabelecimentos bem avaliados**: {len(df_mapa)}
+            - **Bairros representados**: {df_mapa['BAIRRO'].nunique()}
+            - **Concentração no top 5 bairros**: {len(df_top_bairros)/len(df_mapa)*100:.1f}%
+            - **Pontuação média geral**: {df_mapa['PONTUACAO'].mean():.2f}
             """)
         else:
             st.warning(f"Nenhum estabelecimento encontrado com pontuação ≥ {min_pontuacao}")
     
     with tab5:
-        st.header("📋 Insights e Recomendações de Negócio")
+        st.header("Insights e Recomendações de Negócio")
         
         # Limitações dos dados
-        st.subheader("⚠️ Limitações dos Dados Atuais")
+        st.subheader("Limitações dos Dados Atuais")
         
         col1, col2 = st.columns(2)
         
@@ -465,7 +465,7 @@ try:
         st.markdown("---")
         
         # Recomendações por perfil
-        st.subheader("🎯 Recomendações por Perfil")
+        st.subheader("Recomendações por Perfil")
         
         tab_consumidor, tab_empresario, tab_investidor = st.tabs(["👥 Consumidor", "🏢 Empresário", "💰 Investidor"])
 
@@ -483,7 +483,7 @@ try:
                     st.markdown(f"- {bairro}")
                 
                 st.markdown("""
-                📱 **Dicas:**
+                **Dicas:**
                 - Prefira estabelecimentos com mais de 50 comentários
                 - Verifique tempos de entrega antes de pedir
                 - Explore diferentes tipos nos bairros bem avaliados
@@ -497,12 +497,12 @@ try:
                 st.markdown(f"""
                 **Para Empresários:**
                 
-                📈 **Oportunidades de Mercado:**
+                **Oportunidades de Mercado:**
                 - Segmento saturado: {segmento_dominante}
                 - Menor competição: {menor_competicao}
                 - Foco em qualidade vs quantidade
-                
-                🎯 **Estratégias:**
+
+                **Estratégias:**
                 - Invista em bairros com alta demanda e baixa oferta
                 - Mantenha consistência nos tempos de entrega
                 - Busque avaliações positivas constantes
@@ -515,12 +515,12 @@ try:
                 st.markdown(f"""
                 **Para Investidores:**
                 
-                💼 **Análise de Mercado:**
+                **Análise de Mercado:**
                 - Concentração geográfica: {concentracao_top10:.1f}% em 10 bairros
                 - Mercado fragmentado com oportunidades
                 - ROI potencial em bairros emergentes
-                
-                📊 **Recomendações:**
+
+                **Recomendações:**
                 - Diversifique entre tipos de estabelecimento
                 - Monitore correlação popularidade x qualidade
                 - Invista em tecnologia para gestão de tempos
@@ -532,7 +532,7 @@ try:
         st.subheader("🔬 Metodologia Aplicada")
         st.markdown("""
         **Critérios de Análise:**
-        - Filtro de confiabilidade: Apenas bairros com 3+ estabelecimentos
+        - Filtro de confiabilidade: Apenas bairros com 10+ estabelecimentos
         - Tratamento de dados: Exclusão de valores ausentes em análises críticas
         - Múltiplas perspectivas: Rankings, correlações, distribuições geográficas
         - Visualizações interativas: Mapeamento com Folium para exploração detalhada

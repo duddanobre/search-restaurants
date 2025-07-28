@@ -474,22 +474,24 @@ try:
         st.subheader("🎯 Recomendações por Perfil")
         
         tab_consumidor, tab_empresario, tab_investidor = st.tabs(["👥 Consumidor", "🏢 Empresário", "💰 Investidor"])
-        
+
         with tab_consumidor:
             if len(bairro_analysis) > 0:
                 melhores_bairros = bairro_analysis.tail(5)['BAIRRO'].tolist()
+                bairros_formatados = '\n'.join([f"- {bairro}" for bairro in reversed(melhores_bairros)])
+                
                 st.markdown(f"""
                 **Para Consumidores:**
                 
                 🏆 **Melhores bairros para comer bem:**
-                {chr(10).join([f"- {bairro}" for bairro in reversed(melhores_bairros)])}
+                {bairros_formatados}
                 
                 📱 **Dicas:**
                 - Prefira estabelecimentos com mais de 50 comentários
                 - Verifique tempos de entrega antes de pedir
                 - Explore diferentes tipos nos bairros bem avaliados
                 """)
-        
+
         with tab_empresario:
             if len(df_filtrado) > 0:
                 segmento_dominante = df_filtrado['TIPO'].value_counts().index[0]

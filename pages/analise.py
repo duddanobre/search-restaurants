@@ -118,7 +118,7 @@ try:
         """)
     
     with tab2:
-        st.header("🏆 Análise de Qualidade por Região")
+        st.header("Análise de Qualidade por Região")
         
         # Ranking geral
         st.subheader("Ranking Geral de Bairros por Qualidade")

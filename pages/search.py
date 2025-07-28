@@ -1,14 +1,40 @@
 import streamlit as st
 
 from components.sidebar import sidebar
+from components.showMapEstablishments import show_map_establishments
 
 from services.searchDelivery import searchDelivery
+from services.searchDineIn import searchDineIn
+
 
 def handle_delivery_search():
     address = st.session_state.delivery_address
     rating = st.session_state.delivery_rating
-    wait_time = st.session_state.delivery_wait_time
-    searchDelivery(address, rating, wait_time)
+    wait_time_range = st.session_state.delivery_wait_range
+
+    results = searchDelivery(address, rating, wait_time_range)
+
+    if results.empty:
+        st.success("Buscando restaurantes com os filtros selecionados...")
+        st.warning("Nenhum restaurante encontrado com os filtros selecionados.")
+    else:
+        st.success(f"{len(results)} restaurantes encontrados.")
+        show_map_establishments(results)
+
+def handle_dine_in_search():
+    address = st.session_state.dine_in_address
+    rating = st.session_state.dine_in_rating
+    wait_time_range = st.session_state.dine_in_wait_range
+
+    results = searchDineIn(address, rating, wait_time_range)
+
+    if results.empty:
+        st.success("Buscando restaurantes com os filtros selecionados...")
+        st.warning("Nenhum restaurante encontrado com os filtros selecionados.")
+    else:
+        st.success(f"{len(results)} restaurantes encontrados.")
+        show_map_establishments(results)
+
 
 sidebar()
 
@@ -58,7 +84,7 @@ st.markdown('<div class="custom-sub">Você pode buscar restaurantes delivery ou 
 tab1, tab2 = st.tabs(["Restaurantes Delivery", "Restaurantes Consumo no Local"])
 
 with tab1:
-     with st.form("delivery_form"):
+    with st.form("delivery_form"):
         st.markdown("""
             <div class="custom-sub">
             Aqui você pode buscar por restaurantes que oferecem serviço de entrega. Utilize os filtros abaixo para encontrar o que melhor atende às suas necessidades.
@@ -74,34 +100,40 @@ with tab1:
 
         col1, col2 = st.columns(2)
         with col1:
-            st.slider("Avaliação", 0, 5, (0, 5), step=1, help="Selecione a faixa de avaliação desejada", key="delivery_rating")
+            st.slider("Avaliação", 0.0, 5.0, (0.0, 5.0), step=0.1, key="delivery_rating", help="Selecione a faixa de avaliação desejada")
 
         with col2:
-            st.selectbox("Tempo de Espera (minutos)", ['Menor tempo (min)', 'Maior tempo (min)'], index=0, help="Selecione o tempo de espera máximo desejado", key="delivery_wait_time")
+            st.slider("Tempo de Espera (minutos)", min_value=0, max_value=120, value=(0, 60), step=5, help="Selecione a faixa de tempo de espera desejada", key="delivery_wait_range")
         
-        submitted = st.form_submit_button("🔍 Buscar", on_click=handle_delivery_search)
+        submitted_delivery = st.form_submit_button("🔍 Buscar")
 
-        if submitted:
-            st.success("Buscando restaurantes com os filtros selecionados...")
+    if submitted_delivery:
+        handle_delivery_search()
 
 with tab2:
-    st.markdown("""
-    <div class="custom-sub">
-        Aqui você pode buscar por restaurantes onde é possível consumir no local. Utilize os filtros abaixo para encontrar o que melhor atende às suas necessidades.
-        <ul>
-            <li><strong>Localização:</strong> Insira seu endereço ou utilize sua localização atual.</li>
-            <li><strong>Avaliação:</strong> Filtre por avaliações de clientes.</li>
-            <li><strong>Tempo de Espera:</strong> Escolha o tempo de espera ideal para você.</li>
-        </ul>
-    </div>
-    """, unsafe_allow_html=True)
+    with st.form("dine_in_form"):
+        st.markdown("""
+        <div class="custom-sub">
+            Aqui você pode buscar por restaurantes onde é possível consumir no local. Utilize os filtros abaixo para encontrar o que melhor atende às suas necessidades.
+            <ul>
+                <li><strong>Localização:</strong> Insira seu endereço ou utilize sua localização atual.</li>
+                <li><strong>Avaliação:</strong> Filtre por avaliações de clientes.</li>
+                <li><strong>Tempo de Espera:</strong> Escolha o tempo de espera ideal para você.</li>
+            </ul>
+        </div>
+        """, unsafe_allow_html=True)
 
-    st.text_input("Endereço", placeholder="Digite seu endereço ou use sua localização atual", key="dine_in_address")
+        st.text_input("Endereço", placeholder="Digite seu endereço ou use sua localização atual", key="dine_in_address")
 
-    col1, col2 = st.columns(2)
-    with col1:
-        st.slider("Avaliação", 0, 5, (0, 5), step=1, help="Selecione a faixa de avaliação desejada", key="dine_in_rating")
+        col1, col2 = st.columns(2)
+        with col1:
+            st.slider("Avaliação", 0.0, 5.0, (0.0, 5.0), step=0.1, key="dine_in_rating", help="Selecione a faixa de avaliação desejada")
 
-    with col2:
-        st.selectbox("Tempo de Espera (minutos)", ['Menor tempo (min)', 'Maior tempo (min)'], index=0, help="Selecione o tempo de espera máximo desejado", key="dine_in_wait_time")
+        with col2:
+            st.slider("Tempo de Espera (minutos)", min_value=0, max_value=120, value=(0, 60), step=5, help="Selecione a faixa de tempo de espera desejada", key="dine_in_wait_range")
+
+        submitted_dine_in = st.form_submit_button("🔍 Buscar")
+
+        if submitted_dine_in:
+            handle_dine_in_search()
 

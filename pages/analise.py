@@ -10,13 +10,10 @@ from components.sidebar import sidebar
 
 sidebar()
 
-# Configuração da página
 st.set_page_config(page_title="Análise de Mercado", layout="wide")
 
-# Título principal
 st.title("📊 Análise Completa do Mercado de Estabelecimentos Alimentares em Fortaleza")
 
-# Carregamento dos dados
 @st.cache_data
 def load_data():
     return pd.read_csv('database/dadosTratados/df_final_comGeo.csv')
@@ -24,7 +21,6 @@ def load_data():
 try:
     df_final = load_data()
     
-    # Sidebar com filtros
     st.sidebar.header("Filtros de Análise")
     tipos_selecionados = st.sidebar.multiselect(
         "Tipos de Estabelecimento:",
@@ -32,10 +28,8 @@ try:
         default=df_final['TIPO'].unique()
     )
     
-    # Filtrar dados
     df_filtrado = df_final[df_final['TIPO'].isin(tipos_selecionados)]
     
-    # Abas principais
     tab1, tab2, tab3, tab4, tab5 = st.tabs([
         "📈 Panorama Geral", 
         "🏆 Qualidade por Região", 

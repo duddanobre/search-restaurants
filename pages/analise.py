@@ -478,14 +478,17 @@ try:
         with tab_consumidor:
             if len(bairro_analysis) > 0:
                 melhores_bairros = bairro_analysis.tail(5)['BAIRRO'].tolist()
-                bairros_formatados = '\n'.join([f"- {bairro}" for bairro in reversed(melhores_bairros)])
                 
-                st.markdown(f"""
+                st.markdown("""
                 **Para Consumidores:**
                 
                 🏆 **Melhores bairros para comer bem:**
-                {bairros_formatados}
+                """)
                 
+                for bairro in reversed(melhores_bairros):
+                    st.markdown(f"- {bairro}")
+                
+                st.markdown("""
                 📱 **Dicas:**
                 - Prefira estabelecimentos com mais de 50 comentários
                 - Verifique tempos de entrega antes de pedir

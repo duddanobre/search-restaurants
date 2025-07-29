@@ -89,7 +89,7 @@ with tab1:
             <div class="custom-sub">
             Aqui você pode buscar por restaurantes que oferecem serviço de entrega. Utilize os filtros abaixo para encontrar o que melhor atende às suas necessidades.
             <ul>
-                <li><strong>Localização:</strong> Insira seu endereço ou utilize sua localização atual.</li>
+                <li><strong>Localização:</strong> Insira seu endereço ou bairro desejado.</li>
                 <li><strong>Avaliação:</strong> Filtre por avaliações de clientes.</li>
                 <li><strong>Tempo de Espera:</strong> Escolha o tempo de espera ideal para você.</li>
             </ul>
@@ -116,7 +116,7 @@ with tab2:
         <div class="custom-sub">
             Aqui você pode buscar por restaurantes onde é possível consumir no local. Utilize os filtros abaixo para encontrar o que melhor atende às suas necessidades.
             <ul>
-                <li><strong>Localização:</strong> Insira seu endereço ou utilize sua localização atual.</li>
+                <li><strong>Localização:</strong> Insira seu endereço ou bairro desejado.</li>
                 <li><strong>Avaliação:</strong> Filtre por avaliações de clientes.</li>
                 <li><strong>Tempo de Espera:</strong> Escolha o tempo de espera ideal para você.</li>
             </ul>

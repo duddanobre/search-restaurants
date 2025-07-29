@@ -218,7 +218,7 @@ try:
                 - **{tipo}**:  {dados['melhor']} (melhor) |  {dados['pior']} (menor pontuação)  
                   _{dados['total']} estabelecimentos em {dados['bairros_analisados']} bairros_
                 """)
-    
+
     with tab3:
         st.header("Análise de Correlações e Padrões")
         
@@ -227,22 +227,32 @@ try:
         
         colunas_numericas = ['PONTUACAO', 'NUM_COMENTARIO', 'TEMPO_MIN_M', 'TEMPO_MAX_M', 'LATITUDE', 'LONGITUDE']
         df_corr = df_filtrado[colunas_numericas].dropna()
-        
+        # Dicionário para nomes mais legíveis
+        colunas_legiveis = {
+            'PONTUACAO': 'Pontuação',
+            'NUM_COMENTARIO': 'Nº Comentários',
+            'TEMPO_MIN_M': 'Tempo Mínimo (min)',
+            'TEMPO_MAX_M': 'Tempo Máximo (min)',
+            'LATITUDE': 'Latitude',
+            'LONGITUDE': 'Longitude'
+        }
         if len(df_corr) > 0:
+            # Renomear colunas para exibição
+            df_corr_legivel = df_corr.rename(columns=colunas_legiveis)
             fig5, ax5 = plt.subplots(figsize=(10, 8))
-            correlation_matrix = df_corr.corr()
+            correlation_matrix = df_corr_legivel.corr()
             mask = np.triu(np.ones_like(correlation_matrix, dtype=bool))
-            
-            sns.heatmap(correlation_matrix, 
-                       mask=mask,
-                       annot=True, 
-                       cmap='RdBu_r', 
-                       center=0,
-                       fmt='.3f',
-                       square=True,
-                       cbar_kws={'label': 'Correlação'},
-                       ax=ax5)
-            
+            sns.heatmap(
+                correlation_matrix,
+                mask=mask,
+                annot=True,
+                cmap='RdBu_r',
+                center=0,
+                fmt='.3f',
+                square=True,
+                cbar_kws={'label': 'Correlação'},
+                ax=ax5
+            )
             ax5.set_title('Matriz de Correlação - Todas as Variáveis Numéricas')
             plt.tight_layout()
             st.pyplot(fig5)

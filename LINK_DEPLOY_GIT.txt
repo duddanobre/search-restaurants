@@ -1,0 +1,2 @@
+LINK_DEPLOY_APP: "https://search-restaurants-4yhjcpe7t8xa3n7mkw3jtx.streamlit.app/search"
+LINK_REPO_GITHUB: "https://github.com/duddanobre/search-restaurants"

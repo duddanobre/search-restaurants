@@ -24,7 +24,7 @@ def searchDelivery(address: str, rating_range: tuple, wait_time_range: tuple = (
 
     # Se não houver endereço, retorna os dados filtrados sem cálculo de distância
     if not address:
-        return df
+        return df, None
     
 
     # Geocodificação

@@ -49,7 +49,7 @@ def show_map_establishments(df_mapa, titulo="Estabelecimentos", user_location=No
         geojson_data = geojson.Feature(geometry=mapping(ring), properties={})
 
         # Cria grupo com nome para aparecer na legenda
-        anel_group = folium.FeatureGroup(name=f"🔵 Área de busca: {distance_range[0]}km a {distance_range[1]}km")
+        anel_group = folium.FeatureGroup(name=f"⚫ Área de busca: {distance_range[0]}km a {distance_range[1]}km")
 
         folium.GeoJson(
             geojson_data,

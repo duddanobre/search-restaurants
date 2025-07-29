@@ -2,51 +2,56 @@ import pandas as pd
 from geopy.geocoders import ArcGIS
 from geopy.distance import distance
 from services.loadData import load_data
+from typing import Tuple, Union
 
-def searchDineIn(address: str, rating_range: tuple, wait_time_range: tuple = (0, 60), max_distance_km: float = 3):
+def searchDineIn(address: str, rating_range: tuple, wait_time_range: tuple = (0, 60), distance_km: tuple = (0, 10)) -> Tuple[pd.DataFrame, Union[Tuple[float, float], None]]:
+    """
+    Retorna:
+    - DataFrame com estabelecimentos filtrados
+    - Tupla com (latitude, longitude) do endereço pesquisado ou None se não for fornecido
+    """
     # Carrega os dados
     df = load_data()
     
-    # Filtra estabelecimentos que não são delivery (restaurantes para comer no local)
+    # Filtra estabelecimentos que não são delivery
     df = df[(df['TIPO'] != "Delivery De Comida")]
     
-    # Filtra por avaliação
+    # Filtros básicos
     min_rating, max_rating = rating_range
     df = df[(df['PONTUACAO'] >= min_rating) & (df['PONTUACAO'] <= max_rating)]
     
-    # Filtra por tempo de espera
     min_time, max_time = wait_time_range
     df = df[(df['TEMPO_MIN_M'] >= min_time) & (df['TEMPO_MAX_M'] <= max_time)]
     
-    # Se não houver endereço, retorna os dados filtrados sem cálculo de distância
+
+    min_distance, max_distance = distance_km
+    # Se não houver endereço, retorna sem coordenadas
     if not address:
-        return df
+        return df, None
     
-    # Geocodificação do endereço do usuário
+    # Geocodificação
     geolocator = ArcGIS(timeout=10)
     try:
+        address += " , Fortaleza"  # garante foco geográfico
         location = geolocator.geocode(address)
+
         if not location:
             print("Endereço não encontrado. Retornando resultados sem filtro de distância.")
-            return df
+            return df, None
             
-        user_lat, user_lon = location.latitude, location.longitude
+        user_coords = (location.latitude, location.longitude)
         
-        # Calcula distância para cada estabelecimento
+        # Cálculo de distância
         def calculate_distance(row):
             if pd.isna(row['LATITUDE']) or pd.isna(row['LONGITUDE']):
-                return float('inf')  # Retorna infinito se não tiver coordenadas
-            return distance((user_lat, user_lon), (row['LATITUDE'], row['LONGITUDE'])).km
+                return float('inf')
+            return distance(user_coords, (row['LATITUDE'], row['LONGITUDE'])).km
         
         df['DISTANCIA_KM'] = df.apply(calculate_distance, axis=1)
+        df = df[(df['DISTANCIA_KM'] >= min_distance) & (df['DISTANCIA_KM'] <= max_distance)].sort_values('DISTANCIA_KM')
         
-        # Filtra por distância máxima
-        df = df[df['DISTANCIA_KM'] <= max_distance_km]
-        
-        # Ordena por distância (opcional) - mais próximos primeiro
-        df = df.sort_values('DISTANCIA_KM')
+        return df, user_coords
         
     except Exception as e:
-        print(f"Erro ao geocodificar endereço: {e}. Retornando resultados sem filtro de distância.")
-    
-    return df
+        print(f"Erro ao geocodificar: {e}")
+        return df, None

@@ -26,7 +26,6 @@ def searchDelivery(address: str, rating_range: tuple, wait_time_range: tuple = (
     if not address:
         return df, None
     
-
     # Geocodificação
     geolocator = ArcGIS(timeout=10)
     try:

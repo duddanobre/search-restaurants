@@ -111,10 +111,4 @@ streamlit run index.py
 - **Dados**: Ana Caroline Vieira Amorim
 - **Engenharia**: Carlos Eduardo Oliveira Martins
 
-## 🌟 Contexto Cultural
 
-O projeto valoriza a rica tradição gastronômica de Fortaleza, que remonta ao movimento da **Padaria Espiritual (1892-1898)** - uma das mais originais agremiações literárias do Brasil, que transformou espaços gastronômicos em centros de efervescência cultural. Hoje, a aplicação dá continuidade a essa tradição, conectando dados, cultura e experiências gastronômicas.
-
----
-
-*Uma ferramenta completa para descobrir, analisar e compreender a gastronomia fortalezense através da ciência de dados.*
